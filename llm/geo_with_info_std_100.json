@@ -1,0 +1,702 @@
+[
+    {
+        "questionId":"016F2BE4EF3D4CCBA0D2718769DA7C1C",
+        "stem":"\u4e09\u89d2\u5f62\u4e2d,\u9876\u89d2\u7b49\u4e8e$36^\\circ $\u7684\u7b49\u8170\u4e09\u89d2\u5f62\u79f0\u4e3a\u9ec4\u91d1\u4e09\u89d2\u5f62,\u5982\u56fe\u2460,\u5728$\\vartriangle ABC$\u4e2d,\u5df2\u77e5:$AB=AC$,\u4e14$\\angle A=36^\\circ $.",
+        "subStem":"(1)\u5728\u56fe\u2460\u4e2d,\u7528\u5c3a\u89c4\u4f5c$AB$\u7684\u5782\u76f4\u5e73\u5206\u7ebf\u4ea4$AC$\u4e8e$D$,\u5e76\u8fde\u63a5$BD$(\u4fdd\u7559\u4f5c\u56fe\u75d5\u8ff9,\u4e0d\u5199\u4f5c\u6cd5);#%#(2)$\\vartriangle BCD$\u662f\u4e0d\u662f\u9ec4\u91d1\u4e09\u89d2\u5f62?\u5982\u679c\u662f,\u8bf7\u7ed9\u51fa\u8bc1\u660e;\u5982\u679c\u4e0d\u662f,\u8bf7\u8bf4\u660e\u7406\u7531;#%#(3)\u8bbe$\\frac{BC}{AC}=k$\uff0c\u8bd5\u6c42$k$\u7684\u503c;#%#(4)\u5982\u56fe\u2461,\u5728$\\vartriangle {{A}_{1}}{{B}_{1}}{{C}_{1}}$\u4e2d,\u5df2\u77e5${{A}_{1}}{{B}_{1}}={{A}_{1}}{{C}_{1}}$,$\\angle {{A}_{1}}=108^\\circ $,\u4e14${{A}_{1}}{{B}_{1}}=AB$,\u8bf7\u76f4\u63a5\u5199\u51fa$\\frac{BC}{{{B}_{1}}{{C}_{1}}}$\u7684\u503c.",
+        "geoInfo":"{\"stem\":{\"pictures\":[],\"appliedproblems\":{}},\"substems\":[{\"substemid\":\"1\",\"questionrelies\":\"\",\"pictures\":[{\"picturename\":\"1000005854_Q_1.jpg\",\"coordinates\":{\"A\":\"-3.41,7.22\",\"B\":\"-5.56,0.24\",\"C\":\"-1.04,0.31\",\"D\":\"-1.95,2.95\"},\"collineations\":{\"0\":\"A###D###C\",\"1\":\"B###A\",\"2\":\"B###C\",\"3\":\"B###D\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},{\"substemid\":\"2\",\"questionrelies\":\"1\",\"pictures\":[],\"appliedproblems\":{}},{\"substemid\":\"3\",\"questionrelies\":\"2\",\"pictures\":[],\"appliedproblems\":{}},{\"substemid\":\"4\",\"questionrelies\":\"3\",\"pictures\":[{\"picturename\":\"1000005854_Q_2.jpg\",\"coordinates\":{\"A_{1}\":\"-8.41,-1.44\",\"B_{1}\":\"-13.76,-6.41\",\"C_{1}\":\"-2.03,-4.99\"},\"collineations\":{\"0\":\"A_{1}###B_{1}\",\"1\":\"A_{1}###C_{1}\",\"2\":\"B_{1}###C_{1}\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}}]}",
+        "std":"\u2235$\\angle A=36^\\circ $,$AB=AC$    \n\u2235$\\angle A=36^\\circ $,$AB=AC$\n$=\\frac{\\sqrt{5}-1}{2}\\times \\frac{\\sqrt{5}-1}{2}=\\frac{3-\\sqrt{5}}{2}$\n(2)$\\vartriangle BCD$\u662f\u9ec4\u91d1\u4e09\u89d2\u5f62\n\u2234$AE={{B}_{1}}{{C}_{1}}$\n\u2234$\\angle ABD=\\angle DBC=36^\\circ $\n\u2234$\\vartriangle BDC\\sim \\vartriangle ABC$\n\u2234$\\frac{BC}{{{B}_{1}}{{C}_{1}}}=\\frac{BC}{AE}=\\frac{BC}{AB}\\times \\frac{AB}{AE}$\n\n\u2234$\\angle ACE=\\angle {{B}_{1}}{{A}_{1}}{{C}_{1}}$                \n\u2234$\\frac{BC}{AC}=\\frac{DC}{BC}$,\u5373$\\frac{x}{y}=\\frac{y-x}{x}$\n\u56e0\u4e3a$x$\u3001$y$\u5747\u4e3a\u6b63\u6570,\u6240\u4ee5$k=\\frac{x}{y}=\\frac{\\sqrt{5}-1}{2}$\n\n(3)\u8bbe$BC=x$,$AC=y$\n\u2234$AC=CE={{A}_{1}}{{B}_{1}}={{A}_{1}}{{C}_{1}}$\n\u2234$\\angle ABD=\\angle A$\n\u2234$\\vartriangle ACE\\cong \\vartriangle {{B}_{1}}{{A}_{1}}{{C}_{1}}$\n\u2234$\\frac{BC}{AB}=\\frac{BC}{AC}=\\frac{\\sqrt{5}-1}{2}$,$\\frac{AB}{AE}=\\frac{\\sqrt{5}-1}{2}$\n\u53c8\u2235$\\angle BDC=\\angle A+\\angle ABD=72^\\circ $\n\u2235$\\angle DBC=\\angle A$,$\\angle C=\\angle C$\n\u2235${{A}_{1}}{{B}_{1}}=AB$   \n\u7531(2)\u77e5,$AD=BD=BC=x$\n\u2234$\\angle ACB=\\angle B=72^\\circ $\n\u2234$\\angle ACE="
+    },
+    {
+        "questionId":"02BDADF9D39D4C3DBBFE9E3E2AA2BF3C",
+        "stem":"\u5982\u56fe,\u5728$\u25b3ABC$\u4e2d,$AB=BC=12cm$,$\u2220ABC=80\u00b0$,BD\u662f$\u2220ABC$\u7684\u5e73\u5206\u7ebf,$DE\u2225BC$.",
+        "subStem":"(1)\u6c42$\u2220EDB$\u7684\u5ea6\u6570;#%#(2)\u6c42DE\u7684\u957f.",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"1000027589_Q_1.jpg\",\"coordinates\":{\"A\":\"0.69,3.94\",\"B\":\"0.00,0.00\",\"C\":\"4.00,0.00\",\"D\":\"2.35,1.97\",\"E\":\"0.35,1.97\"},\"collineations\":{\"0\":\"A###E###B\",\"1\":\"A###D###C\",\"2\":\"B###C\",\"3\":\"B###D\",\"4\":\"D###E\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[{},{\"questionrelies\":\"1\"}]}",
+        "std":"\u2234$ED=EB$\n\u89e3:(1) \u2235SDE\u2225BCS,BD\u662f$\u2220ABC$\u7684\u5e73\u5206\u7ebf\n\u2235$DE\u2225BC$,$AB=BC$\n\u2234$\u2220A=\u2220C=\u2220ADE$\n\u2234$EA=ED$\n\u2234$\u2220EDB=\u2220DBC=frac{1}{2}\\angle ABC=40\u00b0$\n\u2234$DE=\\frac{1}{2}AB=6cm$\n(2)\u2235$\u2220EDB=40\u00b0=\u2220EBD$"
+    },
+    {
+        "questionId":"033A47D7885F413F9763EC8E1EF0AA7E",
+        "stem":"(2016\u79cb\u2022\u83b2\u6e56\u533a\u671f\u4e2d)\u5982\u56fe\uff0c\u56db\u8fb9\u5f62\u662f\u6b63\u65b9\u5f62\uff0c\u70b9G\u662fBC\u8fb9\u4e0a\u4efb\u610f\u4e00\u70b9\uff0cDE\u22a5AG\u4e8e\u70b9E\uff0cBF\u2225DE\u4e14\u4ea4AG\u4e8e\u70b9F.",
+        "subStem":"(1)\u6c42\u8bc1:AE=BF;#%#(2)\u5982\u56fe\uff0c\u8fde\u63a5DF\u3001CE\uff0c\u63a2\u7a76\u7ebf\u6bb5DF\u4e0eCE\u7684\u5173\u7cfb\u5e76\u8bc1\u660e.",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"3,0\",\"C\":\"3,3\",\"D\":\"0,3\",\"G\":\"3,1.2215403362771697\",\"E\":\"1.0478168647272192,0.42665018843192565\",\"F\":\"2.5733498115680744,1.047816864727219\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###G###C\",\"2\":\"C###D\",\"3\":\"D###A\",\"4\":\"A###E###F###G\",\"5\":\"D###E\",\"6\":\"B###F\"},\"circles\":[]}",
+        "std":"\u2234\u25b3AFB\u224c\u25b3DEA(AAS),\n\u2234BF=AE;\n\u2234\u25b3FAD\u224c\u25b3EDC(SAS),\n\u2235\u2220EAD+\u2220ADE=90\u00b0,\n\u2235\u2220ADF+\u2220CDF=\u2220ADC=90\u00b0,\n\u2234BF\u22a5AG\u4e8e\u70b9F,\n\u2234\u2220BAF=\u2220ADE,\n\u2234AF=DE,\n\u2234DF\u22a5CE.\n\u5728\u25b3AFB\u548c\u25b3DEA\u4e2d,\n\u2234\u2220AED=\u2220BFA=90\u00b0,\n\u2234AD=CD,\n(1)\u8bc1\u660e:\u2235DE\u22a5AG\u4e8e\u70b9E\uff0cBF\u2225DE\u4e14\u4ea4AG\u4e8e\u70b9F,\n\u2234\u2220DCE+\u2220CDF=90\u00b0,\n\u2235\u25b3AFB\u224c\u25b3DEA,\n\u53c8\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n(2)DF=CE\u4e14DF\u22a5CE.\n\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2234\u2220FAD=\u2220EDC,\n\u2234AB=AD\u4e14\u2220BAD=\u2220ADC=90\u00b0,\n\u5728\u25b3FAD\u548c\u25b3EDC\u4e2d,\n\u7406\u7531\u5982\u4e0b:\u2235\u2220FAD+\u2220ADE=90\u00b0,\u2220EDC+\u2220ADE=\u2220ADC=90\u00b0,\n\u2234DF=CE\u4e14\u2220ADF=\u2220DCE,\n\u2234\u2220BAF+\u2220EAD=90\u00b0,"
+    },
+    {
+        "questionId":"03CDEEE765AC4173BF21CB8041C08C6C",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u25b3ABC\u223d\u25b3ADE,AE=50cm,EC=30cm,BC=70cm\uff0c\u2220BAC=45\u00b0\uff0c\u2220ACB=40\u00b0\uff0c\u6c42\u2220AED\u548c\u2220ADE\u7684\u5ea6\u6570\u53caDE\u7684\u957f\u5ea6.#%#",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"E\":\"3.5355339,3.5355339\",\"C\":\"5.65685424,5.65685424\",\"B\":\"5.045545559299188,-1.330435953542315\",\"D\":\"3.1534659745619917,-0.8315224709639507\"},\"collineations\":{\"0\":\"A###E###C\",\"1\":\"B###C\",\"2\":\"A###D###B\",\"3\":\"E###D\"},\"circles\":[]}",
+        "std":"\u2234\u2220B=180\u00b0\ufe6345\u00b0\ufe6340\u00b0=95\u00b0\n\u2235\u25b3ABC\u223d\u25b3ADE\n\u2235AE=50cm,EC=30cm\n\u89e3\u5f97DE=43.75cm\n\u2234AC=50+30=80cm\n\u5373$\\frac{50}{80}=\\frac{DE}{70}$\n\u89e3:\u2235\u2220BAC=45\u00b0,\u2220ACB=40\u00b0\n\u2234\u2220AED=\u2220ACB=40\u00b0,\u2220ADE=\u2220B=95\u00b0\n\u2235\u25b3ABC\u223d\u25b3ADE,BC=70cm\n\u2234$\\frac{AE}{AC}=\\frac{DE}{BC}$"
+    },
+    {
+        "questionId":"071AA0A955E943CEB3DFC5633B7181AF",
+        "stem":"\u5982\u56fe\u662f\u7531\u56db\u4e2a\u8fb9\u957f\u4e3a1\u7684\u6b63\u65b9\u5f62\u6784\u6210\u7684\u201c\u7530\u5b57\u683c\u201d,\u4ee5\u683c\u70b9\u4e3a\u9876\u70b9\u4f5c\u7b49\u8170\u25b3ABC.#%#(1)\u4f30\u7b97\u8170\u957fAB\u7684\u957f,\u7cbe\u786e\u52300.1;#%#(2)\u8ba1\u7b97\u25b3ABC\u7684\u9762\u79ef,\u4fdd\u7559\u4e24\u4f4d\u6709\u6548\u6570\u5b57.#%#<img>",
+        "subStem":null,
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"071AA0A955E943CEB3DFC5633B7181AF.jpg\",\"coordinates\":{\"A\":\"1.00,2.00\",\"B\":\"0.00,0.00\",\"C\":\"2.00,0.00\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"A###C\",\"2\":\"B###C\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"$=\\frac{1}{2}\\times2 \\times2$\n${AB}^2={AD}^2+{BD}^2$\n${{S}_{\\vartriangle ABC}}=\\frac{1}{2}BC\\times AD$ \n\u5219\u7531\u52fe\u80a1\u5b9a\u7406\u53ef\u77e5\n(2)\u7531\u56fe\u53ef\u77e5\n=2.0\n\u89e3:(1)\u8fc7A\u4f5cAD\u22a5BC,\u5782\u8db3\u70b9\u4e3aD\n\u2234\u25b3ABC\u7684\u9762\u79ef\u4e3a2.0\n\u5373${AB}^2=2^2+1^2=5$\n\u2234$AB=\\sqrt{5}\\approx{2.2}$"
+    },
+    {
+        "questionId":"0908A274E21F47299A8E3015080A0BFA",
+        "stem":"\u5982\u56fe,$ABCD$\u662f\u4e00\u4e2a\u8fb9\u957f\u4e3a1\u7684\u6b63\u65b9\u5f62,U\u3001V\u5206\u522b\u662fAB\u3001CD\u4e0a\u7684\u70b9,AV\u4e0eDU\u76f8\u4ea4\u4e8e\u70b9P,BV\u4e0eCU\u76f8\u4ea4\u4e8e\u70b9Q.\u6c42\u56db\u8fb9\u5f62$PUQV$\u9762\u79ef\u7684\u6700\u5927\u503c.",
+        "subStem":null,
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"0908A274E21F47299A8E3015080A0BFA_Q_1.jpg\",\"coordinates\":{\"A\":\"-9.00,5.00\",\"B\":\"-9.00,1.00\",\"C\":\"-5.00,1.00\",\"D\":\"-5.00,5.00\",\"U\":\"-9.00,4.00\",\"V\":\"-5.00,2.00\",\"P\":\"-8.00,4.25\",\"Q\":\"-6.09,1.68\"},\"collineations\":{\"0\":\"B###C\",\"1\":\"A###B###U\",\"2\":\"A###D\",\"3\":\"A###P###V\",\"4\":\"Q###B###V\",\"5\":\"Q###C###U\",\"6\":\"D###V###C\",\"7\":\"D###P###U\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u5982\u56fe:\u8fdeUV\n$=\\frac{2\\left( a+b \\right)-{{a}^{2}}-{{b}^{2}}-\\left( {{a}^{2}}+{{b}^{2}} \\right)}{4\\left( a+b \\right)\\left( 2-a-b \\right)}\\le \\frac{2\\left( a+b \\right)-{{a}^{2}}-{{b}^{2}}-2ab}{4\\left( a+b \\right)\\left( 2-a-b \\right)}$\n\u5219$\\frac{x}{a}+\\frac{x}{b}=DE+AE=1$\n\u8bbe$AU=a$ , $DV=b$\n$=\\frac{\\left( a+b \\right)-\\left( {{a}^{2}}+{{b}^{2}} \\right)}{2\\left( a+b \\right)\\left( 2-a-b \\right)}$\n\u7b49\u53f7\u5f53\u4e14\u4ec5\u5f53$a=b$\u65f6\u6210\u7acb\n${{S}_{\u56db\u8fb9\u5f62PUQV}}=\\frac{1}{2}(x+y)$\n\u6545$x=\\frac{ab}{a+b}$\n\u2234$AU\u2225DV$\n\u8bbe$PE=x$,$QF=y$\n\n\u2234${{S}_{\\vartriangle UPV}}={{S}_{\\vartriangle ADP}}$ ,${{S}_{\\vartriangle UQV}}={{S}_{\\vartriangle BQC}}$\n${{S}_{\u56db\u8fb9\u5f62PUQV}}=\\frac{1}{2}\\left[ \\frac{ab}{a+b}+\\frac{\\left( 1-a \\right)\\left( 1-b \\right)}{2-a-b} \\right]$\n$=\\frac{\\left( a+b \\right)\\left( 2-a-b \\right)}{4\\left( a+b \\right)\\left( 2-a-b \\right)}=\\frac{1}{4}$\n\u540c\u7406$y=\\frac{\\left( 1-a \\right)\\left( 1-b \\right)}{\\left( 1-a \\right)+\\left( 1-b \\right)}=\\frac{\\left( 1-a \\right)\\left( 1-b \\right)}{2-a-b}$\n\u4f5c$PE\u22a5AD$\u4e8eE, $QF\u22a5BC$\u4e8eF\n"
+    },
+    {
+        "questionId":"0A0190FA322E4C7C82E876CE990ADF69",
+        "stem":"\u5982\u56fe$,AB$\u662f$\u2299O$\u7684\u76f4\u5f84,\u5f26$DE$\u5782\u76f4\u5e73\u5206\u534a\u5f84$OA,C$\u4e3a\u5782\u8db3$,DE=3,$\u8fde\u7ed3$DB,$\u8fc7\u70b9E\u4f5c$EM\u2225BD,$\u4ea4$BA$\u7684\u5ef6\u957f\u7ebf\u4e8e\u70b9$M.$",
+        "subStem":"$(1)$\u6c42$\u2299O$\u7684\u534a\u5f84;#%#$(2)$\u6c42\u8bc1$:EM$\u662f$\u2299O$\u7684\u5207\u7ebf;#%#$(3)$\u82e5\u5f26$DF$\u4e0e\u76f4\u5f84$AB$\u76f8\u4ea4\u4e8e\u70b9$P,$\u5f53$\u2220DPA=45\u00b0$\u65f6,\u6c42\u56fe\u4e2d\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef.",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"1000001262_Q_1.jpg\",\"coordinates\":{\"A\":\"-15.46,11.00\",\"B\":\"-8.54,11.00\",\"C\":\"-13.73,11.00\",\"D\":\"-13.73,14.00\",\"E\":\"-13.73,8.00\",\"F\":\"-9.00,9.26\",\"M\":\"-18.98,11.00\",\"O\":\"-12.00,11.00\",\"P\":\"-10.74,11.00\"},\"collineations\":{\"0\":\"M###A###C###O###P###B\",\"1\":\"D###B\",\"2\":\"E###D###C\",\"3\":\"D###F###P\",\"4\":\"E###F\",\"5\":\"M###E\"},\"variable-equals\":{},\"circles\":[{\"center\":\"O\",\"pointincircle\":\"D###B###A###E###F\"}]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"$\u2234\u2220MEO=90\u00b0$\n\u53c8$\u2235BD\u2225ME$\n$\u2234S_{$\u9634\u5f71$}=S_{$\u6247\u5f62$EOF}-S_{\\bigtriangleup EOF}=\\frac{90\\cdot\\pi\\cdot\\left(\\sqrt{3}\\right)^2}{360}-\\frac{1}{2}\\cdot\\sqrt{3}\\cdot\\sqrt{3}=\\frac{3}{4}\\pi-\\frac{3}{2}$\n$\u2235\u2220DPA=45\u00b0,\u2220DCP=90\u00b0,\u2220EDF=45\u00b0$\n$\u2234\u2220EOF=2\u2220EDF=90\u00b0$\n$\u2235DE$\u5782\u76f4\u5e73\u5206$OA$\n$\u2234OC=\\frac{1}{2}OA=\\frac{1}{2}OE,CE=\\frac{1}{2}DE=\\frac{3}{2}$\n\n$\u2234\u2220MED=\u2220BDE=60\u00b0$\n$\u2234\u2220OEC=30\u00b0$\n$\u2234OE=\\frac{EC}{\\cos30^{\\circ}}=\\frac{3}{2}\\div\\frac{\\sqrt{3}}{2}=\\sqrt{3}$\n$(3)$\u8fde\u7ed3$OF$\n$\u2234\u2220DBA=60\u00b0,\u2220BDE=30\u00b0$\n\n\u89e3$:(1)$\u8fde\u7ed3$OE,$\n$\u2234\\angle OEC=\\frac{1}{2}\\angle AOE=30^{\\circ}$\n$\u2234EM$\u662f$\u2299O$\u7684\u5207\u7ebf"
+    },
+    {
+        "questionId":"0B4D1027F96E4FCBA966985782B4D7D9",
+        "stem":"\u5982\u56fe, $\u25b3ABC$\u4e2d,\u4ee5AC\u4e3a\u76f4\u5f84\u7684$\u2299O$\u4e0e\u8fb9AB\u4ea4\u4e8e\u70b9D,\u70b9E\u4e3a$\u2299O$\u4e0a\u4e00\u70b9,\u8fde\u63a5CE\u5e76\u5ef6\u957f\u4ea4AB\u4e8e\u70b9F,\u8fde\u63a5ED.",
+        "subStem":"(1)\u82e5$\u2220B+\u2220FED=90\u00b0$,\u6c42\u8bc1:BC\u662f$\u2299O$\u7684\u5207\u7ebf;#%#(2)\u82e5$FC=6$,$DE=3$,$FD=2$,\u6c42$\u2299O$\u7684\u76f4\u5f84.",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"0B4D1027F96E4FCBA966985782B4D7D9_Q_1.jpg\",\"coordinates\":{\"A\":\"-1.50,4.00\",\"B\":\"-10.50,11.30\",\"C\":\"-10.50,4.00\",\"D\":\"-6.93,8.40\",\"E\":\"-9.49,6.84\",\"F\":\"-8.48,9.66\",\"O\":\"-6.00,4.00\"},\"collineations\":{\"0\":\"B###D###A###F\",\"1\":\"C###E###F\",\"2\":\"A###O###C\",\"3\":\"D###E\",\"4\":\"B###C\"},\"variable-equals\":{},\"circles\":[{\"center\":\"O\",\"pointincircle\":\"A###D###C###E\"}]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2234$\u2220B+\u2220A=90\u00b0$\n\u2234$\u2220FED=\u2220A$\n\u2234$\u25b3FED\u223d\u25b3FAC$\n\u2234$\u2220BCA=90\u00b0$\n(2)\u89e3:\u2235$\u2220CFA=\u2220DFE$,$\u2220FED=\u2220A$\n\u2235$\u2220B+\u2220FED=90\u00b0$\n\u2234$\\frac{DF}{FC}=\\frac{DE}{AC}$\n\u2234BC\u662f$\u2299O$\u7684\u5207\u7ebf\n\u89e3\u5f97: $AC=9$,\u5373$\u2299O$\u7684\u76f4\u5f84\u4e3a9\n\u2234$\\frac{2}{6}=\\frac{3}{AC}$\n(1)\u8bc1\u660e:\u2235$\u2220A+\u2220DEC=180\u00b0$,$\u2220FED+\u2220DEC=180\u00b0$"
+    },
+    {
+        "questionId":"0E996B92272447508D4B07BBD4FE801E",
+        "stem":"(2014\u00b7\u6e56\u5357\u6000\u5316)\u5982\u56fe,E\u662f\u957f\u65b9\u5f62ABCD\u7684\u8fb9AB\u4e0a\u7684\u70b9,$EF\u22a5DE$\u4ea4BC\u4e8e\u70b9F",
+        "subStem":"(1)\u6c42\u8bc1:$\u25b3ADE\u223d\u25b3BEF$;#%#(2)\u8bbeH\u662fED\u4e0a\u4e00\u70b9,\u4ee5EH\u4e3a\u76f4\u5f84\u4f5c$\u2299O$,DF\u4e0e$\u2299O$\u76f8\u5207\u4e8e\u70b9G,\u82e5$DH=OH=3$,\u6c42\u56fe\u4e2d\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef(\u7ed3\u679c\u4fdd\u7559\u5230\u5c0f\u6570\u70b9\u540e\u9762\u7b2c\u4e00\u4f4d,$\\sqrt{3}\u22481.73$,$\u03c0\u22483.14$).",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"0E996B92272447508D4B07BBD4FE801E_Q_1.jpg\",\"coordinates\":{\"A\":\"-14.54,3.58\",\"B\":\"-5.03,3.58\",\"C\":\"-5.03,10.85\",\"D\":\"-14.54,10.85\",\"E\":\"-9.23,3.58\",\"F\":\"-5.03,6.64\",\"G\":\"-9.79,8.74\",\"H\":\"-12.77,8.42\",\"O\":\"-11.00,6.00\"},\"collineations\":{\"0\":\"B###F###C\",\"1\":\"A###B###E\",\"2\":\"A###D\",\"3\":\"D###C\",\"4\":\"D###H###O###E\",\"5\":\"D###G###F\",\"6\":\"E###F\",\"7\":\"E###G\",\"8\":\"O###G\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2234$DG=3\\sqrt{3}$\n(2)\u89e3:\u2235DF\u4e0e$\u2299O$\u76f8\u5207\u4e8e\u70b9G\n\u2234$\u2220ODG=30\u00b0$\n$=\\frac{27\\sqrt{3}}{2}-\\frac{9\\sqrt{3}}{2}-3\\pi $\n${{S}_{\\vartriangle DGO}}=\\frac{1}{2}DG\\cdot GO=\\frac{1}{2}\\times 3\\sqrt{3}\\times 3=\\frac{9\\sqrt{3}}{2}$\n\u2234$\u2220AED=90\u00b0-\u2220BEF=\u2220EFB$\n\u2234$OG\u22a5DG$\n\u2234$\u2220DGO=90\u00b0$\n\u2234$\u2220GOE=120\u00b0$\n\u2234${{S}_{\u6247\u5f62OEG}}=\\frac{120\\pi \\times {{3}^{2}}}{360}3\\pi $\n\u2234$\u25b3ADE\u223d\u25b3BEF$\n$\u22486.2$\n\u2234$\\tan \\angle EDF=\\frac{EF}{DE}=\\frac{EF}{9}=\\frac{\\sqrt{3}}{3}$\n\u2234$\\sin \\angle ODG=\\frac{OG}{OD}=\\frac{1}{2}$\n\u2234$\u2220A=\u2220B=90\u00b0$\n\u2234\u56fe\u4e2d\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef\u7ea6\u4e3a6.2\n\u2235$\u2220A=\u2220B$,$\u2220AED=\u2220EFB$\n\u5728$Rt\u25b3DEF$\u4e2d\n(1)\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u77e9\u5f62\n\u2234${{S}_{\u9634\u5f71}}={{S}_{\\vartriangle DEF}}-{{S}_{\\vartriangle DGO}}-{{S}_{\u6247\u5f62OEG}}$\n\u2234$EF=3\\sqrt{3}$\n$=6.15$\n\u2234$\u2220DEF=90\u00b0$\n\u2235$DH=OH=OG$\n$\\cos \\angle ODG=\\frac{DG}{DO}=\\frac{DG}{6}=\\frac{\\sqrt{3}}{2}$\n\u2234${{S}_{\\vartriangle DEF}}=\\frac{1}{2}DE\\cdot EF=\\frac{1}{2}\\times 9\\times 3\\sqrt{3}=\\frac{27\\sqrt{3}}{2}$\n\u2235$EF\u22a5DE$\n\u5728$Rt\u25b3DGO$\u4e2d\n$=9\\sqrt{3}-3\\pi $\n$"
+    },
+    {
+        "questionId":"0F347BB97BF843C5B3BCA89DA6BCC214",
+        "stem":"\u5982\u56fe,\u76f4\u7ebfAB\u4e0eCD\u76f8\u4ea4\u4e8e\u70b9O,OF\u3001OD\u5206\u522b\u662f\u2220AOE\u3001\u2220BOE\u7684\u5e73\u5206\u7ebf.#%#(1)\u5199\u51fa\u2220DOE\u7684\u8865\u89d2;#%#(2)\u82e5\u2220BOE=62\u00b0,\u6c42\u2220AOD\u548c\u2220EOF\u7684\u5ea6\u6570;#%#(3)\u8bd5\u95ee\u2220EOD\u4e0e\u2220EOF\u6709\u4f55\u5173\u7cfb?\u4e3a\u4ec0\u4e48?#%#<img>",
+        "subStem":null,
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"0F347BB97BF843C5B3BCA89DA6BCC214_Q_1.jpg\",\"coordinates\":{\"A\":\"-12.00,3.00\",\"B\":\"-5.00,3.00\",\"C\":\"-10.72,1.37\",\"D\":\"-5.43,4.55\",\"E\":\"-6.71,5.42\",\"F\":\"-9.45,5.41\",\"O\":\"-8.00,3.00\"},\"collineations\":{\"0\":\"D###O###C\",\"1\":\"A###B###O\",\"2\":\"O###E\",\"3\":\"O###F\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2235\u2220AOE=180\u00b0\ufe63\u2220BOE=118\u00b0\n(2)\u2235OD\u662f\u2220BOE\u7684\u5e73\u5206\u7ebf\n\u89e3:(1)\u2220DOE\u7684\u8865\u89d2\u4e3a:\u2220COE,\u2220AOD,\u2220BOC\n\u5373\u2220EOD\u548c\u2220EOF\u4e92\u4f59\n\u53c8\u2235OF\u662f\u2220AOE\u7684\u5e73\u5206\u7ebf\n\u2234\u2220DOF=\u2220DOE+\u2220$EOF={\\frac {1}{2}}$\u2220$BOE+{\\frac {1}{2}}$\u2220EOA\n\u2234\u2220$BOD={\\frac {1}{2}}$\u2220BOE=31\u00b0\n(3)\u2220EOD\u548c\u2220EOF\u4e92\u4f59,\u7406\u7531\u5982\u4e0b:\n$={\\frac {1}{2}}$(\u2220BOE+\u2220EOA)\n$=\\frac{1}{2}\\times 180$\u00b0=90\u00b0\n\u2234\u2220AOD=180\u00b0\ufe63\u2220BOD=149\u00b0\n\u2234\u2220$EOF={\\frac {1}{2}}$\u2220AOE=59\u00b0\n\u2235OF,OD\u5206\u522b\u662f\u2220AOE,\u2220BOE\u7684\u5e73\u5206\u7ebf\n\u5373\u2220AOD=149\u00b0,\u2220EOF=59\u00b0"
+    },
+    {
+        "questionId":"13B08C30CC804D668E2FDE3040EF442F",
+        "stem":"(2011\u6625\u00b7\u4e1c\u839e\u671f\u672b)\u5982\u56fe\uff0c\u5728\u4e94\u8fb9\u5f62ABCDE\u4e2d\uff0cAE\u22a5DE\uff0c\u2220BAE=120\u00b0\uff0c\u2220BCD=60\u00b0\uff0c\u2220CDE-\u2220ABC=30\u00b0.#%#(1)\u6c42\u2220D\u7684\u5ea6\u6570;#%#(2)AB\u2225CD\u5417\uff1f\u8bf7\u8bf4\u660e\u7406\u7531.#%#",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"5.999999999999999,3.464101615137755\",\"D\":\"1.9999999999999991,3.4641016151377535\",\"E\":\"-1,1.7320508\"},\"collineations\":{\"0\":\"E###A\",\"1\":\"B###C\",\"2\":\"D###C\",\"3\":\"E###D\",\"4\":\"A###B\"},\"circles\":[]}",
+        "std":"\u2220BAE=120\u00b0,\u2220BCD=60\u00b0\n\u2234\u2220AED=90\u00b0\n\u2234\u2220D=150\u00b0\n\u2234AB\u2225CD\n\u2235\u2220BAE=120\u00b0,\u2220BCD=60\u00b0\n\u2234\u2220D+\u2220B=540\u00b0-90\u00b0-120\u00b0-60\u00b0=270\u00b0\n(2)AB\u2225CD.\u7406\u7531\u5982\u4e0b\n\u2235\u2220CDE-\u2220ABC=30\u00b0\n\u89e3:(1)\u2235AE\u22a5DE\n\u2234\u2220B+\u2220C=180\u00b0\n\u800c\u2220A+\u2220B+\u2220C+\u2220D+\u2220E=(5-2)\u00d7180\u00b0=540\u00b0"
+    },
+    {
+        "questionId":"149C1DA215D845A7BED1D6EE242E4E49",
+        "stem":"\u5982\u56fe\uff0c\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220BAC=90\u00b0\uff0cAB=4\uff0cAC=3\uff0c\u7ebf\u6bb5AB\u4e3a\u534a\u5706O\u7684\u76f4\u5f84\uff0c\u5c06Rt\u25b3ABC\u6cbf\u5c04\u7ebfAB\u65b9\u5411\u5e73\u79fb\uff0c\u4f7f\u659c\u8fb9\u4e0e\u534a\u5706O\u76f8\u5207\u4e8e\u70b9G\uff0c\u5f97\u25b3DEF\uff0cDF\u4e0eBC\u4ea4\u4e8e\u70b9H.",
+        "subStem":"(1)\u6c42BE\u7684\u957f;#%#(2)\u6c42Rt\u25b3ABC\u4e0e\u25b3DEF\u91cd\u53e0(\u9634\u5f71)\u90e8\u5206\u7684\u9762\u79ef.",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,2\",\"A\":\"0,0\",\"B\":\"0,4\",\"C\":\"3,0\",\"G\":\"1.5999999999999999,3.2\",\"E\":\"0,5.333333333333333\",\"F\":\"3,1.3333333333333328\",\"D\":\"0,1.3333333333333328\",\"H\":\"2.0000000000000004,1.333333333333333\"},\"collineations\":{\"0\":\"B###H###C\",\"1\":\"C###A\",\"2\":\"A###D###O###B###E\",\"3\":\"D###H###F\",\"4\":\"F###G###E\"},\"circles\":[{\"id\":22,\"center\":\"O\",\"pointincircle\":\"A###B###G\"}]}",
+        "std":"\u2234OG\u22a5EF\n\u2234$S\u9634\u5f71=S\u25b3BDH={\\frac {1}{2}}BD\u2022DH={\\frac {1}{2}}\u00d7{\\frac {8}{3}}\u00d72={\\frac {8}{3}}$\n\u2235\u2220BAC=90\u00b0,AB=4,AC=3\n$\u2234BE=OE-OB={\\frac {10}{3}}-2={\\frac {4}{3}}$\n\u2234AD=BE\uff0cDF=AC=3\uff0cEF=BC=5\uff0c\u2220EDF=\u2220BAC=90\u00b0\n(2)$BD=DE-BE=4-{\\frac {4}{3}}={\\frac {8}{3}}$\n\u89e3\u5f97:DH=2\n\u2234OB=OG=2\n\u5373Rt\u25b3ABC\u4e0e\u25b3DEF\u91cd\u53e0(\u9634\u5f71)\u90e8\u5206\u7684\u9762\u79ef\u4e3a${\\frac {8}{3}}$\n$\u2234{\\frac {0E}{EF}}={\\frac {0G}{DF}}$,\u5373${\\frac {0E}{5}}={\\frac {2}{3}}$,\u89e3\u5f97$OE={\\frac {10}{3}}$\n<img>\n\u89e3:(1)\u8fde\u7ed3OG,\u5982\u56fe\n\u2234Rt\u25b3EOG\u223dRt\u25b3EFD\n\u2235DF\u2225AC\n$\u2234{\\frac {DH}{AC}}={\\frac {BD}{AB}}$,\u5373$\\frac{DH}{3}=\\frac{\\frac{8}{3}}{4}$ \n\u2235Rt\u25b3ABC\u6cbf\u5c04\u7ebfAB\u65b9\u5411\u5e73\u79fb\uff0c\u4f7f\u659c\u8fb9\u4e0e\u534a\u5706O\u76f8\u5207\u4e8e\u70b9G\uff0c\u5f97\u25b3DEF\n\u2235AB=4,\u7ebf\u6bb5AB\u4e3a\u534a\u5706O\u7684\u76f4\u5f84\n\u2235EF\u4e0e\u534a\u5706O\u76f8\u5207\u4e8e\u70b9G\n$\u2234BC={\\sqrt {AB^{2}+AC^{2}}}={\\sqrt {3^{2}+4^{2}}}=5$\n\u2235\u2220GEO=\u2220DEF\n\u2234\u25b3ABC\u223d\u25b3DBH"
+    },
+    {
+        "questionId":"15083C7519914AF8982F2F72F1534CB1",
+        "stem":"\u5982\u56fe\uff0c\u5728\u5e73\u9762\u76f4\u89d2\u5750\u6807\u7cfb\u4e2d\uff0c\u70b9O\u662f\u5750\u6807\u539f\u70b9\uff0c\u8fb9\u957f\u4e3a6\u7684\u6b63\u65b9\u5f62OABC\u7684\u9876\u70b9A,C\u5206\u522b\u5728x\u8f74\u548cy\u8f74\u7684\u6b63\u534a\u8f74\u4e0a\uff0c\u70b9E\u662f\u5bf9\u89d2\u7ebfAC\u4e0a\u4e00\u70b9\uff0c\u8fde\u63a5OE\u3001BE\uff0cBE\u7684\u5ef6\u957f\u7ebf\u4ea4OA\u4e8e\u70b9P\uff0c\u82e5\u25b3OCE\u7684\u9762\u79ef\u4e3a12.",
+        "subStem":"(I)\u6c42\u70b9E\u7684\u5750\u6807:",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"A\":\"6,0\",\"B\":\"6,6\",\"C\":\"0,6\",\"E\":\"4,2\",\"P\":\"3,0\"},\"collineations\":{\"0\":\"O###P###A\",\"1\":\"A###B\",\"2\":\"B###C\",\"3\":\"C###O\",\"4\":\"C###E###A\",\"5\":\"B###E###P\",\"6\":\"E###O\"},\"circles\":[]}",
+        "std":"\u5219$\\frac{1}{2}OC\u00b7EM=12$,\n\u2234MC=ME=4,\n\u2234MO=6-4=2,\n\u2235\u56db\u8fb9\u5f62OABC\u662f\u6b63\u65b9\u5f62,\n\u5373$\\frac{1}{2}\u00d76\u00d7EM=12$,\n\u2234\u70b9E\u7684\u5750\u6807\u662f(4,2);\n\u89e3:(1)\u8fc7\u70b9E\u4f5cEM\u22a5y\u8f74\u4e8e\u70b9M,\n\u2234\u2220MCE=45\u00b0,\n\u2234EM=4,\n\u2234\u25b3MEC\u662f\u7b49\u8170\u76f4\u89d2\u4e09\u89d2\u5f62,"
+    },
+    {
+        "questionId":"156CFD681A4546A4945B89A9340CBC24",
+        "stem":"\u5982\u56fe\uff0cCD\u4e3a\u2299O\u7684\u76f4\u5f84\uff0cAB\u662f\u2299O\u7684\u5f26\uff0cAB\u4ea4CD\u4e8e\u70b9E\uff0cDE=6\uff0cCE=2\uff0c\u2220AED=45\u00b0\uff0c",
+        "subStem":"\u6c42AB\u7684\u957f.",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"C\":\"-4,0\",\"D\":\"4,0\",\"E\":\"-2,0\",\"B\":\"-3.6457513110645907,-1.6457513110645907\",\"A\":\"1.6457513110645907,3.6457513110645907\"},\"collineations\":{\"0\":\"C###E###O###D\",\"1\":\"B###E###A\"},\"circles\":[{\"id\":18,\"center\":\"O\",\"pointincircle\":\"B###C###A###D\"}]}",
+        "std":"\u5728$Rt\u25b3OFA$\u4e2d, $\u2220OFA=90\u00b0$, $OF=\\sqrt{2}$, $OA=4$\n\u2234$OA=\\frac{1}{2}CD=4$\uff0c$OE=2$\n\u2234$AB=2*AF=2\\sqrt{14}$\n\u5219\u2220OFA=\u2220OFE=90\u00b0\n\u2235OF\u22a5AB\uff0c\n\u89e3:\uff081\uff09\u5982\u56fe,\u8fc7\u70b9O\u4f5cOF\u22a5AB\u4e8e\u70b9F\uff0c\u8fde\u63a5OA\n\u2235DE=6, CE=2\n\u2234CD=8\n\u7531\u52fe\u80a1\u5b9a\u7406\u5f97:$AF=\\sqrt{{OA}^{2}-{OF}^{2}}=\\sqrt{4^{2}-(\\sqrt{2})^{2}}  =\\sqrt{14}$\n$ \\therefore OF=OE \\times \\sin 45^{\\circ}=\\sqrt{2}$\n\u2235\u5728Rt\u25b3OFE\u4e2d,\u2220OFE=90\u00b0, OE=2, \u2220AED=45\u00b0"
+    },
+    {
+        "questionId":"159AF75942884A75AF672486B5D01E6B",
+        "stem":"(2017\u00b7\u67a3\u5e84)\u5982\u56fe\uff0c\u5728\u25b3ABC\u4e2d\uff0c\u2220ACB=90\u00b0\uff0c\u2220BAC\u7684\u5e73\u5206\u7ebf\u4ea4BC\u4e8e\u70b9D\uff0c\u70b9O\u5728AB\u4e0a\uff0c\u5706O\u4ee5OA\u4e3a\u534a\u5f84\uff0c\u6070\u597d\u70b9D\u5728\u5706O\u4e0a\uff0c\u5706O\u5206\u522b\u4ea4AC,AB\u4e8e\u70b9E,F\u3002",
+        "subStem":"(1) \u8bc1\u660e\uff1a\u76f4\u7ebfBC\u4e0e\u2299O\u76f8\u5207.",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0.8284271247461901,1.1715728752538097\",\"C\":\"0,0\",\"A\":\"0,2\",\"B\":\"2,0\",\"D\":\"0.8284271247461903,0\",\"E\":\"0,0.34314575050761986\",\"F\":\"1.6568542494923801,0.34314575050761986\"},\"collineations\":{\"0\":\"C###D###B\",\"1\":\"B###F###O###A\",\"2\":\"A###E###C\",\"3\":\"D###A\",\"4\":\"O###D\"},\"circles\":[{\"id\":27,\"center\":\"O\",\"pointincircle\":\"D###E###A###F\"}]}",
+        "std":"\u2234BC\u4e0e\u2299O\u76f8\u5207\n\u2234\u2220ODB=\u2220ACB=90\u00b0,\u5373OD\u22a5BC\n\u2234\u2220CAD=\u2220ODA\n\u8bc1\u660e:\u8fde\u63a5OD\n\u2234\u2220OAD=\u2220ODA\n\u53c8\u2235OD=OA\n\u2235AD\u662f\u2220BAC\u7684\u5e73\u5206\u7ebf\n\u2234OD\u2225AC\n\u2234\u2220BAD=\u2220CAD"
+    },
+    {
+        "questionId":"1605D4A02EDE455CB8B1538068F9825C",
+        "stem":"(2016\u6625\u00b7\u53ec\u9675\u533a\u671f\u4e2d)\u5982\u56fe\u2460\uff0c\u5728\u6b63\u65b9\u5f62ABCD\u4e2d\uff0c\u70b9F\u662fAC\u4e0a\u7684\u4e00\u70b9\uff0c\u70b9E\u5728BC\u7684\u5ef6\u957f\u7ebf\u4e0a\uff0c\u4e14BF=EF.",
+        "subStem":"(1)\u6c42\u8bc1:BF=DF;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"4,4\",\"D\":\"0,4\",\"F\":\"3,3\",\"E\":\"4,6\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"C###D\",\"2\":\"D###A\",\"3\":\"A###F###C\",\"4\":\"B###C###E\",\"5\":\"B###F\",\"6\":\"F###E\",\"7\":\"F###D\"},\"circles\":[]}",
+        "std":"(1)\u8bc1\u660e:\u5728\u6b63\u65b9\u5f62ABCD\u4e2d\uff0cBC=DC\uff0c\u2220BCF=\u2220DCF=45\u00b0\uff0c\n\u2234BF=DF;\n\u2235\u5728\u25b3BCF\u548c\u25b3DCF\u4e2d\uff0c\n\u2234\u25b3BCF\u224c\u25b3DCF(SAS);"
+    },
+    {
+        "questionId":"16733365E18B45C186700737F64D461F",
+        "stem":"\u5728$\u25b3ABC$\u4e2d\uff0c\u5df2\u77e5$AB=12$\uff0c\u70b9E\u5728AC\u4e0a\uff0c\u70b9D\u5728AB\u4e0a\uff0c$AE=6$\uff0c$EC=4$\uff0c\u4e14$\\frac{{AD}}{{DB}} = \\frac{{AE}}{{EC}}$.",
+        "subStem":"(1)\u6c42AD\u7684\u957f;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"0,12\",\"C\":\"10,0\",\"E\":\"6,0\",\"D\":\"0,7.2\"},\"collineations\":{\"0\":\"A###E###C\",\"1\":\"C###B\",\"2\":\"B###D###A\"},\"circles\":[]}",
+        "std":"$ = \\frac{{24}}{5}$\n\u2234$\\frac{{DB}}{{AB}} = \\frac{{EC}}{{AC}}$\u6210\u7acb\n\u2234$\\frac{{DB}}{{AB}} = \\frac{{\\frac{{24}}{5}}}{{12}} = \\frac{2}{5}$\n(2)\u2235$DB = 12 - AD$\n\u2235$\\frac{{AD}}{{DB}} = \\frac{{AE}}{{EC}}$\n$ = 12 - \\frac{{36}}{5}$\n$\\frac{{EC}}{{AC}} = \\frac{4}{{6 + 4}} = \\frac{2}{5}$\n\u2234$DB = 12 - AD$\n(1)\u89e3:\u2235$AD + DB = AB = 12$\n\u2234$\\frac{{AD}}{{12 - AD}} = \\frac{6}{4}$"
+    },
+    {
+        "questionId":"16897A14D4DB422A835E574FA900018D",
+        "stem":"\u89e3\u65b9\u7a0b$x^{2}-2x-1=0$;",
+        "subStem":null,
+        "geoInfo":"{\"extra_root\":[],\"solvesList\":[[\"x_1=((-b+((b^2-4*a*c)^(1\/(2))))\/(2*a))\",\"x_2=((-b-((b^2-4*a*c)^(1\/(2))))\/(2*a))\"]],\"variablesList\":[[\"a=1\",\"b=-2\",\"c=-1\",\"b^2-4*a*c=4+4\"]],\"defaultKnowledge\":[{\"name\":\"delta\",\"expression\":\"delta=b^2-4ac\"},{\"name\":\"weidaAdd\",\"expression\":\"x_1+x_2=-b\/a\"},{\"name\":\"weidaMul\",\"expression\":\"x_1*x_2=c\/a\"},{\"name\":\"x_1\",\"expression\":\"x_1=-b+sqrt(b^2-4*a*c)\/2*a\"},{\"name\":\"x_2\",\"expression\":\"x_2=-b-sqrt(b^2-4*a*c)\/2*a\"}],\"dynamicVariables\":[],\"equationList\":[{\"name\":\"equation0\",\"expression\":\"x^(2)-2*x-1=0\"}]}",
+        "std":"\u2234$x_{1}=\\frac{-b+\\sqrt{b^2-4ac}}{2a}=\\frac{2+\\sqrt 8}{2}=\\sqrt{2}+1$\n\u89e3:\u7531\u9898\u610f\u53ef\u5f97:a=1\uff0cb=-2\uff0cc=-1\n$x_2=\\frac{-b-\\sqrt{b^2-4ac}}{2a}=\\frac{2-\\sqrt{8}}{2}=1-\\sqrt{2}$\n\u2234$b^2-4ac=4+4=8$"
+    },
+    {
+        "questionId":"16F1AC19F49F436F95C8DB3D0FE367F6",
+        "stem":"\u5982\u56fe\uff0cBD\u662f\u2299O\u7684\u76f4\u5f84\uff0c\u70b9A\u662fBD\u5ef6\u957f\u7ebf\u4e0a\u7684\u4e00\u70b9\uff0c\u70b9C\u5728\u2299O\u4e0a\uff0cAC=BC\uff0cAD=CD",
+        "subStem":"(1)\u6c42\u8bc1:AC\u662f\u2299O\u7684\u5207\u7ebf;",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"B\":\"-2,0\",\"D\":\"2,0\",\"A\":\"4,0\",\"C\":\"1,1.7320508075688772\"},\"collineations\":{\"0\":\"B###O###D###A\",\"1\":\"B###C\",\"2\":\"C###D\",\"3\":\"A###C\"},\"circles\":[{\"id\":19,\"center\":\"O\",\"pointincircle\":\"B###C###D\"}]}",
+        "std":"\u2234\u2220A=\u2220B=\u2220ACD=\u2220BCO\n\u53c8\u2235BD\u662f\u76f4\u5f84\n\u2234\u2220ACO=\u2220DCO+\u2220BCO=\u2220BCD\n\u2234\u2220BCD=90\u00b0\n\u53c8\u70b9C\u5728\u2299O\u4e0a\n\u2235\u2220ACO=\u2220DCO+\u2220ACD\n\u2235AC=BC, AD=CD\n\u2234\u2220ACO=90\u00b0\n\u2234AC\u662f\u2299O\u7684\u5207\u7ebf\n\u89e3:(1)\u8fde\u63a5OC\n\u2235OB=OC"
+    },
+    {
+        "questionId":"16FDB13D5ACA4E8FB1356A04193A8A4E",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5AB\u2225CD\uff0c\u2220D=\u2220A\uff0c",
+        "subStem":"\u8bd5\u8bf4\u660e\u2220E=\u2220F",
+        "geoInfo":"{\"coordinates\":{\"D\":\"0,0\",\"C\":\"0,4\",\"F\":\"1,2\",\"E\":\"2,0\",\"A\":\"3,2\",\"B\":\"3,-2\"},\"collineations\":{\"0\":\"C###D\",\"1\":\"D###F\",\"2\":\"F###E\",\"3\":\"E###A\",\"4\":\"A###B\"},\"circles\":[]}",
+        "std":"\u2234\u2220E=\u2220F(\u7b49\u91cf\u4ee3\u6362)\n\u2234\u2220ECA=\u2220FAC(\u7b49\u91cf\u4ee3\u6362)\n\u2234\u2220DCA=\u2220BAC\uff0c(\u5185\u9519\u89d2\u76f8\u7b49)\n<img>\n\u4e14\u2220E+\u2220ECA+\u2220EOC=\u2220F+\u2220FAC+\u2220AOF=180\u00b0\uff0c(\u4e09\u89d2\u5f62\u5185\u89d2\u548c180\u00b0)\n\u53c8\u2220EOC=\u2220AOF\uff0c(\u5bf9\u9876\u89d2\u76f8\u7b49)\n\u53c8\u22201=\u22202\n\u8bc1\u660e:\u2235AB\u2225CD"
+    },
+    {
+        "questionId":"179945D5A62441D390DF9803B6103D54",
+        "stem":"(2011\u56db\u5ddd\u91cd\u5e86)\u5982\u56fe,\u5728\u5e73\u9762\u76f4\u89d2\u5750\u6807\u7cfb$xOy$\u4e2d\uff0c\u4e00\u6b21\u51fd\u6570$y=kx+b(k\u22600)$\u7684\u56fe\u8c61\u4e0e\u53cd\u6bd4\u4f8b\u51fd\u6570$y=\\frac{m}{x}(m\\ne 0)$\u7684\u56fe\u8c61\u4ea4\u4e8e\u7b2c\u4e8c\u8c61\u9650\u3001\u7b2c\u56db\u8c61\u9650\u5185\u7684A\u3001B\u4e24\u70b9,\u4e0e$x$\u8f74\u4ea4\u4e8eC\u70b9\uff0c\u70b9B\u7684\u5750\u6807\u4e3a$(6,n)$\uff0c\u7ebf\u6bb5$OA=5$\uff0cE\u4e3a$x$\u8f74\u8d1f\u534a\u8f74\u4e0a\u4e00\u70b9\uff0c\u4e14$\\sin \\angle AOE=\\frac{4}{5}$.",
+        "subStem":"\u6c42\u8be5\u53cd\u6bd4\u4f8b\u51fd\u6570\u4e0e\u4e00\u6b21\u51fd\u6570;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"-3,4\",\"B\":\"6,-2\",\"C\":\"3,0\",\"E\":\"-1,0\",\"O\":\"0,0\",\"U\":\"1,0\",\"V\":\"0,1\"},\"collineations\":{},\"functions\":{\"I:InverseProportionalFunction\":\"y=-((12)\/(x))\",\"L:StraightLine\":\"y=-((2)\/(3))*x+2\"},\"values\":{\"m\":\"m=-12\",\"n\":\"n=-2\",\"b\":\"b=2\",\"k\":\"k=-2\/3\"},\"ovalInfo\":{}}",
+        "std":"$\\sin \\angle AOE=\\frac{AD}{AO}=\\frac{AD}{5}=\\frac{4}{5}$\n\u53c8\u70b9A\u5728\u7b2c\u4e8c\u8c61\u9650\n\u2234\u70b9A\u7684\u5750\u6807\u4e3a$(-3,4)$\n\u2234\u8be5\u4e00\u6b21\u51fd\u6570\u89e3\u6790\u5f0f\u4e3a$y=-\\frac{2}{3}x+2$\n\u89e3:\u8fc7A\u70b9\u4f5c\u76f4\u7ebfAD\u5782\u76f4x\u8f74\u4e8e\u70b9D\n\u5c06A\u7684\u5750\u6807$(-3,4)$\u4ee3\u5165$y=\\frac{m}{x}$,\u5f97\n\u2234$\\left\\{ \\begin{matrix}-3k+b=4  \\\\6k+b=-2  \\\\\\end{matrix} \\right.$\n\u2234$m=-12$\n\u2234\u8be5\u53cd\u6bd4\u4f8b\u51fd\u6570\u7684\u89e3\u6790\u5f0f\u4e3a$y=\\frac{-12}{x}$\n\u2234\u5728$Rt\u25b3ADO$\u4e2d\n$4=\\frac{m}{-3}$\n\u2235$\\sin \\angle AOE=\\frac{4}{5}$,$OA=5$\n\u2234$\\left\\{ \\begin{matrix}k=-\\frac{2}{3}  \\\\b=2  \\\\\\end{matrix} \\right.$\n\u2234$AD=4$,$DO=\\sqrt{O{{A}^{2}}-D{{A}^{2}}}=3$\n\u2235\u70b9B\u5728\u53cd\u6bd4\u4f8b\u51fd\u6570$y=\\frac{-12}{x}$\u7684\u56fe\u8c61\u4e0a\n\u2234$n=\\frac{-12}{6}=-2$,\u70b9B\u7684\u5750\u6807\u4e3a$(6,-2)$\n\u2235\u4e00\u6b21\u51fd\u6570$y=kx+b(k\u22600)$\u7684\u56fe\u8c61\u8fc7A\u3001B\u4e24\u70b9"
+    },
+    {
+        "questionId":"185B1EC224AF417C97EE4E796FDE5D04",
+        "stem":"\u5982\u56fe\uff0c\u70b9D\u5728\u2299O\u7684\u76f4\u5f84AB\u7684\u5ef6\u957f\u7ebf\u4e0a\uff0c\u70b9C\u5728\u2299O\u4e0a\uff0cAC=CD\uff0c\u2220ACD=120\u00b0\uff0c\u8fde\u63a5CO.",
+        "subStem":"(1)\u6c42\u8bc1:CD\u662f\u2299O\u7684\u5207\u7ebf;",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"A\":\"-2,0\",\"B\":\"2,0\",\"D\":\"4,0\",\"C\":\"1,1.7320508075688772\"},\"collineations\":{\"0\":\"A###O###B###D\",\"1\":\"C###D\",\"2\":\"A###C\",\"3\":\"O###C\"},\"circles\":[{\"id\":19,\"center\":\"O\",\"pointincircle\":\"A###C###B\"}]}",
+        "std":"(2)\u5728$ Rt \\triangle O C D $ \u4e2d, $ O C=2$,$ \\angle D=30^{\\circ} $, \n$\\therefore \\angle 2=\\angle A=30^{\\circ}$\n$\\therefore S_{R T \\triangle OC D}=\\frac{1 \\times O C \\times C D}{2}=2 \\sqrt{3} $\n(1)\u8bc1\u660e\uff1a\u8fde\u63a5 OC.\n$\\therefore \\angle O C D=\\angle A C D-\\angle 2=90^{\\circ}$\n$S=\\frac{60 \\pi \\times 4}{360}=\\frac{2 \\pi}{3} $\n$\\therefore D C \\perp O C$\n$ \\therefore $ \u56fe\u4e2d\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef\u4e3a $ 2 \\sqrt{3}-\\frac{2 \\pi}{3} $.\n$ \\therefore O D=4$, $C D=2 \\sqrt{3} $,\n$ \\therefore$  C D \u662f $ \\odot O $ \u7684\u5207\u7ebf.\n$\\because O A=O C$\n$\\therefore \\angle A=\\angle D=30^{\\circ}$\n$\\because A C=C D $\uff0c$ \\angle A C D=120^{\\circ}$"
+    },
+    {
+        "questionId":"18673372A9534171BD286D7D4C6371C7",
+        "stem":"\u5df2\u77e5:\u5982\u56fe\uff0cAB\u2225DE\uff0c\u2220B=\u2220E\uff0c\u8bf7\u5224\u65adBC\u4e0eEF\u7684\u4f4d\u7f6e\u5173\u7cfb\uff0c\u5e76\u4e0e\u51fa\u8bc1\u660e\u8fc7\u7a0b.#%#",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"A\":\"1,3\",\"B\":\"-1,1\",\"C\":\"2,1\",\"D\":\"2,2\",\"E\":\"0,0\",\"F\":\"3,0\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"D###E\",\"3\":\"E###F\"},\"circles\":[]}",
+        "std":"\u2235AB\u2225DE\n\u2234\u2220B=\u2220DGC\n\u2234BC\u2225EF\uff0e\n\u2235\u2220B=\u2220E\n\u2234\u2220DGC=\u2220E"
+    },
+    {
+        "questionId":"187B057E581C4FECA72477513B5B8B10",
+        "stem":"\u5982\u56fe\uff0c\u6709\u4e00\u77e9\u5f62\u7eb8\u7247ABCD\uff0cAB=8\uff0cAD=17\uff0c\u70b9E\u5728\u7ebf\u6bb5BC\u4e0a\uff0c\u4e14 DE=AD\uff0c",
+        "subStem":"\u6c42\u7ebf\u6bb5BE\u7684\u957f.",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,8\",\"B\":\"0,0\",\"C\":\"17,0\",\"D\":\"17,8\",\"E\":\"2,0\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"A###D\",\"2\":\"D###C\",\"3\":\"B###E###C\",\"4\":\"D###E\",\"5\":\"A###E\"},\"circles\":[]}",
+        "std":"\u2235\u56db\u8fb9\u5f62ABCD\u662f\u77e9\u5f62\uff0cAB=8,AD=17\n\u5728$Rt\u25b3ECD$\u4e2d,$EC={\\sqrt {{ED}^{2}-{CD}^{2}}}={\\sqrt {17^2-8^{2}}}=15$\n$ED=AD=17$\n\u2234BC=AD=17,CD=AB=8\n\u2234$BE=BC-EC=17-15=2$"
+    },
+    {
+        "questionId":"18A1FB14657A40498162474A4337F6D0",
+        "stem":"\u5982\u56fe\uff0c\u7b49\u8fb9\u25b3ABC\u7684\u8fb9\u957f\u4e3a2\uff0c\u5c06\u25b3ABC\u7ed5\u9876\u70b9A\u987a\u65f6\u9488\u65b9\u5411\u65cb\u8f6c\uff0c\u4f7f\u8fb9AB\u4e0eAC\u91cd\u5408\u5f97\u25b3ACD\uff0c\u70b9E\u4e3aBC\u7684\u4e2d\u70b9\uff0c\u70b9F\u4e3aCD\u7684\u4e2d\u70b9\uff0c\u25b3ABC\u4e0e\u25b3ACD\u5168\u7b49",
+        "subStem":"\u6c42:\u2220EAF\u7684\u5ea6\u6570\uff0cAF\u7684\u957f.",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"A\":\"2,0\",\"C\":\"1,1.7320508\",\"D\":\"3,1.7320508\",\"E\":\"0.5,0.8660254\",\"F\":\"2,1.7320508\"},\"collineations\":{\"0\":\"B###E###C\",\"1\":\"C###A\",\"2\":\"A###B\",\"3\":\"C###F###D\",\"4\":\"D###A\",\"5\":\"E###A\",\"6\":\"F###A\"},\"circles\":[]}",
+        "std":"\u2234\u2220BAC=60\u00b0\uff0cAB=BC=2\n$AF=AE=\\sqrt{3}$\n\u2235\u70b9E\u4e3aBC\u7684\u4e2d\u70b9\n\u2234$AE=\\sqrt{AB^{2}-BE^{2}}=\\sqrt{3}$\n\u2234\u2220EAF=\u2220EAC+\u2220FAC=60\u00b0\n\u2234BE=1\uff0cAE\u22a5BC\n\u5728Rt\u25b3ABE\u4e2d\n\u2235AB=2,BE=1\n\u89e3:\u2235\u25b3ABC\u4e3a\u7b49\u8fb9\u4e09\u89d2\u5f62"
+    },
+    {
+        "questionId":"18D79B3C49C74172BA400F23D5CACDA2",
+        "stem":"(2016\u6625\u00b7\u5b9c\u660c\u6821\u7ea7\u671f\u4e2d)\u5982\u56fe\uff0c\u5df2\u77e5\u6b63\u65b9\u5f62ABCD\u7684\u8fb9\u957f\u4e3a4\uff0c\u70b9E\u3001F\u5206\u522b\u4eceC\u3001A\u4e24\u70b9\u540c\u65f6\u51fa\u53d1\uff0c\u4ee5\u76f8\u540c\u7684\u901f\u5ea6\u4f5c\u76f4\u7ebf\u8fd0\u52a8\u3002\u5df2\u77e5\u70b9E\u6cbf\u5c04\u7ebfCB\u8fd0\u52a8\uff0c\u70b9F\u6cbf\u8fb9BA\u7684\u5ef6\u957f\u7ebf\u8fd0\u52a8\uff0c\u8fde\u63a5DF\u3001DE\u3001EF\uff0cEF\u4e0e\u5bf9\u89d2\u7ebfAC\u6240\u5728\u7684\u76f4\u7ebf\u4ea4\u4e8e\u70b9P\uff0c\u70b9H\u4e3aFB\u7684\u4e2d\u70b9\uff0c\u8fde\u63a5PH\u3002(\u56fe1\u4f9b\u53c2\u8003)",
+        "subStem":"(1)\u8bf7\u5199\u51faDE\u4e0eDF\u7684\u5173\u7cfb\uff0c\u5e76\u8bf4\u660e\u7406\u7531;#%#(2)\u8bbeCE=x\uff0cPH=y\uff0c\u6c42:y\u4e0ex\u4e4b\u95f4\u7684\u51fd\u6570\u5173\u7cfb\u5f0f\uff0c\u5e76\u5199\u51fa\u81ea\u53d8\u91cfx\u7684\u53d6\u503c\u8303\u56f4.",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"4,4\",\"D\":\"0,4\",\"E\":\"4,3\",\"F\":\"-1,0\",\"P\":\"1.5,1.5\",\"H\":\"1.5,0\"},\"collineations\":{\"0\":\"F###A###H###B\",\"1\":\"B###E###C\",\"2\":\"C###D\",\"3\":\"D###A\",\"4\":\"D###F\",\"5\":\"D###E\",\"6\":\"F###P###E\",\"7\":\"A###P###C\",\"8\":\"P###H\"},\"circles\":[]}",
+        "std":"\u2234\u2220FDA+\u2220ADE=\u2220ADE+\u2220EDC=90\u00b0,\n\u53c8\u2235\u70b9H\u4e3aFB\u7684\u4e2d\u70b9,\n\u2235,\n\u5373y=(4-x)=-x+2(0\u2264x\u22644).\n<img>\n\u2235AF\u22a5BC,EP\u22a5BC,\n\u2234CE=PE,AF=PE,\n\u2234MF=ME\uff0c\u5373M\u4e3aEF\u4e2d\u70b9,\n\u2234\u25b3ADF\u224c\u25b3CDE(SAS),\n\u2234\u2220FDA=\u2220EDC,DE=DF.\n\u89e3:(1)DE=DF\u4e14DE\u22a5DF,\u7406\u7531\u5982\u4e0b:\n\u5728\u25b3AFM\u548c\u25b3PEM\u4e2d,\n\u2234\u25b3AFM\u224c\u25b3PEM(AAS),\n\u2235P\u5728AC\u4e0a\uff0c\u2220ECP=45\u00b0,\n(2)\u5f53\u70b9E\u5728BC\u4e0a\u65f6\uff0c\u8fc7\u70b9E\u4f5cEP\u22a5BC,\u4ea4AC\u4e8eP,\n\u2234AF\u2225EP,\u2220AFM=\u2220PEM,\u2220FAM=\u2220EPM\n\u2234MH\u4e3a\u25b3BEF\u4e2d\u4f4d\u7ebf,\n\u2235E\u3001F\u5206\u522b\u4eceC\u3001A\u4e24\u70b9\u540c\u65f6\u51fa\u53d1,\u4ee5\u76f8\u540c\u7684\u901f\u5ea6\u4f5c\u76f4\u7ebf\u8fd0\u52a8,\n\u5728\u25b3ADF\u548c\u25b3CDE\u4e2d,\n\u2234MH=BE,\n\u2234CE=AF,\n\u2234DE\u22a5DF;"
+    },
+    {
+        "questionId":"18DC93B55242442D9B7CC85374911582",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u53cd\u6bd4\u4f8b\u51fd\u6570$y=\\frac{m}{x}$\u7684\u56fe\u8c61\u548c\u4e00\u6b21\u51fd\u6570y=kx+b\u7684\u56fe\u8c61\u76f8\u4ea4\u4e8e\u70b9A(4,a)\u3001\u70b9B(-2,-4)",
+        "subStem":"\u6c42\u53cd\u6bd4\u4f8b\u51fd\u6570\u548c\u4e00\u6b21\u51fd\u6570\u7684\u8868\u8fbe\u5f0f;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"2,4\",\"B\":\"-2,-4\",\"O\":\"0,0\",\"U\":\"1,0\",\"V\":\"0,1\"},\"collineations\":{},\"functions\":{\"I:InverseProportionalFunction\":\"y=8\/x\",\"L:StraightLine\":\"y=x-2\"},\"values\":{\"m\":\"m=8\",\"a\":\"a=2\",\"b\":\"b=-2\",\"k\":\"k=1\"},\"ovalInfo\":{}}",
+        "std":"\u89e3:\u5c06$A(4,a)$,$B(-2,-4)$\u4ee3\u5165$y=\\frac{m}{x}$\u4e2d,\n\u5c06$A(4,2)$,$B(-2,-4)$\u4ee3\u5165$y=kx+b$\u4e2d,\u5f97$\\left\\{ {\\begin{array}{*{20}{c}}{4k + b = 2}\\\\{ - 2k + b =  - 4}\\end{array}} \\right.$,\n\u5f97$4a=(-2)\u00d7(-4)=m$,\n\u2234\u53cd\u6bd4\u4f8b\u51fd\u6570\u89e3\u6790\u5f0f\u4e3a$y=\\frac{8}{x}$\uff0c\u4e00\u6b21\u51fd\u6570\u7684\u89e3\u7948\u5f0f\u4e3a$y=x-2$;\n\u89e3\u5f97$a=2$\uff0c$m=8$,\n\u89e3\u5f97$\\left\\{ {\\begin{array}{*{20}{c}}{k = 1}\\\\{b =  - 2}\\end{array}} \\right.$,"
+    },
+    {
+        "questionId":"1912A228DB9045458EEF40D6516ED02E",
+        "stem":"\u5982\u56fe $1$\uff0c\u5728 $\\triangle ABC$ \u4e2d\uff0c\u70b9$D$ \u662f $BC$ \u8fb9\u4e0a\u4e00\u70b9\uff0c\u70b9$E$ \u662f $AD$ \u7684\u4e2d\u70b9\uff0c\u8fc7\u70b9 $A$ \u4f5c $BC$ \u7684\u5e73\u884c\u7ebf\u4ea4 $ CE$ \u7684\u5ef6\u957f\u7ebf\u4e8e \u70b9$F$\uff0c\u7ebf\u6bb5AF\u5e73\u884c\u4e8e\u7ebf\u6bb5BC\uff0c\u4e14 $AF=BD$\uff0c\u8fde\u63a5 $BF$\uff0e",
+        "subStem":"\u6c42\u8bc1\uff1a\u70b9 $D$ \u662f\u7ebf\u6bb5 $BC$ \u7684\u4e2d\u70b9\uff1b",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"C\":\"6,0\",\"F\":\"0,3\",\"A\":\"3,3\",\"D\":\"3,0\",\"E\":\"3,1.5\"},\"collineations\":{\"0\":\"B###D###C\",\"1\":\"F###B\",\"2\":\"F###E###C\",\"3\":\"F###A\",\"4\":\"A###E###D\",\"5\":\"A###C\",\"6\":\"B###A\"},\"circles\":[]}",
+        "std":"$ \\because AF=BD $\uff0c\n\u8bc1\u660e: $ \\because A F \\parallel  B C $\uff0c\n$\\therefore $\u70b9 $D$ \u662f\u7ebf\u6bb5 $BC$ \u7684\u4e2d\u70b9\uff1b\n$ \\therefore AE=DE $\uff0c\n$  AF=BD $\uff0c\n$ \\because \\angle AEF=\\angle DEC$\uff0c\n$ \\therefore \\triangle AEF \\cong \\triangle DEC $\uff0c\n$ \\therefore \\triangle AEF \\cong \\triangle DEC $\uff0c\n$ \\therefore AF=DC $\uff0c\n$ \\therefore AF=DC $\uff0c\n$ \\because E $ \u662fAD\u7684\u4e2d\u70b9\uff0c\n$\\therefore $\u70b9 $D$ \u662f\u7ebf\u6bb5 $BC$ \u7684\u4e2d\u70b9\uff1b\n$ \\therefore BD=CD$\uff0c\n$ \\because E $ \u662fAD\u7684\u4e2d\u70b9\uff0c\n$ \\therefore \\angle AFE=\\angle DCE $\uff0c\n$ \\because \\angle AEF=\\angle DEC$\uff0c\n\u8bc1\u660e: $ \\because A F \\parallel  B C $\uff0c\n$ \\therefore AE=DE $\uff0c\n$ \\therefore BD=CD$\uff0c\n$ \\therefore \\angle AFE=\\angle DCE $\uff0c"
+    },
+    {
+        "questionId":"1941A79572FF4CF19596DDC5D9C90EE7",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5AB\u662f$\u2299O$\u7684\u76f4\u5f84\uff0c\u70b9C\u5728$\u2299O$\u4e0a\uff0c\u70b9P\u4e3a$\u2299O$\u5916\u4e00\u70b9\uff0c\u4e14$OP\/\/BC$\uff0c$\u2220APO=\u2220BAC$.",
+        "subStem":"(1)\u6c42\u8bc1:PA\u4e3a$\u2299O$\u7684\u5207\u7ebf;",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"1941A79572FF4CF19596DDC5D9C90EE7_Q_1.jpg\",\"coordinates\":{\"A\":\"0.00,5.00\",\"B\":\"0.00,-5.00\",\"C\":\"4.95,-1.350\",\"O\":\"0.00,0.00\",\"P\":\"8.33,5.00\"},\"collineations\":{\"0\":\"B###O###A\",\"1\":\"A###P\",\"2\":\"A###C\",\"3\":\"O###P\",\"4\":\"B###C\"},\"variable-equals\":{},\"circles\":[{\"center\":\"O\",\"pointincircle\":\"A###B###C\"}]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2234$\u2220ACB=90\u00b0$.\n\u2235$OP\\parallel BC$,\n\u2234$\\vartriangle ABC\\sim \\vartriangle POA$ ,\n\u2234$\u2220B=\u2220AOP$.\n\u53c8$\u2220P=\u2220BAC$,\n\u2234PA\u4e3a$\u2299O$\u7684\u5207\u7ebf.\n(1)\u89e3:\u2235AB\u662f$\u2299O$\u7684\u76f4\u5f84,\n\u2234$\u2220PAO=\u2220ACB=90\u00b0$,"
+    },
+    {
+        "questionId":"197D52E3084A4C61BE14A774C773C0C7",
+        "stem":"\u5df2\u77e5:\u5982\u56fe\uff0c\u5728\u76f4\u89d2\u68af\u5f62ABCD\u4e2d\uff0cAD\u2225BC\uff0c\u2220ABC=90\u00b0\uff0cAD=2\uff0cBC=6\uff0cAB=3\uff0c\u70b9E\u4e3aBC\u8fb9\u4e0a\uff0c\u70b9F\u4e3aAC\u4e0a\u4e00\u70b9\uff0c\u70b9G\u4e3aAB\u4e0a\u4e00\u70b9\uff0c\u4e14\u56db\u8fb9\u5f62GFEB\u662f\u6b63\u65b9\u5f62\uff0c\u5f53\u70b9F\u843d\u5728AC\u4e0a\u65f6",
+        "subStem":"\u6c42BE\u7684\u957f;",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"A\":\"0,3\",\"C\":\"6,0\",\"D\":\"2,3\",\"E\":\"2,0\",\"F\":\"2,2\",\"G\":\"0,2\"},\"collineations\":{\"0\":\"A###D\",\"1\":\"D###C\",\"2\":\"C###E###B\",\"3\":\"B###G###A\",\"4\":\"E###F\",\"5\":\"F###G\",\"6\":\"A###F###C\"},\"circles\":[]}",
+        "std":"BE=FG=BG=FE\nBG=x\uff0c\n\u89e3\uff1a\u6b63\u65b9\u5f62GFEB\u4e2d\uff0c\n$\\frac{A G}{A B}=\\frac{G F}{B C} $\n\u5373$\\frac{3-x}{3}=\\frac{x}{6}$\n\u2234AG=AB-BG=3-x,\n\u2235GF\u2225BE,\n\u89e3\u5f97:x=2,\n\u5373BE=2;\n\u8bbeBE=x\uff0c\n\u2234\u25b3AGF\u223d\u25b3ABC,\n\u5219FG=x\uff0c\n\u2235AB=3\uff0cBC=6,"
+    },
+    {
+        "questionId":"19924F4C693A4EF9A7E38931D067BBE3",
+        "stem":"\u5728$\u25b3ABC$\u4e2d\uff0c\u5df2\u77e5$AB=12$\uff0c\u70b9E\u5728AC\u4e0a\uff0c\u70b9D\u5728AB\u4e0a\uff0c$AE=6$\uff0c$EC=4$\uff0c\u4e14$\\frac{{AD}}{{DB}} = \\frac{{AE}}{{EC}}$.",
+        "subStem":"(1)\u6c42AD\u7684\u957f;",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"C\":\"6,0\",\"A\":\"6.666666666666667,9.977753031397178\",\"E\":\"6.2666666666666675,3.991101212558873\",\"D\":\"2.6666666666666665,3.9911012125588705\"},\"collineations\":{\"0\":\"B###D###A\",\"1\":\"A###E###C\",\"2\":\"D###E\",\"4\":\"B###C\"},\"circles\":[]}",
+        "std":"(2)\u2235$DB = 12 - AD$\n\u2234$\\frac{{AD}}{{12 - AD}} = \\frac{6}{4}$\n\u2235$\\frac{{AD}}{{DB}} = \\frac{{AE}}{{EC}}$\n\u2234$DB = 12 - AD$\n$\\frac{{EC}}{{AC}} = \\frac{4}{{6 + 4}} = \\frac{2}{5}$\n\u2234$\\frac{{DB}}{{AB}} = \\frac{{EC}}{{AC}}$\n$ = 12 - \\frac{{36}}{5}$\n\u2234$\\frac{{DB}}{{AB}} = \\frac{{\\frac{{24}}{5}}}{{12}} = \\frac{2}{5}$\n$ = \\frac{{24}}{5}$\n\u89e3:(1)\u2235$AD + DB = AB = 12$\n$AD=\\frac{{36}}{5}$"
+    },
+    {
+        "questionId":"19EE7659666F4B078E2613DF9A7CFB5D",
+        "stem":"\u5982\u56fe\uff0c\u25b3ABC\u5185\u63a5\u4e8e\u2299O\uff0cAC\u4e3a\u2299O\u7684\u76f4\u5f84\uff0cPB\u4e0e\u2299O\u76f8\u5207\uff0cOP\u22a5BC\u4e8e\u70b9E\uff0cOP\u4ea4\u2299O\u4e8e\u70b9D\uff0c\u8fde\u63a5BD.",
+        "subStem":"(1)\u6c42\u8bc1:BD\u5e73\u5206\u2220PBC;",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"A\":\"3,0\",\"C\":\"-3,0\",\"B\":\"0.9518249027017276,2.8450007653069\",\"P\":\"-3.000000000000001,4.1671253142268645\",\"E\":\"-1.024087548649136,1.42250038265345\",\"D\":\"-1.7527871079932693,2.4346945093897494\"},\"collineations\":{\"0\":\"C###O###A\",\"1\":\"C###E###B\",\"2\":\"B###A\",\"3\":\"D###B\",\"4\":\"P###B\",\"5\":\"P###D###E###O\",\"6\":\"O###B\"},\"circles\":[{\"id\":17,\"center\":\"O\",\"pointincircle\":\"C###D###B###A\"}]}",
+        "std":"\u2234\u2220BED=90\u00b0\n\u2234\u2220PBD+\u2220OBD=\u2220PBO=90\u00b0\n\u2234BD\u5e73\u5206\u2220PBC\n\u2235OB=OD\n<img>\n\u2234\u2220PBD=\u2220EBD\n\u2234\u2220PBO=90\u00b0\n\u2234\u2220OBD=\u2220ODB\n\u2234\u2220DBE+\u2220BDE=90\u00b0\n\u2235OP\u22a5BC\n\u2234OB\u22a5PB\n\u2235PB\u662f\u2299O\u5207\u7ebf\n(1)\u8bc1\u660e:\u8fde\u63a5OB"
+    },
+    {
+        "questionId":"1B20AF472F8E4072A589A0E94DFCB36F",
+        "stem":"\u5982\u56fe,\u5728\u6b63\u65b9\u5f62ABCD\u4e2d\uff0c\u70b9E\u5728BC\u4e0a\uff0c\u70b9F\u5728CD\u4e0a\uff0cAE=AF\u3002",
+        "subStem":"(1)\u8bd5\u8bf4\u660e\u2220BAE=\u2220DAF;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"3,0\",\"C\":\"3,3\",\"D\":\"0,3\",\"F\":\"1.5,3\",\"E\":\"3,1.5\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###E###C\",\"2\":\"C###F###D\",\"3\":\"D###A\",\"4\":\"A###E\",\"5\":\"A###F\"},\"circles\":[]}",
+        "std":"\u2234AB=AD\uff0c\u2220B=\u2220D=90\u00b0,\n\u2234\u2220BAE=\u2220DAF;\n(1)\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u5728Rt\u25b3ABE\u548cRt\u25b3ADF\u4e2d,\n\u2234Rt\u25b3$ADF$\u224cRt\u25b3$ABE$(HL)"
+    },
+    {
+        "questionId":"1C229B352AD04434AC552D9746DA7DE9",
+        "stem":"\u89e3\u65b9\u7a0b:$\\frac{x-2}{x+2}-\\frac{16}{x^{2}-4}=1$",
+        "subStem":null,
+        "geoInfo":"{\"extra_root\":[\"x<>-2\"],\"solvesList\":[[\"x^(2)-4*x+4-16=x^(2)-4\",\"x=-2\"]],\"variablesList\":[[]],\"defaultKnowledge\":[{\"name\":\"delta\",\"expression\":\"delta=b^2-4ac\"},{\"name\":\"weidaAdd\",\"expression\":\"x_1+x_2=-b\/a\"},{\"name\":\"weidaMul\",\"expression\":\"x_1*x_2=c\/a\"},{\"name\":\"x_1\",\"expression\":\"x_1=-b+sqrt(b^2-4*a*c)\/2*a\"},{\"name\":\"x_2\",\"expression\":\"x_2=-b-sqrt(b^2-4*a*c)\/2*a\"}],\"dynamicVariables\":[],\"equationList\":[{\"name\":\"equation0\",\"expression\":\"((x-2)\/(x+2))-((16)\/(x^(2)-4))=1\"}]}",
+        "std":"\u89e3\u5f97x=-2\n\u89e3:\u6574\u7406\u5f97,$x^{2}-4x+4-16=x^{2}-4$\n\u2234x=-2\u662f\u539f\u65b9\u7a0b\u589e\u6839\n\u68c0\u9a8c:\u5f53x=-2\u65f6,(x+2)(x-2)=0\n\u2234\u539f\u65b9\u7a0b\u65e0\u89e3"
+    },
+    {
+        "questionId":"1D500CFCF0784CE9B53DE70FCDE1FE60",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u25b3ABC\u223d\u25b3DEF\uff0c\u70b9F\u3001C\u5728BE\u4e0a\uff0cAB=6\uff0cBF=2\uff0cCE=8\uff0cCA=10\uff0cDE=15. ",
+        "subStem":"\u6c42\u7ebf\u6bb5DF\u548cFC\u7684\u957f.",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"A\":\"0,6\",\"F\":\"2,0\",\"C\":\"8,0\",\"E\":\"18,0\",\"D\":\"18,15\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###F###C###E\",\"2\":\"E###D\",\"3\":\"D###F\",\"4\":\"A###C\"},\"circles\":[]}",
+        "std":"DF=25.\n$\\therefore \\frac{A B}{D E}=\\frac{A C}{D F} $\n\u5373 $ \\frac{6}{15}=\\frac{10}{D F}  $\n\u53c8 $ \\frac{A B}{D E}=\\frac{B C}{E F} $ \uff0c\u5373 $ \\frac{6}{15}=\\frac{2+F C}{8+F C} $ \uff0c\n\u53c8AB=6,CA=10,DE=15,\nFC=2.\n\u89e3:\u2235\u25b3ABC\u223d\u25b3DEF,"
+    },
+    {
+        "questionId":"1E1BF73889D849CABA92413BF4B3EFBA",
+        "stem":"\u5982\u56fe1\uff0c\u5728\u25b3APE\u4e2d\uff0c\u2220PAE=90\u00b0\uff0cPO\u662f\u25b3APE\u7684\u89d2\u5e73\u5206\u7ebf\uff0c\u4ee5O\u4e3a\u5706O\u7684\u5fc3\uff0cOA\u4e3a\u534a\u5f84\u4f5c\u5706O\u4ea4AE\u4e8e\u70b9G\u3002",
+        "subStem":"(1)\u6c42\u8bc1:\u76f4\u7ebfPE\u662f\u2299O\u7684\u5207\u7ebf\uff1b",
+        "geoInfo":"{\"coordinates\":{\"A\":\"4.00,0.00\",\"E\":\"-10.40,0.00\",\"G\":\"-4.00,0.00\",\"P\":\"4.00,-6.00\",\"O\":\"0.00,0.00\"},\"collineations\":{\"0\":\"A###O###G###E\",\"1\":\"A###P\",\"2\":\"P###E\",\"3\":\"P###O\"},\"circles\":[{\"id\":1,\"center\":\"O\",\"pointincircle\":\"A###G\"}]}",
+        "std":"\u2235\u2220PAE=90\u00b0,\n\u2234\u76f4\u7ebfPE\u662f\u2299O\u7684\u5207\u7ebf.\n(1)\u8bc1\u660e:  \u8fc7\u70b9O\u4f5cOH\u22a5PE\u4e8e\u70b9H\n\u2235PO\u662f\u2220APE\u7684\u89d2\u5e73\u5206\u7ebf,\n\u5728\u25b3PAO\u548c\u25b3PHO\u4e2d\n\u2234OH\u662f\u2299O\u7684\u534a\u5f84,\n\u2234OH=OA,\n\u2234\u2220APO=\u2220EPO,\n\u2235OH\u22a5PE,\n\u2234\u2220OHP=90\u00b0,\n\u2235OA\u662f\u2299O\u7684\u534a\u5f84,\n\u2234\u25b3PAO\u224c\u25b3PHO,\n\u2234\u2220OHP=\u2220OAP,\n$\\left\\{ \\begin{array}{l}\\angle OHP = \\angle OAP\\\\\\angle OPH = \\angle OPA\\\\OP = OP\\end{array} \\right.$"
+    },
+    {
+        "questionId":"1EF2F675A7934FAB8E3AF7A6B205B9EE",
+        "stem":"\u5982\u56fe\uff0c\u25b3ABC\u4e2d\uff0c\u2220ABC\u7684\u5e73\u5206\u7ebfBP\u4e0e\u2220ACB\u7684\u5916\u89d2\u5e73\u5206\u7ebfCP\u4ea4\u4e8eP\u70b9\uff0cPD\u22a5AC\u4e8e\u70b9D\uff0cPH\u22a5BA\u4e8e\u70b9H\u3002\u70b9P\u5230\u76f4\u7ebfBA\u7684\u8ddd\u79bb\u662f5",
+        "subStem":"\u6c42\u70b9P\u5230\u76f4\u7ebfBC\u7684\u8ddd\u79bb;",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"1EF2F675A7934FAB8E3AF7A6B205B9EE.jpg\",\"coordinates\":{\"A\":\"3.40,5.71\",\"B\":\"0.00,0.00\",\"C\":\"5.00,0.00\",\"D\":\"3.98,3.65\",\"H\":\"4.49,7.56\",\"P\":\"8.79,5.00\"},\"collineations\":{\"0\":\"H###A###B\",\"1\":\"A###P\",\"2\":\"B###C\",\"3\":\"B###P\",\"4\":\"C###P\",\"5\":\"A###D###C\",\"6\":\"H###P\",\"7\":\"D###P\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2234\u70b9P\u5230\u76f4\u7ebfBC\u7684\u8ddd\u79bb\u4e3a5\n(1)\u89e3:\u8fc7\u70b9P\u4f5cPF\u22a5BE\u4e8e\u70b9F\uff0c\u5982\u56fe\n\u2234PH=PF=5\n\u2235BP\u5e73\u5206\u2220ABC\uff0cPH\u22a5BA\u4e8e\u70b9H"
+    },
+    {
+        "questionId":"1FD46EB0E47249F79AEBC4139834B319",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62\uff0cE\u662fCD\u5ef6\u957f\u7ebf\u4e0a\u4e00\u70b9\uff0c\u4e14EA=EB,EA\u22a5EB\uff0c",
+        "subStem":"\u6c42\u2220DAB\u7684\u5ea6\u6570.",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"7.46410161,2\",\"D\":\"3.46410161,2\",\"E\":\"2,2\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"A###E\",\"2\":\"E###D###C\",\"3\":\"C###B\",\"4\":\"E###B\",\"5\":\"A###D\"},\"circles\":[]}",
+        "std":"\u2234$EF=\\frac{1}{2}AB$\n\u2234$EF=\\frac{1}{2}AB=\\frac{1}{2}AD$\n\u2235\u5728\u25b3AEB\u4e2d\n\u2234EF=GD\n\u2234EF\u4e3a\u7b49\u8170\u25b3AEB\u5e95\u8fb9\u4e0a\u7684\u4e2d\u7ebf\n\u2234\u5728Rt\u25b3AGD\u4e2d\n\u2234\u2220DAB=30\u00b0\n$GD=\\frac{1}{2}AD$\n\u2235AB\u2225CD\uff0cEF\u22a5AB\uff0cDG\u22a5AB\n\u2235\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62\n\u2234\u7b49\u8170\u25b3AEB\u4e3a\u7b49\u8170\u76f4\u89d2\u4e09\u89d2\u5f62\n\u89e3:\u5982\u56fe\uff0c\u4f5cEF\u22a5AB\u4e8eF\u70b9\uff0cDG\u22a5AB\u4e8eG\n\u53c8\u2235AE\u22a5BE\nAE=EB\u4e14EF\u22a5AB"
+    },
+    {
+        "questionId":"20739805B1B4434AB15BEA8548F55C52",
+        "stem":"\u89e3\u65b9\u7a0b$2x^{2}+4x-5=0$.",
+        "subStem":null,
+        "geoInfo":"{\"extra_root\":[],\"solvesList\":[[\"x=((-4\u00b1((56)^(1\/(2))))\/(4))\",\"x_1=-1-((((14)^(1\/(2))))\/(2))\",\"x_2=-1+((((14)^(1\/(2))))\/(2))\"]],\"variablesList\":[[\"a=2\",\"b=4\",\"c=-5\",\"b^(2)-4*a*c=16+40\"]],\"defaultKnowledge\":[{\"name\":\"delta\",\"expression\":\"delta=b^2-4ac\"},{\"name\":\"weidaAdd\",\"expression\":\"x_1+x_2=-b\/a\"},{\"name\":\"weidaMul\",\"expression\":\"x_1*x_2=c\/a\"},{\"name\":\"x_1\",\"expression\":\"x_1=-b+sqrt(b^2-4*a*c)\/2*a\"},{\"name\":\"x_2\",\"expression\":\"x_2=-b-sqrt(b^2-4*a*c)\/2*a\"}],\"dynamicVariables\":[],\"equationList\":[{\"name\":\"equation0\",\"expression\":\"2*x^(2)+4*x-5=0\"}]}",
+        "std":"\u89e3:a=2\uff0cb=4\uff0cc=-5\n$x=\\frac{-4\\pm \\sqrt{56}}{4}$\n\u2234$\\Delta =b^{2}-4ac=16+40=56$\n\u2234$x_{1}=-1-\\frac{\\sqrt{14}}{2}$\uff0c$x_{2}=-1+\\frac{\\sqrt{14}}{2}$"
+    },
+    {
+        "questionId":"20DC6EFBD58C44568D142DC99C9B3C3A",
+        "stem":"\u56db\u8fb9\u5f62ABCD\u548c\u56db\u8fb9\u5f62A_1B_1C_1D_1\u4e2d\uff0c$\\frac{AB}{A_1 B_1}=\\frac{B C}{B_1 C_1}=\\frac{CD}{C_1D_1}=\\frac{D A}{D_1 A_1}=\\frac{3}{4}$\uff0c\u4e14\u56db\u8fb9\u5f62A_1B_1C_1D_1\u7684\u5468\u957f\u4e3a80cm\uff0c",
+        "subStem":"\u6c42\u56db\u8fb9\u5f62ABCD\u7684\u5468\u957f.",
+        "geoInfo":"{\"coordinates\":{\"A_1\":\"0,0\",\"B_1\":\"30,0\",\"C_1\":\"30,10\",\"D_1\":\"0,10\",\"A\":\"-23.5,0\",\"B\":\"-1,0\",\"C\":\"-1,7.5\",\"D\":\"-23.5,7.5\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"C###D\",\"3\":\"A###D\",\"4\":\"A_1###B_1\",\"5\":\"B_1###C_1\",\"6\":\"C_1###D_1\",\"7\":\"A_1###D_1\"},\"circles\":[]}",
+        "std":"$ \\therefore $ \u56db\u8fb9\u5f62 $ A B C D $ \u7684\u5468\u957f\u4e3a $ 60 cm $\n$ \\because A_1B_1C_1D_1$ \u7684\u5468\u957f\u4e3a $ 80cm $\n $ \\therefore \\frac{A B+B C+C D+D A}{A_1B_1+B_1 C_1+C_1 D_1D_1A_1}=\\frac{3}{4} $\n\u89e3 $ \\because \\frac{A B}{A_1B_1}=\\frac{B C}{B_1 C_1}=\\frac{C D}{C_1 D_1}=\\frac{D A}{D_1 A_1}=\\frac{3}{4} $"
+    },
+    {
+        "questionId":"223A7BB1E6E0437A9FDB993B1A63575B",
+        "stem":"\u5982\u56fe\uff0c\u25b3ABC\u223d\u25b3DBE\uff0c\u70b9E\u5728AC\u4e0a\uff0c\u2220ABC=\u2220DBE=90\u00b0\uff0c\u8fde\u63a5AD\uff0c\u6c42\u8bc1:AD\u22a5AC.#%#",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"A\":\"0,3\",\"C\":\"5.19615242,0\",\"E\":\"1.2990381060149867,2.249999999413997\",\"D\":\"-1.2990381,0.75\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"C###E###A\",\"3\":\"D###B\",\"4\":\"D###E\",\"5\":\"D###A\",\"6\":\"B###E\"},\"circles\":[]}",
+        "std":"\u8bc1\u660e:\u2235\u2220ABC=\u2220DBE=90\u00b0,\n\u2234$\\frac{DB}{AB} = \\frac{BE}{BC}$ ,\u5373$\\frac{DB}{BE} = \\frac{AB}{BC}$\n\u2234\u2220DBA=\u2220EBC,\n\u2234\u25b3DBA\u223d\u25b3EBC,\n\u2235\u25b3ABC\u223d\u25b3DBE,\n\u2234\u2220DAC=90\u00b0,\u5373AD\u22a5AC.\n\u2234\u2220DAB=\u2220C,"
+    },
+    {
+        "questionId":"223CD6E191724C37A66A5EA5E5454E0C",
+        "stem":"\u5982\u56fe\uff0c$\u2220BOD=90\u00b0$\uff0c\u5728$Rt\u25b3OAB$\u4e2d\uff0c$\u2220A=90\u00b0$\uff0c$\u2220ABO=30\u00b0$\uff0c$OB=\\frac{4\\sqrt{3}}{3}$\uff0cAB\u7684\u5782\u76f4\u5e73\u5206\u7ebfCD\u4ea4OB\u4e8e\u70b9E,\u4ea4AB\u4e8e\u70b9C.",
+        "subStem":"(1)\u6c42\u7ebf\u6bb5EO\u7684\u957f\u5ea6;",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"B\":\"2.309401076758503,0\",\"A\":\"0.5773502691896257,-1.0000000000000002\",\"C\":\"1.4433756729740643,-0.5000000000000001\",\"D\":\"0,1.9999999999999996\",\"E\":\"1.1547005383792512,0\"},\"collineations\":{\"0\":\"O###A\",\"1\":\"A###C###B\",\"2\":\"D###O\",\"3\":\"O###E###B\",\"4\":\"D###E###C\"},\"circles\":[]}",
+        "std":"\u2235$OA \\perp AB$\n\u2234\u70b9E\u4e3aOB\u7684\u4e2d\u70b9\n(1)\u89e3:\u2235DC\u662fAB\u7684\u5782\u76f4\u5e73\u5206\u7ebf\n\u2234$OE=\\frac{2}{3}\\sqrt{3}$\nCE\/\/AO\n\u2235$OB=\\frac{4}{3}\\sqrt{3}$\n\u70b9C\u662fAB\u7684\u4e2d\u70b9"
+    },
+    {
+        "questionId":"227454462A83402AA927B6A80E21E17E",
+        "stem":"\u5982\u56fe\uff0cAB\u22a5BC\u4e8e\u70b9B\uff0cDC\u22a5BC\u4e8e\u70b9C\uff0cAB=4\uff0cDC=1\uff0cBC=4\uff0c\u70b9P\u5728\u7ebf\u6bb5BC\u4e0a\uff0cAP\u22a5PD\uff0c",
+        "subStem":"\u6c42\u7ebf\u6bb5BP\u7684\u957f\u5ea6.",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"A\":\"0,4\",\"C\":\"4,0\",\"D\":\"4,1\",\"P\":\"2,0\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"C###D\",\"3\":\"D###A\",\"4\":\"A###P\",\"5\":\"P###D\"},\"circles\":[]}",
+        "std":"\u8bc1\u660e\uff1a\u2235AP\u22a5PD,\n\u5373$x(4-x)=4$,\n\u2234\u25b3ABP\u223d\u25b3PCD,\n\u53c8\u2235DC\u22a5BC,\n\u5f97\u51fax=2,\n\u2234\u2220PDC+\u2220DPC=90\u00b0,\n\u8bbeBP=x,\u5219CP=4-x,\n\u2234,\u5373$4 : (4-x)=x : 1$,\n\u2234\u2220DCP=90\u00b0,\n\u2234\u2220APB=\u2220PDC, \u2220PAB=\u2220DPC\n\u2234\u2220APB+\u2220DPC=90\u00b0,\n\u2235\u2220B=\u2220C,\n\u5373BP=2;\n\u2234$x^{2}-4x+4=0$,\n\u2234\u2220APD=90\u00b0,\n\u2234$\\frac{AB}{PC}=\\frac{BP}{CD}$,\n\u5373$(x-2)^{2}=0$,"
+    },
+    {
+        "questionId":"2283F03E00DB497283C7C525971A9890",
+        "stem":"\u5df2\u77e5:\u5982\u56fe\uff0c\u5728\u83f1\u5f62ABCD\u4e2d\uff0c\u2220BAD=2\u2220B\u3002\u6c42\u8bc1:\u25b3ABC\u662f\u7b49\u8fb9\u4e09\u89d2\u5f62.",
+        "subStem":null,
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"2283F03E00DB497283C7C525971A9890.jpg\",\"coordinates\":{\"A\":\"0.00,0.00\",\"B\":\"3.00,4.00\",\"C\":\"6.00,0.00\",\"D\":\"3.00,-4.00\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"A###D\",\"2\":\"A###C\",\"3\":\"B###C\",\"4\":\"D###C\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u6545\u25b3ABC\u662f\u7b49\u8fb9\u4e09\u89d2\u5f62\n\u2234AB=BC,\u4e14AD\u2225BC\n\u6545\u2220B=60\u00b0\n\u2234\u2220BAC=\u2220BCA,\u2220BCA=\u2220DAC\n\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62\n\u2220B+\u2220BAC+\u2220BCA=180\u00b0\n\u53733\u2220B=180\u00b0\n\u2234\u2220BAD=\u2220BAC+\u2220DAC=\u2220BAC+\u2220BCA=2\u2220B\n\u5728\u25b3ABC\u4e2d"
+    },
+    {
+        "questionId":"229F4BFDC18946068AD2331FB88AB29D",
+        "stem":"\u5982\u56fe\uff0c\u2220ADE=\u2220ADF\uff0cDE\u22a5AB,\u5782\u8db3\u4e3a\u70b9E\uff0cDF\u22a5AC,\u5782\u8db3\u4e3a\u70b9F\uff0cBE=CF\u3002\u6c42\u8bc1:\u2220B=\u2220C.",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"B\":\"1,0\",\"C\":\"6,0\",\"A\":\"3.5,2\",\"D\":\"3.5,0\",\"E\":\"2.524390243902439,1.2195121951219514\",\"F\":\"4.475609756097561,1.2195121951219516\"},\"collineations\":{\"0\":\"B###D###C\",\"1\":\"B###E###A\",\"2\":\"A###F###C\",\"3\":\"A###D\",\"4\":\"E###D\",\"5\":\"D###F\"},\"circles\":[]}",
+        "std":"\u89e3:\u2235\u2220ADE=\u2220ADF\uff0cDE\u22a5AB\uff0cDF\u22a5AC\n\u6545\u2220B=\u2220C\n\u5728Rt\u25b3AED\u4e0eRt\u25b3AFD\u4e2d\n\u2234AE=AF\n\u2235BE=CF\n\u2234$Rt\u25b3AED\u224cRt\u25b3AFD$(HL)\n\u2234DE=DF\n\u2234AB=AC\n $\\left\\{ \\begin{array}{l}DE=DF\\\\  AD=AD \\end{array} \\right.$"
+    },
+    {
+        "questionId":"23A30F2F17B14155A2B10822D861E06C",
+        "stem":"\u5982\u56fe1-1-15\uff0c\u5728\u7b49\u8fb9\u25b3ABC\u4e2d\uff0c\u70b9D,E\u5206\u522b\u5728BC,AB\u4e0a\uff0c\u4e14BD=AE\uff0cAD\u4e0eCE\u4ea4\u4e8e\u70b9F.",
+        "subStem":"(1)\u6c42\u8bc1:AD=CE;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"1.9999999999999996,3.4641016151377544\",\"D\":\"3,1.7320508075688772\",\"E\":\"2,0\",\"F\":\"2,1.1547005383792515\"},\"collineations\":{\"0\":\"A###E###B\",\"1\":\"A###C\",\"2\":\"B###D###C\",\"3\":\"A###F###D\",\"4\":\"C###F###E\"},\"circles\":[]}",
+        "std":"\u53c8\u2235AE=BD\n\u2234\u2220DFC=\u2220FAC+\u2220ACF=\u2220FAC+\u2220BAD=\u2220BAC=60\u00b0\n(2)\u89e3:\u2235\u25b3AEC\u224c\u25b3BDA\n(1)\u8bc1\u660e:\u2235\u25b3ABC\u662f\u7b49\u8fb9\u4e09\u89d2\u5f62\n\u2234AD=CE\n\u2234\u25b3AEC\u224c\u25b3BDA(SAS)\n\u2234\u2220BAC=\u2220B=60\u00b0,AB=AC\n\u2234\u2220ACE=\u2220BAD"
+    },
+    {
+        "questionId":"24320389DE0947039F2637755FCEEC3E",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5AB\u2225CD\uff0c\u2220ABP\u548c\u2220CDP\u7684\u5e73\u5206\u7ebf\u76f8\u4ea4\u4e8e\u70b9E\uff0c\u2220ABE\u548c\u2220CDE\u7684\u5e73\u5206\u7ebf\u76f8\u4ea4\u4e8e\u70b9F.\u2220CDF=21\u00b0\uff0c\u2220ABF=33\u00b0\uff0c",
+        "subStem":"\u6c42\u2220DPB\u7684\u5ea6\u6570;",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"24320389DE0947039F2637755FCEEC3E.jpg\",\"coordinates\":{\"A\":\"10.00,0.00\",\"B\":\"0.00,0.00\",\"C\":\"10.00,6.00\",\"D\":\"0.00,6.00\",\"E\":\"1.49,3.59\",\"F\":\"4.90,3.27\",\"P\":\"-2.00,2.00\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"F###B\",\"2\":\"E###B\",\"3\":\"P###B\",\"4\":\"C###D\",\"5\":\"D###P\",\"6\":\"D###E\",\"7\":\"D###F\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2220ABE=2\u2220ABF=66\u00b0\n\u8fc7P\u4f5cPQ\u2225AB\n\u2234\u2220DPB=\u2220DPQ+\u2220BPQ=(180\u00b0-84\u00b0)+(180\u00b0-132\u00b0)=144\u00b0\n\u89e3:(1)\u2235\u2220COF=21\u00b0,\u2220ABF=33\u00b0\n\u2220ABP=2\u2220ABE=132\u00b0\n\u2234\u2220CDP=2\u2220CDE=84\u00b0\n\u2234\u2220CDE=2\u2220CDF=42\u00b0\n\u53c8DF,BF\u5206\u522b\u5e73\u5206\u2220CDE\u548c\u2220ABE\n\u53c8DE,BE\u5206\u522b\u5e73\u5206\u2220CDP,\u2220ABP"
+    },
+    {
+        "questionId":"2485A88145FD4AF19EADCF6C377EA9ED",
+        "stem":"\u5982\u56fe\uff0cOB\u22a5OA,\u5782\u8db3\u4e3aO\uff0c\u2220AOC\u662f\u9510\u89d2\uff0cOM\u3001ON\u5206\u522b\u662f\u2220BOC\u548c\u2220AOC\u7684\u5e73\u5206\u7ebf\u3002",
+        "subStem":"\u6c42\u2220MON\u7684\u5ea6\u6570.",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"B\":\"0,5\",\"A\":\"6,0\",\"C\":\"5,-2\",\"M\":\"4.9733437516255625,3.367117648357026\",\"N\":\"6.004899241166346,-1.1564379290429843\"},\"collineations\":{\"0\":\"B###O\",\"1\":\"O###A\",\"2\":\"O###C\",\"3\":\"O###M\",\"4\":\"O###N\"},\"circles\":[]}",
+        "std":"\u2235OM,ON\u5206\u522b\u5e73\u5206\u2220BOC\u548c\u2220AOC\n$\u2220NOC=\\frac{1}{2}\u2220AOC$\n\u2234$\u2220MOC=\\frac{1}{2}\u2220BOC=\\frac{1}{2}(\u2220AOB+\u2220AOC)$\n\u89e3: \u2235OB\u22a5OA\n\u2234$\u2220MON=\u2220MOC-\u2220NOC=\\frac{1}{2}(\u2220AOB+\u2220AOC)-\\frac{1}{2}\u2220AOC=\\frac{1}{2}\u2220AOB=45\u00b0$\n\u2234\u2220AOB=90\u00b0"
+    },
+    {
+        "questionId":"24AE8DCB892E4AAA9FF060E7A4777020",
+        "stem":"\u5982\u56fe\uff0cAD,BE\u662f\u25b3ABC\u7684\u4e24\u6761\u9ad8\uff0cA\u2019D\u2019,B\u2019E\u2019\u662f\u25b3A\u2019B\u2019C\u2019\u7684\u4e24\u6761\u9ad8\uff0c\u25b3ABD\u223d\u25b3A\u2019B\u2019D\u2019\uff0c\u2220C=\u2220C\u2019\uff0c",
+        "subStem":"\u6c42\u8bc1:$\\frac{A D}{A^{\\prime} D^{\\prime}}=\\frac{B E}{B^{\\prime} E^{\\prime}} $.",
+        "geoInfo":"{\"coordinates\":{\"A'\":\"-4,4\",\"B'\":\"-7,0\",\"C'\":\"-2,0\",\"B\":\"1,0\",\"C\":\"4,0\",\"A\":\"2.8,2\",\"D'\":\"-4,0\",\"E'\":\"-3.0000000000000004,2\",\"D\":\"2.8000000000000003,0\",\"E\":\"3.2058823529411766,1.3235294117647065\"},\"collineations\":{\"0\":\"B'###A'\",\"1\":\"A'###E'###C'\",\"2\":\"B'###D'###C'\",\"3\":\"B###A\",\"4\":\"A###E###C\",\"5\":\"C###D###B\",\"6\":\"A'###D'\",\"7\":\"A###D\",\"8\":\"B'###E'\",\"9\":\"B###E\"},\"circles\":[]}",
+        "std":"\u8bc1\u660e:\u2235\u25b3ABD\u223d\u25b3A\u2019B\u2019D\u2019\uff0c\n\u2234\u2220ABC=\u2220A\u2019B\u2019C\u2019\uff0c\u2220BAC=\u2220B\u2019A\u2019C\u2019\uff0c\n\u2234$\\frac{A D}{A^{\\prime} D^{\\prime}}=\\frac{A B}{A^{\\prime} B^{\\prime}} $\uff0c\n\u2234$\\frac{A D}{A^{\\prime} D^{\\prime}}=\\frac{B E}{B^{\\prime} E^{\\prime}} $.\n\u2234\u2220ADB=\u2220A\u2019D\u2019B\u2019=90\u00b0\uff0c\n\u2234$\\frac{B E}{B^{\\prime} E^{\\prime}}=\\frac{A B}{A^{\\prime} B^{\\prime}} $\uff0c\n\u540c\u7406\u53ef\u6c42\u25b3ABE\u223d\u25b3A\u2019B\u2019E\u2019\uff0c\n\u2234\u25b3ABD\u223d\u25b3A\u2019B\u2019D\u2019\uff0c\n\u2235AD\u662f\u25b3ABC\u7684\u9ad8\uff0cA\u2019D\u2019\u662f\u25b3A\u2019B\u2019C\u2019\u7684\u9ad8\uff0c"
+    },
+    {
+        "questionId":"24B4F193E99C434F88F66489BDB2C6DB",
+        "stem":"\u5df2\u77e5\u5e73\u884c\u56db\u8fb9\u5f62ABCD\uff0c\u70b9E\u662fAB\u7684\u4e2d\u70b9\uff0c\u70b9F\u662fBC\u4e0a\u4e00\u70b9\uff0cDE\u548cAF\u76f8\u4ea4\u4e8e\u70b9P\uff0c\u70b9Q\u5728DE\u4e0a\uff0c\u4e14AQ\u2225PC\u3002",
+        "subStem":"(1)\u8bc1\u660e:PC=2AQ.",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"5,2\",\"D\":\"1,2\",\"E\":\"2,0\",\"F\":\"4.542807429153726,1.0856148583074514\",\"P\":\"1.7865322308994598,0.4269355382010803\",\"Q\":\"1.60673388455027,0.7865322308994599\"},\"collineations\":{\"0\":\"A###E###B\",\"1\":\"B###F###C\",\"2\":\"C###D\",\"3\":\"D###A\",\"4\":\"D###Q###P###E\",\"5\":\"F###P###A\",\"6\":\"C###P\",\"7\":\"A###Q\"},\"circles\":[]}",
+        "std":"\u2220AED=\u2220BER\n\u2234AE=EB\uff0c\u2220AEQ=\u2220BEM\n\u2234\u25b3AEQ\u224c\u25b3BEM\n\u2235\u70b9E\u662fAB\u7684\u4e2d\u70b9\uff0cD,E,R\u4e09\u70b9\u5171\u7ebf\n\u2234\u2220AQE=\u2220EMB\n\u2234AQ=BM\n\u540c\u7406\u25b3AED\u224c\u25b3BER\n\u2234MB\u2225AQ\n\u2235BM\u2225PC\n\u2234AD=BR=BC\n\u2220ADE=\u2220BRE\n\u2235AQ\u2225PC,BM\u2225PC\n\u2234$PC=2AQ$\n(1)\u8bc1\u660e:DE\u548cCB\u7684\u5ef6\u957f\u7ebf\u76f8\u4ea4\u4e8e\u70b9R\uff0c\u4f5cBM\u2225PC,\u4ea4DR\u4e8e\u70b9M"
+    },
+    {
+        "questionId":"2511C712941D4884B35B86308B6EF3F6",
+        "stem":"\u5df2\u77e5\uff1a\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62\uff0c\u70b9E\u662fAB\u4e0a\u4e00\u70b9\uff0c\u70b9F\u662fBC\u5ef6\u957f\u7ebf\u4e0a\u4e00\u70b9\uff0c\u4e14DE=DF\uff0c\u8fde\u63a5AC\uff0cAC\u548cEF\u4ea4\u4e8e\u70b9M\uff0c\u25b3DAE\u224c\u25b3DCF",
+        "subStem":"\u6c42\u8bc1\uff1a\u70b9M\u662fEF\u7684\u4e2d\u70b9",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"4,4\",\"D\":\"0,4\",\"E\":\"2,0\",\"F\":\"4,6\"},\"collineations\":{\"0\":\"B###C###F\",\"1\":\"A###E###B\",\"2\":\"A###D\",\"3\":\"C###D\",\"4\":\"D###E\",\"5\":\"D###F\"},\"circles\":[]}",
+        "std":"\u8bc1\u660e;\u4f5cGF\u22a5CF\uff0cGF\u4ea4AC\u7684\u5ef6\u957f\u7ebf\u4e8e\u70b9G,\n\u2234AB\u2225GF.\n\u2234FC=FG.\n\u5373M\u662fEF\u7684\u4e2d\u70b9.\n\u2235\u25b3DAE\u224c\u25b3DCF,\n\u5219\u2220GFC=90\u00b0.\n\u2234AE=FG.\n\u2234\u2220BAC=\u2220G.\n\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2220B=90\u00b0,\n\u5728\u25b3AEM\u548c\u25b3GFM\u4e2d,,\n\u2234\u2220BAC=\u2220BCA=\u2220FCG=\u2220G=45\u00b0.\n\u2235ABCD\u662f\u6b63\u65b9\u5f62\n\u2234\u2220GFC=\u2220B.\n\u2234AB=BC,\n\u2234\u25b3AEM\u224c\u25b3GFM(AAS).\n\u2234\u2220BAC=\u2220BCA=45\u00b0.\n\u2234ME=MF.\n\u2234AE=CF."
+    },
+    {
+        "questionId":"2511C712941D4884B35B86308B6EF3F6_1",
+        "stem":"\u5df2\u77e5\uff1a\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62\uff0c\u70b9E\u662fAB\u4e0a\u4e00\u70b9\uff0c\u70b9F\u662fBC\u5ef6\u957f\u7ebf\u4e0a\u4e00\u70b9\uff0c\u4e14DE=DF\u3002",
+        "subStem":"\u5982\u56fe1,\u6c42\u8bc1:DF\u22a5DE\uff1b",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"4,4\",\"D\":\"0,4\",\"E\":\"2,0\",\"F\":\"4,6\"},\"collineations\":{\"0\":\"B###C###F\",\"1\":\"A###E###B\",\"2\":\"A###D\",\"3\":\"C###D\",\"4\":\"D###E\",\"5\":\"D###F\"},\"circles\":[]}",
+        "std":"\u2234Rt\u25b3DAE\u224cRt\u25b3DCF(HL)\u3002\n\u2234\u2220ADE=\u2220CDF\uff0c\n\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62\uff0c\n\u2234DA=DC\uff0c\u2220DAE=\u2220DCB=90\u00b0\u3002\n\u2234DF\u22a5DE.\n\u2234\u2220CDF+\u2220CDE=90\u00b0\uff0c\n\u5373\u2220EDF=90\u00b0\uff0c\n\u5728Rt\u25b3DAE\u548cRt\u25b3DCF\u4e2d\uff0c\n\u2234\u2220DCF=180\u00b0-90\u00b0=90\u00b0.\n\u2235\u2220ADE+\u2220CDE=90\u00b0\uff0c\n\u2234\u2220DAE=\u2220DCF\u3002"
+    },
+    {
+        "questionId":"2512C4B96A2A4B32832CD7AECC0A109A",
+        "stem":"\u6c42\u65b9\u7a0b$(x+2)^{2}=25$",
+        "subStem":null,
+        "geoInfo":"{\"extra_root\":[],\"solvesList\":[[\"(x+2)^(2)=25\",\"(x+2)=\u00b15\",\"x_1=-7\uff0cx_2\",\"-7\uff0cx_2=3\"]],\"variablesList\":[[]],\"defaultKnowledge\":[{\"name\":\"delta\",\"expression\":\"delta=b^2-4ac\"},{\"name\":\"weidaAdd\",\"expression\":\"x_1+x_2=-b\/a\"},{\"name\":\"weidaMul\",\"expression\":\"x_1*x_2=c\/a\"},{\"name\":\"x_1\",\"expression\":\"x_1=-b+sqrt(b^2-4*a*c)\/2*a\"},{\"name\":\"x_2\",\"expression\":\"x_2=-b-sqrt(b^2-4*a*c)\/2*a\"}],\"dynamicVariables\":[],\"equationList\":[{\"name\":\"equation0\",\"expression\":\"(x+2)^(2)=25\"}]}",
+        "std":"\u89e3\u5f97:$x_{1}=-7$\uff0c$x_{2}=3$\n\u89e3:\u2235$(x+2)^{2}=25$\n\u2234$(x+2)=\\pm 5$"
+    },
+    {
+        "questionId":"261B84F6F4C04EBB9D12B260A8590CD4",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u2206ABC\u662f\u76f4\u89d2\u4e09\u89d2\u5f62\uff0c\u2220ACB=90\u00b0\uff0cCD\u22a5AB\u4e8e\u70b9D\uff0c\u70b9E\u662fAC\u7684\u4e2d\u70b9\uff0cED\u4e0eCB\u4ea4\u4e8e\u70b9F",
+        "subStem":"(1)\u6c42\u8bc1\uff1a${FD^2} = FB \\cdot FC$",
+        "geoInfo":"{\"coordinates\":{\"C\":\"0,0\",\"A\":\"0,8\",\"B\":\"4,0\",\"D\":\"3.2,1.6\",\"E\":\"0,4\",\"F\":\"5.33333333,0\"},\"collineations\":{\"0\":\"A###E###C\",\"1\":\"C###B###F\",\"2\":\"B###D###A\",\"3\":\"E###D###F\",\"4\":\"C###D\"},\"circles\":[]}",
+        "std":"(1)\u8bc1\u660e\uff1a\u2235E\u662fRt\u2206ACD\u659c\u8fb9\u4e0a\u7684\u4e2d\u70b9\n\u2235$\\angle FDC = \\angle CDB + \\angle BDF = 90^\\circ  + \\angle BDF$\n\u2234$\\frac{{FB}}{{FD}} = \\frac{{FD}}{{FC}}$\n\u5373${FD^2} = FB \\cdot FC$\n\u2234$\\angle FDC = \\angle FBD$\n\u2234$DE=EA$\n$\\angle FBD = \\angle ACB + \\angle A = 90^\\circ  + \\angle A$\n\u2234$\\angle A = \\angle BDF$\n\u2234$\\angle A = \\angle ADE$\n\u2235\u2220F = \u2220F\n\u2234\u2206FBD\u223d\u2206FDC\n\u2235$\\angle BDF  = \\angle ADE$"
+    },
+    {
+        "questionId":"26C1FBC398264075A71399C3BA295878",
+        "stem":"\u5982\u56fe\u25b3ABC\u4e2d\uff0cAB=AC\uff0c\u70b9D\u662fBC\u4e0a\u4e00\u70b9\uff0c\u70b9F\u662fAC\u4e0a\u4e00\u70b9\uff0cDE\u22a5AB\u4e8e\u70b9E\uff0cFD\u22a5BC\u4e8e\u70b9D\uff0c\u70b9G\u662fFC\u7684\u4e2d\u70b9\uff0c\u8fde\u63a5GD\uff0c",
+        "subStem":"\u6c42\u8bc1:GD\u22a5DE.",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"C\":\"1,3\",\"B\":\"3,1\",\"D\":\"1.7436024238159948,2.256397576184005\",\"E\":\"2.246161454289597,0.748720484763199\",\"F\":\"0.25639757618400516,0.7691927285520155\",\"G\":\"0.6281987880920026,1.8845963642760077\"},\"collineations\":{\"0\":\"A###E###B\",\"1\":\"B###D###C\",\"2\":\"A###F###G###C\",\"3\":\"G###D\",\"4\":\"E###D\",\"5\":\"F###D\"},\"circles\":[]}",
+        "std":"\u2234\u2220FDG+\u2220FDE=90\u00b0\n\u2234GD=GF\n\u2234\u2220BDE=\u2220FDG\n\u2234GD\u22a5DE\n\u2235DE\u22a5AB\uff0cFD\u22a5BC\n\u2234\u2220BDE+\u2220GDC=90\u00b0\n\u2234\u2220B=\u2220C\n\u2234\u2220BDE+\u2220B=90\u00b0,\u2220CFD+\u2220C=90\u00b0\n\u8bc1\u660e\uff1a\u2235AB=AC\n\u2235G\u662f\u76f4\u89d2\u4e09\u89d2\u5f62FDC\u7684\u659c\u8fb9\u4e2d\u70b9\n\u2235\u2220FDC=\u2220FDG+\u2220GDC=90\u00b0\n\u2234\u2220BED=\u2220FDC=90\u00b0\n\u2234\u2220BDE=\u2220CFD\n\u2234\u2220FDG=\u2220CFD"
+    },
+    {
+        "questionId":"2711BB53856840758B48CEF15EA34D0C",
+        "stem":"\u5728\u25b3ABC\u4e2d\uff0c$AB=\\sqrt{3}$\uff0c$AC=\\sqrt{2}$\uff0cBC=1.",
+        "subStem":"(1) \u6c42$\\sin \u2220A$\u7684\u503c;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"1.7320508075688772,0\",\"C\":\"1.056878386793056,0.7376599502641563\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"C###A\"},\"circles\":[]}",
+        "std":"(1)\u89e3\uff1a\u2235${{BC}^{2}}+{{AC}^{2}}=1+2=3={{AB}^{2}}$\n\u2234\u25b3ABC\u662f\u76f4\u89d2\u4e09\u89d2\u5f62,\u4e14\u2220C=90\u00b0\n\u2235$\\sin \u2220A=\\frac{BC}{AB}=\\frac{1}{\\sqrt{3}}=\\frac{\\sqrt{3}}{3} $"
+    },
+    {
+        "questionId":"2750CD88BED44A42827FB458B029D68A",
+        "stem":"\u5982\u56fe\uff0c$EF$\u662f$\\odot O$\u7684\u76f4\u5f84\uff0c$AB$\u662f$\\odot O$\u7684\u5f26\uff0c\u70b9$P$\u5728$EF$\u7684\u5ef6\u957f\u7ebf\u4e0a\uff0c$PA$\u4e0e$\\odot O$\u76f8\u5207\u4e8e\u70b9A\uff0c\u4f5c$PO$\u5782\u76f4$AB$\u4e8e\u70b9D\uff0c$BO$\u4ea4$\\odot O$\u4e8e\u70b9C\uff0c\u8fde\u63a5$AC$,$BF$.",
+        "subStem":"(1)\u6c42\u8bc1:$PB$\u4e0e$\\odot O$\u76f8\u5207\uff1b",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"A\":\"-2,0\",\"P\":\"-2,3\",\"E\":\"-1.1094003924504583,1.6641005886756872\",\"F\":\"1.1094003924504583,-1.6641005886756872\",\"B\":\"0.7692307692307693,1.846153846153846\",\"D\":\"-0.6153846153846154,0.923076923076923\",\"C\":\"-0.7692307692307693,-1.8461538461538463\"},\"collineations\":{\"0\":\"P###A\",\"1\":\"P###E###D###O###F\",\"2\":\"B###O###C\",\"3\":\"A###C\",\"4\":\"B###F\",\"5\":\"A###D###B\",\"6\":\"P###B\",\"7\":\"O###A\"},\"circles\":[{\"id\":17,\"center\":\"O\",\"pointincircle\":\"A###E###B###F###C\"}]}",
+        "std":"\u2234$\\angle OAP=\\angle OBP=90^\\circ $\n\u2234$\\vartriangle OAP\u224c\\vartriangle OBP(SSS)$\n\u2234$PA=PB$\n\u2234\u70b9D\u4e3a$AB$\u4e2d\u70b9\n(1)\u8bc1\u660e:\u8fde\u63a5$OA$\n\u2235\u5728$\\vartriangle OAP$\u548c$\\vartriangle OBP$\u4e2d\n$\\left\\{ \\begin{array}{l}AP = BP\\\\OP = OP\\\\OA = OB\\end{array} \\right.$\n\u5373$\\angle OAP=90^\\circ $\n\u2235$PA$\u4e0e\u5706O\u76f8\u5207\n\u2235$OP\\bot AB$\n\u5219\u76f4\u7ebf$PB$\u4e3a\u5706O\u7684\u5207\u7ebf\n\u5373$OP$\u5782\u76f4\u5e73\u5206$AB$\n\u2234$BP\\bot OB$\n\u2234$PA\\bot OA$"
+    },
+    {
+        "questionId":"27AB723D1623445C9C7C943E00147A12",
+        "stem":"\u7528\u516c\u5f0f\u6cd5\u89e3\u65b9\u7a0b$7x^{2}-6x-5=0$;",
+        "subStem":null,
+        "geoInfo":"{\"extra_root\":[],\"solvesList\":[[\"7*x^(2)-6*x-5=0\",\"x_1=((3+2*((11)^(1\/(2))))\/(7))\",\"x_2=((3-2*((11)^(1\/(2))))\/(7))\"]],\"variablesList\":[[\"a=7\",\"b=-6\",\"c=-5\",\"b^(2)-4*a*c=176\"]],\"defaultKnowledge\":[{\"name\":\"delta\",\"expression\":\"delta=b^2-4ac\"},{\"name\":\"weidaAdd\",\"expression\":\"x_1+x_2=-b\/a\"},{\"name\":\"weidaMul\",\"expression\":\"x_1*x_2=c\/a\"},{\"name\":\"x_1\",\"expression\":\"x_1=-b+sqrt(b^2-4*a*c)\/2*a\"},{\"name\":\"x_2\",\"expression\":\"x_2=-b-sqrt(b^2-4*a*c)\/2*a\"}],\"dynamicVariables\":[],\"equationList\":[{\"name\":\"equation0\",\"expression\":\"7*x^(2)-6*x-5=0\"}]}",
+        "std":"\u89e3:$7x^{2}-6x-5=0$\n\u2234$x_{1}=\\frac{3+2\\sqrt{11}}{7}$\uff0c$x_{2}=\\frac{3-2\\sqrt{11}}{7}$\na=7\uff0cb=-6\uff0cc=-5\n$\\Delta =b^{2}-4ac=176$"
+    },
+    {
+        "questionId":"27DE4C44184241B2B96B47A5CCEB9538",
+        "stem":"\u5982\u56fe\uff0c\u25b3ABC\u4e0eADB\u76f8\u4f3c\uff0cAD=4\uff0cCD=6\uff0c",
+        "subStem":"\u6c42\u25b3ABC\u4e0eADB\u7684\u76f8\u4f3c\u6bd4.",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"C\":\"10,0\",\"A\":\"1.9999999997870148,5.999999999716021\",\"D\":\"5.199999999872209,3.599999999829613\"},\"collineations\":{\"0\":\"B###A\",\"1\":\"A###D###C\",\"2\":\"B###C\",\"3\":\"B###D\"},\"circles\":[]}",
+        "std":"\u89e3:\u2235\u25b3ABC\u4e0e\u25b3ADB\u76f8\u4f3c,\n$ \\therefore \\triangle A B C $ \u4e0e $ \\triangle A D B $ \u7684\u76f8\u4f3c\u6bd4\u4e3a $ \\frac{A B}{A D}=\\frac{\\sqrt{40}}{4}=\\frac{\\sqrt{10}}{2} $.\n\u2234\u25b3ABC\u223d\u25b3ADB,\n$ \\therefore \\frac{A B}{A D}=\\frac{A C}{A B} $,\n$ \\therefore A B^{2}=A C \\cdot A D=10 \\times 4=40 $ \uff0c"
+    },
+    {
+        "questionId":"27FD67C167EC4D06B3EDC01C97F8D5CD",
+        "stem":"\u5982\u56fe\uff0c\u76f4\u7ebfL\u8fc7\u6b63\u65b9\u5f62ABCD\u7684\u9876\u70b9B\uff0c\u70b9A\u3001\u70b9C\u5230\u76f4\u7ebfL\u7684\u8ddd\u79bb\u5206\u522b\u662f2\u548c1\uff0c",
+        "subStem":"\u6c42\u6b63\u65b9\u5f62ABCD\u7684\u8fb9\u957f",
+        "geoInfo":"{\"coordinates\":{\"E\":\"0,0\",\"A\":\"0,2\",\"B\":\"1,0\",\"F\":\"3,0\",\"C\":\"3,1\",\"D\":\"2,3\"},\"collineations\":{\"0\":\"A###E\",\"1\":\"E###B###F\",\"2\":\"A###B\",\"4\":\"F###C\",\"5\":\"C###B\",\"6\":\"A###D\",\"7\":\"D###C\"},\"circles\":[]}",
+        "std":"\u5728\u25b3AEB\u548c\u25b3BFC\u4e2d,,\n\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2235AE\u22a5EF\uff0cCF\u22a5EF\uff0cAE=2\uff0cCF=1,\n\u2234\u2220EAB+\u2220EBA=90\u00b0,\u2220EBA+\u2220CBF=90\u00b0,\n\u5373\u6b63\u65b9\u5f62ABCD\u7684\u8fb9\u957f\u4e3a.\n\u2234AB=BC,\u2220ABC=90\u00b0,\n\u2234\u25b3AEB\u224c\u25b3BFC(AAS),\n\u2234\u2220EAB=\u2220CBF,\n\u2234AB=,\n\u2234BF=AE=2,BE=CF=1,"
+    },
+    {
+        "questionId":"284BB5F0B4FB4EBE96389A74928B2479",
+        "stem":"\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62\uff0c\u2220ABC=120\u00b0\uff0cAG\u22a5BE\uff0cAG\u4ea4EB\u7684\u5ef6\u957f\u7ebf\u4e8e\u70b9G\uff0cAG\u7684\u5ef6\u957f\u7ebf\u4e0eDB\u7684\u5ef6\u957f\u7ebf\u4ea4\u4e8e\u70b9F\uff0c",
+        "subStem":"\u8ba1\u7b97\uff1a$\\frac{AF}{BE}$",
+        "geoInfo":"{\"coordinates\":{\"O\":\"3,1.7320508075688776\",\"A\":\"0,0\",\"B\":\"2,3.464101615137755\",\"C\":\"6,3.464101615137755\",\"D\":\"4,0\",\"E\":\"4.729001541913055,2.730290313221658\",\"G\":\"1.003524088029974,3.7320477027673564\",\"F\":\"1.2709984580869447,4.726769324527219\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"C###D\",\"3\":\"A###D\",\"4\":\"A###O###E###C\",\"5\":\"F###B###O###D\",\"6\":\"G###B###E\",\"7\":\"A###G###F\"},\"circles\":[]}",
+        "std":"\u2234\u2220EAG+\u2220BEA=90\u00b0,\n\u2234AC\u22a5BD\uff0c\u2220ABO=60\u00b0,\n\u2234$\\frac{AO}{OB}=tan60\u00b0=\\sqrt{3}$,\n\u2234$\\frac{AF}{BE}=\\sqrt{3}$,\n\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62,\u2220ABC=120\u00b0,\n\u53c8\u2235\u2220AOF=\u2220BOE=90\u00b0,\n\u2234\u2220AFO=\u2220BEA,\n\u2234\u25b3AOF\u223d\u25b3BOE,\n\u2235AG\u22a5BE,\n\u2235\u2220ABO=60\u00b0\uff0cAC\u22a5BD,\n\u2234\u2220FAO+\u2220AFO=90\u00b0,"
+    },
+    {
+        "questionId":"284BB5F0B4FB4EBE96389A74928B2479_1",
+        "stem":"ABCD\u662f\u6b63\u65b9\u5f62\uff0cAC\u4e0eBD\u4ea4\u4e8e\u70b9O\uff0c\u70b9E\u662fOC\u4e0a\u4efb\u610f\u4e00\u70b9\uff0cAG\u22a5BE\u4e8e\u70b9G\uff0cAG\u4ea4BD\u4e8e\u70b9F.",
+        "subStem":"\u6c42\u8bc1:AF=BE;",
+        "geoInfo":"{\"variable_equals\":{},\"coordinates\":{\"A\":\"-21\/5,0\",\"B\":\"0,0\",\"C\":\"0,-21\/5\",\"D\":\"-21\/5,-21\/5\",\"E\":\"-29\/5,8\/5\",\"F\":\"-29\/5,-29\/5\",\"G\":\"-17661\/4525,4872\/4525\",\"O\":\"-21\/10,-21\/10\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"C###B\",\"2\":\"D###C\",\"3\":\"D###A\",\"4\":\"F###D###O###B\",\"5\":\"F###A###G\",\"6\":\"E###A###O###C\",\"7\":\"E###G###B\"},\"circles\":[]}",
+        "std":"\u2234\u25b3AFO\u224c\u25b3BEO,\n\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2234\u2220AOB=\u2220BOC=90\u00b0\uff0cAO=BO,\n\u2234AF=BE;\nAC\u4e0eBD\u4ea4\u4e8e\u70b9O\n\u2235AG\u22a5BE\uff0c\u2220AFO=\u2220BFG,\n\u2234\u2220FAO=\u2220FBG,\n$\\left\\{ \\begin{array}{l}\\angle AOF = \\angle BOE\\\\\\angle FAO = \\angle FBG\\\\AO = BO\\end{array} \\right.$\n\u5728\u25b3AFO\u4e0e\u25b3BFO\u4e2d,"
+    },
+    {
+        "questionId":"28B2B5CD26B341BEABA73229D02A1A14",
+        "stem":"\u5982\u56fe\uff0c\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220ACB\uff1d90\u00b0\uff0cAC\uff1d8\uff0cBC\uff1d6\uff0c\u70b9D\u4e3aAB\u4e0a\u4e00\u70b9\uff0c\u5706O\u4ee5BD\u4e3a\u76f4\u5f84\uff0cAC\u4e0e\u5706O\u76f8\u5207\u4e8e\u70b9E\uff0c\u5706O\u4ea4BC\u4e8e\u70b9F\uff0c",
+        "subStem":"(1)\u6c42\u5706O\u7684\u534a\u5f84;",
+        "geoInfo":"{\"coordinates\":{\"O\":\"3.75,3\",\"C\":\"0,0\",\"A\":\"0,8\",\"B\":\"6,0\",\"E\":\"0,3\",\"D\":\"1.5,6\",\"F\":\"1.5,0\"},\"collineations\":{\"0\":\"A###E###C\",\"1\":\"A###D###O###B\",\"2\":\"B###F###C\",\"3\":\"O###E\"},\"circles\":[{\"id\":27,\"center\":\"O\",\"pointincircle\":\"B###F###E###D\"}]}",
+        "std":"\u2235AC\u4e0e\u5706O\u76f8\u5207\u4e8e\u70b9E\n\u2235\u2220C=90\u00b0\n\u2234$r=\\frac{15}{4}$\n\u2234\u25b3AOE\u223d\u25b3ABC\n\u8fde\u63a5OE\n\u2234AB=10\n\u8bbe\u5706O\u7684 \u534a\u5f84\u4e3ar\n\u2234$\\frac{AO}{AB}=\\frac{OE}{BC}$ \u5373$\\frac{10-r}{10}=\\frac{r}{6}$\n\u2234OE\u22a5AC\n\u2235AC=8,BC=6"
+    },
+    {
+        "questionId":"29CE1B53264A4910A858A51F0B0B2E81",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u25b3ABC\u223d\u25b3AED,AD=5cm,AC=10cm,AE=6cm\uff0c\u2220A=66\u00b0\uff0c\u2220ADE=65\u00b0\uff0c",
+        "subStem":"\u6c42AB\u7684\u957f\u53ca\u2220C\u7684\u5ea6\u6570.",
+        "geoInfo":"{\"coordinates\":{\"C\":\"10,0\",\"A\":\"5.773817382593006,9.063077870366499\",\"B\":\"-2.0913348419779236,0\",\"D\":\"2.496670622355119,5.286795424380458\",\"E\":\"8.309526953037203,3.625231148146602\"},\"collineations\":{\"0\":\"C###E###A\",\"1\":\"B###D###A\",\"2\":\"B###C\",\"3\":\"D###E\"},\"circles\":[]}",
+        "std":"\u89e3\u5f97:AB=12cm.\n\u2234\u2220ADE=\u2220C=65\u00b0,\n\u89e3:\u2235\u25b3ABC\u223d\u25b3AED\uff0c\u2220ADE=65\u00b0,\n$\\because \\frac{A D}{A C}=\\frac{A E}{A B}$\n$\\therefore \\frac{5}{10}=\\frac{6}{A B}$"
+    },
+    {
+        "questionId":"2B055DA2930D41A09D58E646912C84F6_1",
+        "stem":"\u5982\u56fe\uff0c\u25b3ADE\u223d\u25b3ABC\uff0cAD=3\uff0cDB=2\uff0cDE=2.4\uff0c\u2220A=50\u00b0\uff0c\u2220B=60\u00b0",
+        "subStem":"(2)\u6c42BC\u7684\u957f\u5ea6.",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"A\":\"2.5,4.33012701\",\"D\":\"1,1.73\",\"E\":\"3.3978389035824477,1.8633348892512833\",\"C\":\"3.9951787988940435,0.22215701058721943\"},\"collineations\":{\"0\":\"B###D###A\",\"1\":\"D###E\",\"2\":\"A###E###C\",\"3\":\"B###C\"},\"circles\":[]}",
+        "std":"\u2234AB=AD+BD=3+2=5,\n\u2234BC=4.\n\u2235AD=3\uff0cDB=2\uff0cDE=2.4,\n(2)\u2235\u25b3ADE\u223d\u25b3ABC,"
+    },
+    {
+        "questionId":"2B6E252958064627A87A687A600404E5",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u25b3ABC\u4e2d\uff0c\u2220C=90\u00b0\uff0c$AB=BC=\\sqrt{2}$\uff0c\u5c06\u25b3ABC\u7ed5\u70b9A\u987a\u65f6\u9488\u65b9\u5411\u65cb\u8f6c60\u00b0\u5230\u25b3AB\u2019C\u2019\u7684\u4f4d\u7f6e\uff0c\u8fde\u63a5C\u2019B\uff0c\u6c42C\u2019B\u7684\u957f.",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"C\":\"0,0\",\"B\":\"0,1.414\",\"A\":\"1.414,0\",\"B^{'}\":\"1.931559920951196,1.9315599209511962\",\"C^{'}\":\"0.7069999999999999,1.2245599209511961\"},\"collineations\":{\"0\":\"C###A\",\"1\":\"A###B\",\"2\":\"B###C\",\"3\":\"C^{'}###B^{'}\",\"4\":\"B###C^{'}\",\"5\":\"B^{'}###A\",\"6\":\"C^{'}###A\"},\"circles\":[]}",
+        "std":"\u2234$AB={\\sqrt {{(\\sqrt {2})}^{2}+{(\\sqrt {2})}^{2}}}=2$\n\u2235\u25b3ABC\u7ed5\u70b9A\u987a\u65f6\u9488\u65b9\u5411\u65cb\u8f6c60\u00b0\u5f97\u5230\u25b3AB\u2032C\u2032\n\u5219BD\u22a5AB\u2032\n\u2235\u2220C=90\u00b0,$AC=BC={\\sqrt {2}}$\n\u2234AB=AB\u2032,\u2220BAB\u2032=60\u00b0\n\u2234$BC\u2032=BD-C\u2032D={\\sqrt {3}}-1$\n\u2234AB=BB\u2032\n\u2234\u2220ABC\u2032=\u2220B\u2032BC\u2032\n\u2234\u25b3ABC\u2032\u224c\u25b3B\u2032BC\u2032(SSS)\n$\\left\\{ \\begin{array}{l}AB = BB'\\\\AC' = B'C'\\\\BC' = BC'\\end{array} \\right.$\n\u2234\u25b3ABB\u2032\u662f\u7b49\u8fb9\u4e09\u89d2\u5f62\nBC\u7684\u5ef6\u957f\u7ebf\u2032\u4ea4AB\u2032\u4e8eD\n\u2234$BD=2\u00d7{\\frac {\\sqrt {3}}{2}}={\\sqrt {3}}$\n$C\u2032D={\\frac {1}{2}}\u00d72=1$\n\u89e3:\u5982\u56fe,\u8fde\u63a5BB\u2032\n<img>\n\u5728\u25b3ABC\u2032\u548c\u25b3B\u2032BC\u2032\u4e2d"
+    },
+    {
+        "questionId":"2B84A0E0575D4BF2BD2A0759EE3624F2",
+        "stem":"\u5982\u56fe\uff0c\u56db\u8fb9\u5f62ABCD\u4e3a\u83f1\u5f62\uff0cM\u4e3aBC\u4e0a\u4e00\u70b9\uff0c\u8fde\u63a5AM\u4ea4\u5bf9\u89d2\u7ebfBD\u4e8e\u70b9G\uff0c\u5e76\u4e14\u2220ABC=2\u2220BAM.",
+        "subStem":"(1)\u6c42\u8bc1:AG=BG;",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"C\":\"4,0\",\"A\":\"2,3.46410161\",\"D\":\"6,3.46410161\",\"M\":\"2,0\",\"G\":\"2,1.1547005366666667\"},\"collineations\":{\"0\":\"B###M###C\",\"1\":\"B###A\",\"2\":\"A###D\",\"3\":\"C###D\",\"4\":\"B###G###D\",\"5\":\"A###G###M\"},\"circles\":[]}",
+        "std":"\u2234\u2220ABD=\u2220CBD\n\u2235\u2220ABM=2\u2220BAM\n\u2234AG=BG\n(1)\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62\n\u2234\u2220ABD=\u2220BAM"
+    },
+    {
+        "questionId":"2C1B80CD8C634037808A8239E13E9013_1",
+        "stem":"\u5728\u56fe\u4e2d\uff0c\u25b3ABC\u4e3a\u76f4\u89d2\u4e09\u89d2\u5f62\uff0c\u2220ACB=90\u00b0\uff0c\u2220B=30\u00b0\uff0c\u4ee5\u70b9C\u4e3a\u65cb\u8f6c\u4e2d\u5fc3,\u5c06\u25b3ABC\u65cb\u8f6c\u5230\u25b3A\u2032B\u2032C\u2032\uff0c\u4f7fA\u2032B\u2032\u7ecf\u8fc7\u70b9A.",
+        "subStem":"(2)\u6c42\u7ebf\u6bb5AC\u4e0e\u7ebf\u6bb5A\u2032B\u2032\u7684\u6570\u91cf\u5173\u7cfb.",
+        "geoInfo":"{\"coordinates\":{\"C\":\"0,0\",\"A\":\"0,3\",\"B\":\"5.196152422706632,0\",\"A'\":\"-2.598076211353316,1.5000000000000004\",\"B'\":\"2.5980762113533165,4.5\"},\"collineations\":{\"0\":\"A###C\",\"1\":\"C###B\",\"2\":\"B###A\",\"3\":\"A'###C\",\"4\":\"A'###A###B'\",\"5\":\"B'###C\"},\"circles\":[]}",
+        "std":"\u2234A\u2032B\u2032=2AC\n\u2234AB=2AC\uff0c\u2220BAC=60\u00b0\n\u2234A\u2032B\u2032=AB\uff0c\u7531(1)\u77e5:AB=2AC\n\u2234\u2220A\u2032=\u2220A\u2032AC=60\u00b0\n\u2234\u2220ACA\u2032=180\u00b0-120\u00b0=60\u00b0\n1\n(2)\u2235\u25b3ABC\u224c\u25b3A\u2032B\u2032C\u2032\n\u2234\u2220A\u2032=\u2220BAC=60\u00b0\uff0cAC=A\u2032C\n1\n1\n1\n1\n(1)\u89e3:\u2235\u2220ACB=90\u00b0\uff0c\u2220B=30\u00b0\n\u2235\u25b3ABC\u224c\u25b3A\u2032B\u2032C\u2032\n1"
+    },
+    {
+        "questionId":"2C7A365C1B204E44BB5AF1CEDB807275",
+        "stem":"\u5982\u56fe\u5df2\u77e5\u70b9O\u662f\u76f4\u7ebfAB\u4e0a\u7684\u4e00\u70b9\uff0c$\u2220COE=90\u00b0$\uff0cOF\u662f$\u2220AOE$\u7684\u5e73\u5206\u7ebf.\u5f53\u70b9C,E,F\u5728\u76f4\u7ebfAB\u7684\u540c\u4fa7\u65f6",
+        "subStem":"\u8bd5\u8bf4\u660e$\u2220BOE=2\u2220COF$;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0.00,0.00\",\"B\":\"9.00,0.00\",\"C\":\"0.00,3.00\",\"E\":\"6.00,3.00\",\"F\":\"1.60,3.38\",\"O\":\"3.00,0.00\"},\"collineations\":{\"0\":\"A###O###B\",\"1\":\"C###O\",\"2\":\"F###O\",\"3\":\"E###O\"},\"circles\":[]}",
+        "std":"$\u2220BOE=180\u00b0-\u2220COE-\u2220AOC=180\u00b0-90\u00b0-(90\u00b0-2\u03b1)=2\u03b1$\n\u89e3:(1)\u8bbe\u2220COF=\u03b1\uff0c\n\u2234$\u2220AOC=(90\u00b0-\u03b1)-\u03b1=90\u00b0-2\u03b1$\n\u5219$\u2220EOF=90\u00b0-\u03b1$\n\u2234$\u2220AOF=90\u00b0-\u03b1$\n\u5373$\u2220BOE=2\u2220COF$\n\u2235OF\u662f$\u2220AOE$\u5e73\u5206\u7ebf"
+    },
+    {
+        "questionId":"2D374CB3572C4E50B173BADF9C563DD2",
+        "stem":"\u5728\u25b3ABC\u4e2d\uff0cAB=6\uff0cAC=8\uff0c\u70b9D,E\u5206\u522b\u662fAB,AC\u8fb9\u4e0a\u7684\u70b9\uff0c\u4e14AD=2\uff0c\u8fde\u63a5DE\uff0c\u82e5\u25b3ADE\u4e0e\u25b3ABC\u76f8\u4f3c\u3002",
+        "subStem":"\u6c42AE\u7684\u957f",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"0,6\",\"C\":\"8,0\",\"D\":\"0,2\",\"E\":\"2.6667,0\"},\"collineations\":{\"0\":\"B###D###A\",\"1\":\"A###E###C\",\"2\":\"C###B\",\"3\":\"D###E\"},\"circles\":[]}",
+        "std":"\u89e3:\u2235\u2220DAE=\u2220BAC,\n\u5f53\u25b3ADE\u223d\u25b3ABC,\n$AE=\\frac{8}{3}$;\n\u5373$\\frac{2}{6}=\\frac{AE}{8}$,\n\u53ef\u5f97$\\frac{AD}{AB}=\\frac{AE}{AC}$"
+    },
+    {
+        "questionId":"2D513F9E074B405FB4EE92561011E398",
+        "stem":"(\u52a8\u70b9\u95ee\u9898)\u5982\u56fe,\u5728\u5e73\u9762\u76f4\u89d2\u5750\u6807\u7cfb\u4e2d\uff0cO\u4e3a\u539f\u70b9,\u56db\u8fb9\u5f62OABC\u662f\u957f\u65b9\u5f62\uff0cA(10,0)\uff0cC(0,3)\uff0cD\u662fOA\u7684\u4e2d\u70b9\uff0c\u70b9P\u5728BC\u8fb9\u4e0a\u8fd0\u52a8\uff0c\u5f53\u25b3ODP\u662f\u8170\u957f\u4e3a5\u7684\u7b49\u8170\u4e09\u89d2\u5f62\u65f6\uff0c\u6c42\u70b9P\u7684\u5750\u6807.",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"A\":\"10,0\",\"C\":\"0,3\",\"B\":\"10,3\",\"D\":\"5,0\",\"P\":\"4,3\"},\"collineations\":{\"0\":\"O###D###A\",\"1\":\"A###B\",\"2\":\"B###P###C\",\"3\":\"C###O\",\"4\":\"O###P\",\"5\":\"P###D\"},\"circles\":[]}",
+        "std":"\u2234$P\\left( 4,3 \\right)$\n\u2460\u5f53OP=OD=5\u65f6\n\u89e3:\u7531\u9898\u610f\u53ef\u77e5OC=3,OD=5,OA=10\n$CP=\\sqrt{O{{P}^{2}}-O{{C}^{2}}}=4$\n$PF=\\sqrt{{{5}^{2}}-{{3}^{2}}}=4$\n\u8fc7D\u4f5c$DF\\bot CB$ \u5219\n\u2234$P\\left( 1,3 \\right)$ \u6216$\\left( 9,3 \\right)$\n\u2461\u5f53PD=OD=5\u65f6\n\u8981\u662f\u25b3 ODP\u4e3a\u8170\u957f\u4e3a5\u7684\u7b49\u8170\u4e09\u89d2\u5f62"
+    },
+    {
+        "questionId":"2E3EA97CF84845458A5810D0292F5C90",
+        "stem":"\u5982\u56fe,\u5728\u7b49\u8170Rt\u25b3ABC\u4e2d\uff0c\u2220BAC=90\u00b0\uff0cAB=AC\uff0c$BC=4\\sqrt{2}$\uff0c\u70b9D\u662fAC\u4e0a\u4e00\u70b9\uff0c\u8fde\u63a5BD\uff0c\u5706O\u4ee5AD\u4e3a\u76f4\u5f84,\u4ea4BD\u4e8e\u70b9E\uff0c",
+        "subStem":"\u6c42\u7ebf\u6bb5CE\u957f\u5ea6\u7684\u6700\u5c0f\u503c",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0.6346263038191067,0\",\"A\":\"0,0\",\"B\":\"0,4\",\"C\":\"4,0\",\"D\":\"1.2692526076382133,0\",\"E\":\"1.1531451482626114,0.36590812160441855\"},\"collineations\":{\"0\":\"A###O###D###C\",\"1\":\"C###B\",\"2\":\"B###A\",\"3\":\"B###E###D\",\"4\":\"E###C\"},\"circles\":[{\"id\":24,\"center\":\"O\",\"pointincircle\":\"A###E###D\"}]}",
+        "std":"\u4ece\u800c\u5f97\u5230CE\u7684\u6700\u5c0f\u503c\u4e3a$2\\sqrt{5}-2$\n\u5148\u6839\u636e\u7b49\u8170\u76f4\u89d2\u4e09\u89d2\u5f62\u7684\u6027\u8d28\u5f97\u5230AB=AC=4,\n\u70b9E\u5728\u4ee5AD\u4e3a\u76f4\u5f84\u7684\u5706O\u4e0a\n\u8fde\u7ed3AE\uff0c\n\u7531AD\u4e3a\u5706O\u7684\u76f4\u5f84\uff0c\u5f97\u5230\u2220AED=90\u00b0\n\u8fde\u7ed3AE\uff0c\n\u4e8e\u662f\u5f53\u70b9O\u3001E\u3001C\u5171\u7ebf\u65f6\uff0cCE\u6700\u5c0f"
+    },
+    {
+        "questionId":"2F0461AFB45849629A846DA91E758666",
+        "stem":"\u5982\u56fe\uff0c\u5728\u25b3ABC\u4e2d\uff0cAD\u5e73\u5206\u2220BAC\uff0cBD\u22a5AD\u4e8e\u70b9D\uff0c\u4f5cDE\u2225AC,\u4ea4AB\u4e8eE\u3002",
+        "subStem":null,
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"0,4\",\"D\":\"2,2\",\"E\":\"2,0\"},\"collineations\":{\"0\":\"C###A\",\"1\":\"A###E###B\",\"2\":\"B###D###C\",\"3\":\"D###E\",\"4\":\"A###D\"},\"circles\":[]}",
+        "std":"(1)\u2235AD\u5e73\u5206\u2220BAC\uff0cDE\u2225AC\n\u2234\u2220EAD=\u2220CAD,\u2220EDA=\u2220CAD\n\u2234\u2220EBD+\u2220EAD=\u2220BDE+\u2220EDA\n\u2234\u2220EBD=\u2220BDE\n\u2234DE=BE\n\u2234\u2220EAD=\u2220EDA\n\u2234\u25b3BDE\u662f\u7b49\u8170\u4e09\u89d2\u5f62\n\u2235BD\u22a5AD"
+    },
+    {
+        "questionId":"2F7905347DFD460FB37B636998054E98",
+        "stem":"a\u7684\u4e24\u4e2a\u5e73\u65b9\u6839\u662f\u65b9\u7a0b3x+2y=2\u7684\u4e00\u7ec4\u89e3\uff1a",
+        "subStem":"(1)\u6c42a\u7684\u503c#%#(2)\u6c42$a^{2}$\u7684\u5e73\u65b9\u6839",
+        "geoInfo":"{\"extra_root\":[],\"solvesList\":[[\"x=-y\",\"3*x+2*y=2\",\"y=-2\"],[\"x=2\"]],\"variablesList\":[[\"a=4\"]],\"defaultKnowledge\":[{\"name\":\"delta\",\"expression\":\"delta=b^2-4ac\"},{\"name\":\"weidaAdd\",\"expression\":\"x_1+x_2=-b\/a\"},{\"name\":\"weidaMul\",\"expression\":\"x_1*x_2=c\/a\"},{\"name\":\"x_1\",\"expression\":\"x_1=-b+sqrt(b^2-4*a*c)\/2*a\"},{\"name\":\"x_2\",\"expression\":\"x_2=-b-sqrt(b^2-4*a*c)\/2*a\"}],\"dynamicVariables\":[],\"equationList\":[{\"name\":\"equation0\",\"expression\":\"3*x+2*y=2\"}]}",
+        "std":"(2)\u2235a=4\n\u2234$a=\\left( \\pm 2 \\right)^{2}=4$\n\u89e3:(1)\u7531\u9898\u610f\u77e5:x=-y\n\u4e143x+2y=2\n16\u7684\u5e73\u65b9\u6839\u662f$\u00b14$\n\u2234$a^{2}$\u7684\u5e73\u65b9\u6839\u662f$\\pm 4$\n\u89e3\u5f97x=2\uff0cy=-2\n\u2234$a^{2}=16$"
+    },
+    {
+        "questionId":"30739927D1FF46B9BCBD71640E6469EE",
+        "stem":"(2016\u2022\u6d77\u5357\u6821\u7ea7\u4e00\u6a21)\u5982\u56fe\uff0c\u5df2\u77e5\u6b63\u65b9\u5f62ABCD\u7684\u8fb9\u957f\u662f2\uff0c\u2220EAF\u7684\u4e24\u8fb9\u5206\u522b\u4ea4BC\u3001CD\u4e8e\u70b9E\u3001F\uff0cG\u662fCB\u5ef6\u957f\u7ebf\u4e0a\u4e00\u70b9\uff0c\u4e14\u59cb\u7ec8\u4fdd\u6301BG=DF.",
+        "subStem":"(1)\u6c42\u8bc1:\u25b3ABG\u224c\u25b3ADF;",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"A\":\"0,2\",\"C\":\"2,0\",\"D\":\"2,2\",\"F\":\"2,1\",\"E\":\"1,0\",\"G\":\"-1,0\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"G###B###E###C\",\"2\":\"C###F###D\",\"3\":\"D###A\",\"4\":\"A###F\",\"5\":\"A###E\",\"6\":\"E###F\",\"7\":\"G###A\"},\"circles\":[]}",
+        "std":"\u2234\u25b3ABG\u224c\u25b3ADF(SAS);\n\u2235BG=DF,\n\u5728\u2234\u25b3ABG\u548c\u25b3ADF\nAB=AD=BC=CD=2,\n\u89e3:(1)\u8bc1\u660e:\u5728\u6b63\u65b9\u5f62ABCD\u4e2d,\n\u2220BAD=\u2220C=\u2220D=\u2220ABC=\u2220ABG=90\u00b0.\n$ \\left\\{\\begin{array}{l}A B=A D \\\\ \\angle A B G=\\angle A D F \\\\ B G=D F\\end{array}\\right. $,"
+    },
+    {
+        "questionId":"30ACDE87374D4878B1A652791ADCDEF2",
+        "stem":"\u89e3\u4e8c\u5143\u4e00\u6b21\u65b9\u7a0b\u7ec4:$\\left\\{\\begin{array}{l}5(x+y)+3(x-y)=90\u2460\\\\5(x+y)-3(x-y)=30\u2461\\end{array}\\right.$",
+        "subStem":null,
+        "geoInfo":"{\"extra_root\":[],\"solvesList\":[[\"3*(x+y)+3*(x-y)=90\",\"5*(x+y)-3*(x-y)=30\",\"10*(x+y)=120\",\"x+y=12\",\"6*(x-y)=60\",\"x-y=10\",\"2*x=22\",\"x=11\",\"y=1\"]],\"variablesList\":[[]],\"defaultKnowledge\":[{\"name\":\"delta\",\"expression\":\"delta=b^2-4ac\"},{\"name\":\"weidaAdd\",\"expression\":\"x_1+x_2=-b\/a\"},{\"name\":\"weidaMul\",\"expression\":\"x_1*x_2=c\/a\"},{\"name\":\"x_1\",\"expression\":\"x_1=-b+sqrt(b^2-4*a*c)\/2*a\"},{\"name\":\"x_2\",\"expression\":\"x_2=-b-sqrt(b^2-4*a*c)\/2*a\"}],\"dynamicVariables\":[],\"equationList\":[{\"name\":\"equation0\",\"expression\":\"5*(x+y)+3*(x-y)=90\"},{\"name\":\"equation1\",\"expression\":\"5*(x+y)-3*(x-y)=30\"}]}",
+        "std":"x-y=10\u2463\n\u89e3: $\\left\\{ \\begin{array}{l}5\\rm(x + y) + 3(x - y) = 90\u2460\\\\5(x + y) - 3(x - y) = 30\u2461\\end{array} \\right.$\n\u2460-\u2461\u5f97:6(x-y)=60\n\u2234\u65b9\u7a0b\u7ec4\u5f97\u89e3\u4e3a$\\left\\{ \\begin{array}{l}x = 11\\\\y = 1\\end{array} \\right.$\n\u5c06x=11\u4ee3\u5165\u2462\u5f97y=1\n\u2462+\u2463\u5f972x=22\nx=11\nx+y=12\u2462\n\u2460+\u2461\u5f97:10(x+y)=120"
+    },
+    {
+        "questionId":"32999DF37FD349E2A199E80049CB061F",
+        "stem":"\u5982\u56fe,\u5728\u25b3ABC\u4e2d\uff0cBE\u22a5AC\u4e8e\u70b9E\uff0cCF\u22a5AB\u4e8e\u70b9F\uff0c\u70b9D\u662fBC\u7684\u4e2d\u70b9\uff0c\u8fde\u63a5FD\u3001ED",
+        "subStem":"\u6c42\u8bc1:\u25b3DEF\u662f\u7b49\u8170\u4e09\u89d2\u5f62.",
+        "geoInfo":"{\"coordinates\":{\"D\":\"0,0\",\"A\":\"0,4\",\"B\":\"-3,0\",\"C\":\"3,0\",\"E\":\"0.84,2.88\",\"F\":\"-0.84,2.88\"},\"collineations\":{\"0\":\"A###F###B\",\"1\":\"A###E###C\",\"2\":\"C###D###B\",\"3\":\"F###E\",\"4\":\"E###D\",\"5\":\"D###F\",\"6\":\"B###E\",\"7\":\"C###F\"},\"circles\":[]}",
+        "std":"\u2234\u2220CFB=90\u00b0,\u2220CEB=90\u00b0\n$\u2234ED=\\frac{1}{2}CB$\n\u2235D\u662fBC\u7684\u4e2d\u70b9\n\u2234DE=DF\n\u8bc1\u660e:\u2235BE\u22a5AC\u4e8e\u70b9E\uff0cCF\u22a5AB\u4e8e\u70b9F\n\u2235D\u662fBC\u7684\u4e2d\u70b9\n\u5728Rt\u25b3BFC\u4e2d\n$\u2234FD=\\frac{1}{2}BC$\n\u5728Rt\u25b3BEC\u4e2d\n\u2234\u25b3DEF\u662f\u7b49\u8170\u4e09\u89d2\u5f62"
+    },
+    {
+        "questionId":"32B8F5AEFF7B46C2923D62D5414C81FC",
+        "stem":"(2012.\u4e50\u5c71)\u5982\u56fe\uff0c\u25b3ABC\u662f\u2299O\u7684\u5185\u63a5\u4e09\u89d2\u5f62\uff0cBD\u662f\u2299O\u7684\u76f4\u5f84,\u4ea4AC\u4e8e\u70b9E\uff0c\u70b9F\u5728AC\u4e0a\uff0c\u70b9G\u5728\u2299O\u4e0a\uff0c\u70b9O\u5728FG\u4e0a\uff0cFG\u22a5AB\u4e8e\u70b9H",
+        "subStem":"(1)\u6c42\u8bc1\uff1a$OF \\cdot DE = OE \\cdot 2OH$\uff1b",
+        "geoInfo":"{\"coordinates\":{\"O\":\"1.9999999999999998,1.625\",\"A\":\"0,0\",\"B\":\"4,0\",\"C\":\"3,4\",\"D\":\"-4.012476625468801e-16,3.25\",\"F\":\"1.9999999999999998,2.6666666666666665\",\"H\":\"1.9999999999999998,0\",\"G\":\"1.9999999999999998,-0.951941016011038\"},\"collineations\":{\"0\":\"A###F###C\",\"1\":\"C###B\",\"2\":\"B###H###A\",\"3\":\"B###O###D\",\"4\":\"D###A\",\"5\":\"F###O###H###G\"},\"circles\":[{\"id\":26,\"center\":\"O\",\"pointincircle\":\"C###D###A###G###B\"}]}",
+        "std":"(1)\u2235BD\u662f\u2299O\u7684\u76f4\u5f84\n\u2234$OF\u00b7DE=OE\u00b72OH$\n\u2234$\\angle EOF = \\angle D$, $\\angle EFO = \\angle EAD$\n\u2234\u25b3FOE\u223d\u25b3ADE\n\u53c8\u2235FG\u22a5AB\n\u2234$AD=2OH$\n\u2234$\\angle DAB = 90^\\circ $\n\u2234DA\u2225FO\n\u2235\u70b9O\u662fBD\u7684\u4e2d\u70b9\uff0cDA\u2225OH\n\u2234$\\frac{{FO}}{{AD}} = \\frac{{OE}}{{DE}}$,\u5373$OF\u00b7DE=OE\u00b7AD$"
+    },
+    {
+        "questionId":"3320DD079EA34CDFA5A9C3DB644C643E",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u25b3ABC\uff0c\u70b9D\u4e3aBC\u7684\u4e2d\u70b9\u3002",
+        "subStem":"(1)\u5c06\u25b3ABC\u7ed5\u7740\u70b9D\u65cb\u8f6c180\u00b0,\u753b\u51fa\u65cb\u8f6c\u540e\u7684\u25b3EBC;",
+        "geoInfo":"{\"coordinates\":{\"D\":\"0,0\",\"A\":\"1,3\",\"B\":\"-3,0\",\"C\":\"3,0\",\"E\":\"1,-3\"},\"collineations\":{\"0\":\"B###A\",\"1\":\"A###C\",\"2\":\"C###D###B\",\"3\":\"B###E\",\"4\":\"E###C\"},\"circles\":[]}",
+        "std":"<img>\n(2)\u56db\u8fb9\u5f62ABEC\u662f\u5e73\u884c\u56db\u8fb9\u5f62\n\u56e0\u4e3a\u4e24\u7ec4\u5bf9\u8fb9\u5206\u522b\u76f8\u7b49\u7684\u56db\u8fb9\u5f62\u662f\u5e73\u884c\u56db\u8fb9\u5f62\n(1)\u6240\u4f5c\u56fe\u5f62\u5982\u4e0b"
+    },
+    {
+        "questionId":"3326A9BF79C944968580D17AD5E27259",
+        "stem":"\u8bbeBD\u548cCE\u662f\u25b3ABC\u7684\u4e24\u6761\u9ad8\uff0c\u76f4\u7ebfBD\u548cCE\u4ea4\u4e8eF\uff0c\u82e5\u2220BAC=60\u00b0\uff0c",
+        "subStem":"\u6c42\u2220BFC.",
+        "geoInfo":"{\"coordinates\":{\"E\":\"1,0\",\"A\":\"-2,0\",\"B\":\"4,0\",\"C\":\"1.0000000000000009,5.196152422706632\",\"D\":\"-0.4999999999999996,2.598076211353316\",\"F\":\"1.0000000000000013,1.7320508075688765\"},\"collineations\":{\"0\":\"A###E###B\",\"1\":\"A###D###C\",\"2\":\"C###B\",\"3\":\"C###F###E\",\"4\":\"B###F###D\"},\"circles\":[]}",
+        "std":"\u2235\u2220BAC=60\u00b0\n\u2234\u2220BFC=120\u00b0\n\u2460\u5982\u56fe1\n\u2234\u2220ECA=30\u00b0\n\u2234\u2220EFD=\u2220ABD+\u2220BEF=30\u00b0+90\u00b0=120\u00b0\n\u89e3:BD\u662fAC\u8fb9\u4e0a\u7684\u9ad8\uff0cCE\u662fAB\u8fb9\u4e0a\u7684\u9ad8\n\u2235\u2220BAC=60\u00b0\n\u2461\u5982\u56fe2\n\u7efc\u4e0a\u6240\u8ff0,\u2220BFC=120\u00b0\u621660\u00b0\n\u2234\u2220ABD=90\u00b0-\u2220BAC=30\u00b0\n<img>\n\u2234\u2220BFC=60\u00b0\n\u2234\u2220DCF=30\u00b0\n<img>"
+    },
+    {
+        "questionId":"33A0A81EF77A4D619C9AC6CBAB5C94EF",
+        "stem":"\u5df2\u77e5:\u5982\u56fe\uff0c\u5728Rt\u25b3ABC\u4e2d\uff0c\u2220C=90\u00b0\uff0cAC=3cm\uff0cBC=4cm\uff0c\u70b9P\u4ece\u70b9B\u51fa\u53d1,\u6cbfBC\u5411\u70b9C\u5300\u901f\u8fd0\u52a8\uff0c\u901f\u5ea6\u4e3a1cm\/s\uff0c\u8fc7\u70b9P\u4f5cPD\u2225AB\uff0c\u4ea4AC\u4e8e\u70b9D\uff0c\u540c\u65f6\uff0c\u70b9Q\u4ece\u70b9A\u51fa\u53d1,\u6cbfAB\u5411\u70b9B\u5300\u901f\u8fd0\u52a8\uff0c\u901f\u5ea6\u4e3a2cm\/s\u3002\u5f53\u4e00\u4e2a\u70b9\u505c\u6b62\u8fd0\u52a8\u65f6\uff0c\u53e6\u4e00\u4e2a\u70b9\u4e5f\u505c\u6b62\u8fd0\u52a8\uff0c\u8fde\u63a5PQ\u3002\u8bbe\u8fd0\u52a8\u65f6\u95f4\u4e3at(s)(0\uff1ct\uff1c2.5)\uff0c\u89e3\u7b54\u4e0b\u5217\u95ee\u9898:",
+        "subStem":"(1)\u5f53t\u4e3a\u4f55\u503c\u65f6,\u56db\u8fb9\u5f62ADPQ\u4e3a\u5e73\u884c\u56db\u8fb9\u5f62?",
+        "geoInfo":"{\"coordinates\":{\"C\":\"0,0\",\"A\":\"0,3\",\"B\":\"4,0\",\"P\":\"3,0\",\"D\":\"0,2.25\",\"Q\":\"1.3979978922536418,1.9515015808097687\"},\"collineations\":{\"0\":\"A###D###C\",\"1\":\"C###P###B\",\"2\":\"B###Q###A\",\"3\":\"Q###P\",\"4\":\"D###P\"},\"circles\":[]}",
+        "std":"\u2220B=\u2220B\n\u2234AB=<img>=5cm\n\u89e3\u5f97,t1=0(\u820d\u53bb),t2=2\n\u2234<img>=<img>,\u5373<img>=<img>\n\u7b54:\u5f53t=<img>\u65f6\uff0c\u56db\u8fb9\u5f62ADPQ\u4e3a\u5e73\u884c\u56db\u8fb9\u5f62\n\u2235S\u25b3PQB=<img>QB\u00d7PE=-<img>t2+<img>t\n\u2234PH=<img>\n\u2234\u25b3BPE\u223d\u25b3BCA\n\u5219y=<img>S\u25b3PQB\n(2)\u8fc7\u70b9P\u4f5cPE\u22a5AB\uff0c\u5782\u8db3\u4e3aE\n\u89e3\u5f97,PE=<img>t\n\u5f53t=2\u65f6,BP=2,BQ=5-4=1\n=<img>\u00d7(<img>+2t)\u00d7<img>t\n\u2220C=\u2220C\n\u2234<img>t2+<img>t=<img>(-<img>t2+<img>t)\n\u2235PD\u2225AB\uff0c\u2234\u5f53PQ\u2225AC\u65f6\uff0c\u56db\u8fb9\u5f62ADPQ\u662f\u5e73\u884c\u56db\u8fb9\u5f62\n\u2234\u2220DPC=\u2220B\n\u2234y=S\u56db\u8fb9\u5f62ADPQ=<img>\u00d7(PD+AQ)\u00d7PE\n<img>\n(1)\u2235\u2220C=90\u00b0\uff0cAC=3cm\uff0cBC=4cm\n\u5219QH=<img>,BH=<img>\n\u2234<img>=<img>,\u5373<img>=<img>\n\u2234\u25b3CPD\u223d\u25b3CBA\n\u4f5cQH\u22a5BC\u4e8eH\n(3)\u82e5\u5b58\u5728\u67d0\u4e00\u65f6\u523b,\u4f7fS\u56db\u8fb9\u5f62ADPQ:S\u25b3PQB=13:2\n=<img>t2+<img>t\n\u89e3\u5f97,t=<img>\n\u2235\u2220PEB=\u2220C=90\u00b0\n\u2234<img>=<img>,\u5373<img>=<img>\n\u2235PD\u2225AB\n\u5219t\u4e3a2s\u65f6,S\u56db\u8fb9\u5f62ADPQA:S\u25b3PQB=13:2\n\u5219PQ=<img>=<img>\n\u89e3\u5f97,PD=<img>"
+    },
+    {
+        "questionId":"345167242E1F45A28FA506160601676E",
+        "stem":"(2013\u6625\u00b7\u5043\u5e08\u5e02\u671f\u672b)\u5982\u56fe\u6240\u793a\uff0cDE\u22a5AB\u4e8e\u70b9E\uff0cDF\u22a5BC\u4e8e\u70b9D\uff0c\u2220AFD=155\u00b0\uff0c\u2220A=\u2220C\uff0c",
+        "subStem":"\u6c42\u2220EDF\u7684\u5ea6\u6570.",
+        "geoInfo":"{\"coordinates\":{\"C\":\"5,0\",\"A\":\"2.8869086912965027,4.531538935183249\",\"B\":\"-0.9155039578812447,0\",\"F\":\"4.058042721102242,2.0200339034205936\",\"D\":\"4.058042721102242,0\",\"E\":\"1.1394457229370496,2.448993664715528\"},\"collineations\":{\"0\":\"A###F###C\",\"1\":\"A###E###B\",\"2\":\"B###D###C\",\"3\":\"F###D\",\"4\":\"E###D\"},\"circles\":[]}",
+        "std":"\u2235\u2220A=\u2220C\n\u2234\u2220A=65\u00b0\n\u2234\u2220EDF=360\u00b0-65\u00b0-90\u00b0-155\u00b0=50\u00b0\n\u89e3:\u2235DE\u22a5AB,DF\u22a5BC\n\u2234\u2220AED=90\u00b0,\u2220FDC=90\u00b0\n\u2234\u2220C=155\u00b0-\u2220FDC=155\u00b0-90\u00b0=65\u00b0\n\u2235\u2220A+\u2220AED+\u2220EDF+\u2220AFD=360\u00b0\n\u2235\u2220AFD=\u2220FDC+\u2220C=155\u00b0"
+    },
+    {
+        "questionId":"3589048FD4D94F28BC62BD18C374E7B5",
+        "stem":"\u5982\u56fe,\u5df2\u77e5\u25b1ABCD\uff0c\u70b9D\u5728AB\u7684\u5ef6\u957f\u7ebf\u4e0a\uff0c\u4f7fAB=BE\uff0c\u8fde\u63a5DE\u3001DB\u3001EC\uff0cDE\u4ea4BC\u4e8e\u70b9O;",
+        "subStem":"(1)\u6c42\u8bc1:\u25b3ABD\u224c\u25b3BEC;",
+        "geoInfo":"{\"coordinates\":{\"O\":\"1.5,0\",\"A\":\"-2,2\",\"B\":\"2,2\",\"C\":\"1,-2\",\"D\":\"-3,-2\",\"E\":\"6,2\"},\"collineations\":{\"0\":\"A###B###E\",\"1\":\"B###O###C\",\"2\":\"C###D\",\"3\":\"D###A\",\"4\":\"D###O###E\",\"5\":\"C###E\",\"6\":\"D###B\"},\"circles\":[]}",
+        "std":"\u2234\u56db\u8fb9\u5f62BECD\u4e3a\u5e73\u884c\u56db\u8fb9\u5f62\n\u2234\u5728\u25b3ABD\u4e0e\u25b3BEC\u4e2d\n(1)\u5728\u5e73\u884c\u56db\u8fb9\u5f62ABCD\u4e2d,\n\u2234\u25b3ABD\u224c\u25b3BEC(SSS)\nBE\u2225CD\n\u53c8\u2235AB=BE\nAD=BC,AB=CD,AB\u2225CD,\n\u2234BD=EC\n\u2234BE=DC\n$\\left\\{ \\begin{array}{l}AB =BE\\\\BD =EC\\\\AD = BC\\end{array} \\right.$"
+    },
+    {
+        "questionId":"35AA3355D2C34B9D9131E0B186EBBCA1",
+        "stem":"\u5982\u56fe\uff0c\u5c06\u25b3ABC\u7ed5\u5176\u9876\u70b9A\u987a\u65f6\u9488\u65cb\u8f6c20\u00b0\u540e\u5f97\u5230\u25b3ADE.",
+        "subStem":"(1)\u8bc1\u660e\u25b3ABC\u224c\u25b3ADE",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"C\":\"-3,0\",\"B\":\"2,5\",\"E\":\"-2.8190778623577253,1.0260604299770062\",\"D\":\"3.5894859582001604,4.014422817278205\"},\"collineations\":{\"0\":\"C###A\",\"1\":\"A###B\",\"2\":\"B###C\",\"3\":\"E###A\",\"4\":\"A###D\",\"5\":\"E###D\"},\"circles\":[]}",
+        "std":"\u2234\u25b3ABC\u224c\u25b3ADE;\n\u89e3:(1)\u2235\u25b3ABC\u7ed5\u5176\u9876\u70b9A\u987a\u65f6\u9488\u65cb\u8f6c\u5f97\u5230\u25b3ADE,\n(2)\u2235\u65cb\u8f6c\u89d2\u4e3a20\u00b0,\n\u2234\u2220BAD=20\u00b0;\n\u2234\u25b3ABC\u7ed5\u9876\u70b9A\u987a\u65f6\u9488\u65cb\u8f6c100\u00b0\u65f6\uff0c\u70b9E\u5728\u7ebf\u6bb5AB\u4e0a,\n(3)\u2235\u2220C=35\u00b0\uff0c\u2220B=45\u00b0,\n\u7efc\u4e0a\u6240\u8ff0\uff0c\u25b3ABC\u7ed5\u9876\u70b9A\u987a\u65f6\u9488\u65cb\u8f6c100\u00b0\u6216280\u00b0\u65f6\uff0c\u70b9E,A,B\u5728\u540c\u4e00\u6761\u76f4\u7ebf\u4e0a.\n\u25b3ABC\u7ed5\u9876\u70b9A\u987a\u65f6\u9488\u65cb\u8f6c280\u00b0\u65f6\uff0c\u70b9E\u5728\u5c04\u7ebfBA\u4e0a,\n\u2234\u2220BAC=180\u00b0-\u2220C-\u2220B=180\u00b0-35\u00b0-45\u00b0=100\u00b0,"
+    },
+    {
+        "questionId":"3654DE342D0F44DBBF1A8967B5F3B3C5",
+        "stem":"\u5982\u56fe\uff0c\u5728\u56db\u8fb9\u5f62ABCD\u4e2d\uff0cAB=BC\uff0cBD\u5e73\u5206\u2220ABC\uff0c\u70b9P\u662fBD\u4e0a\u4e00\u70b9\uff0c\u8fc7P\u4f5cPM\u22a5AD\u4e8e\u70b9M\uff0cPN\u22a5CD\u4e8e\u70b9N\u3002",
+        "subStem":"(1)\u6c42\u8bc1:\u70b9A\u4e0eC\u5173\u4e8e\u76f4\u7ebfBD\u5bf9\u79f0.",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"A\":\"-2,2\",\"B\":\"2,2\",\"C\":\"2,-2\",\"D\":\"-2,-2\",\"P\":\"1,1\",\"M\":\"-2,0.9999999999999999\",\"N\":\"1,-2\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"C###N###D\",\"3\":\"D###M###A\",\"4\":\"D###O###P###B\",\"5\":\"A###O###C\",\"6\":\"P###M\",\"7\":\"P###N\"},\"circles\":[]}",
+        "std":"\u2234\u2220ABD=\u2220CBD,\n\u5728\u25b3ABD\u548c\u25b3CBD\u4e2d,\n\u2235AB=BC,\u2220ABD=\u2220CBD,BD=BD\n\u2234\u2220ADB=\u2220CDB,DA=DC,\n\u2234\u25b3ABD\u224c\u25b3CBD(SAS),\n\u2234\u70b9A\u4e0eC\u5173\u4e8e\u76f4\u7ebfBD\u5bf9\u79f0;\n\u2234BD\u5782\u76f4\u5e73\u5206AC,\n(1)\u8fde\u63a5AC,\n\u2235BD\u5e73\u5206\u2220ABC,"
+    },
+    {
+        "questionId":"36FF74AD1D854A0F88E697543AEFA707",
+        "stem":"\u5df2\u77e5\uff1a\u5982\u56fe\uff0c\u5df2\u77e5\u6b63\u65b9\u5f62ABCD\uff0c\u70b9E\u662fBD\u4e0a\u7684\u70b9\uff0c\u8fde\u63a5AE,CE.",
+        "subStem":"(1)\u6c42\u8bc1\uff1aAE=CE;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"-2.5,2.5\",\"B\":\"2.5,2.5\",\"D\":\"-2.5,-2.5\",\"C\":\"2.5,-2.5\",\"E\":\"1,1\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###C\",\"2\":\"C###D\",\"3\":\"D###A\",\"4\":\"B###E###D\",\"5\":\"A###E\",\"6\":\"E###C\"},\"circles\":[]}",
+        "std":"\u5728\u25b3ABE\u548c\u25b3CBE\u4e2d,\n(1)\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2234AB=CB\uff0c\u2220BAD=\u2220ABC=90\u00b0\uff0c\u2220ABE=\u2220CBE=45\u00b0,\n\u2234AE=CE.\n\u2234\u25b3ABE\u224c\u25b3CBE(SAS),\n\u2235AB=CB\uff0c\u2220ABE=\u2220CBE\uff0cBE=BE"
+    },
+    {
+        "questionId":"376319D6BDE54261B689319D1F6A435D",
+        "stem":"\u5982\u56fe\u6240\u793a\uff0cABCD\u662f\u6b63\u65b9\u5f62\uff0c\u70b9E\u3001F\u5206\u522b\u4e3aAB\u3001BC\u7684\u4e2d\u70b9\uff0cDF,CE\u4ea4\u4e8e\u70b9M\uff0cCE\u7684\u5ef6\u957f\u7ebf\u4ea4DA\u4e8e\u70b9G\uff0c",
+        "subStem":"\u8bc1\u660e\uff1aDF\u22a5CE",
+        "geoInfo":"{\"coordinates\":{\"A\":\"-2.5,2.5\",\"B\":\"2.5,2.5\",\"C\":\"2.5,-2.5\",\"D\":\"-2.5,-2.5\",\"E\":\"0,2.5\",\"F\":\"2.5,0\",\"M\":\"1.5,-0.5\",\"G\":\"-2.5,7.5\"},\"collineations\":{\"0\":\"A###E###B\",\"1\":\"B###F###C\",\"2\":\"C###D\",\"3\":\"D###A###G\",\"4\":\"D###M###F\",\"5\":\"C###M###E###G\"},\"circles\":[]}",
+        "std":"\u2234AB=BC=CD,\u2220B=\u2220DCF=90\u00b0.\n\u2234\u25b3EBC\u224c\u25b3FCD(SAS).\n\u2235\u2220FDC+\u2220DFC=90\u00b0,\n\u2235\u70b9E\u3001F\u5206\u522b\u4e3aAB\u3001BC\u7684\u4e2d\u70b9\n\u2234EB=FC.\n\u2234DF\u22a5CE.\n\u8bc1\u660e\uff1a\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2234\u2220ECB=\u2220FDC.\n\u2234\u2220CMF=90\u00b0.\n\u2234\u2220ECB+\u2220DFC=90\u00b0."
+    },
+    {
+        "questionId":"37AFD40E28D04653A56186B6E268DFB2",
+        "stem":"\u5982\u56fe,Rt\u25b3ABC\u7684\u659c\u8fb9AC\u7684\u4e24\u4e2a\u9876\u70b9\u5728\u53cd\u6bd4\u4f8b\u51fd\u6570$y=\\frac{k_1}{x}$\u7684\u56fe\u8c61\u4e0a\uff0c\u70b9B\u5728\u53cd\u6bd4\u4f8b\u51fd\u6570$y=\\frac{k_2}{x}$\u7684\u56fe\u8c61\u4e0a\uff0cAB\u4e0ex\u8f74\u5e73\u884c\uff0cBC=2\uff0c\u70b9A\u7684\u5750\u6807\u4e3a(1,3).",
+        "subStem":"\u6c42\u70b9C\u7684\u5750\u6807;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"1,3\",\"B\":\"3,3\",\"C\":\"3,1\",\"O\":\"0,0\",\"U\":\"1,0\",\"V\":\"0,1\"},\"collineations\":{},\"functions\":{\"I1:InverseProportionalFunction\":\"y=3\/x\",\"I2:InverseProportionalFunction\":\"y=9\/x\"},\"values\":{\"k1\":\"k1=3\",\"k2\":\"k2=9\"},\"ovalInfo\":{}}",
+        "std":"\u2235BC=2\uff0cAB\u4e0ex\u8f74\u5e73\u884c\uff0cBC\u5e73\u884cy\u8f74\n\u2234\u8fc7A\u70b9\u4e0eC\u70b9\u7684\u53cd\u6bd4\u4f8b\u51fd\u6570\u7684\u89e3\u6790\u5f0f\u4e3a$y=\\frac{3}{x}$\n\u89e3:\u628a\u70b9A(1,3)\u4ee3\u5165\u53cd\u6bd4\u4f8b\u51fd\u6570$y=\\frac{{{k}_{1}}}{x}$\n\u628ax=3\u4ee3\u5165$y=\\frac{3}{x}$\u5f97y=1\n\u2234C\u70b9\u5750\u6807\u4e3a(3,1)\n\u2234B\u70b9\u7684\u5750\u6807\u4e3a(3,3)\uff0cC\u70b9\u7684\u6a2a\u5750\u6807\u4e3a3\n\u5f97${{k}_{1}}=1\\times 3=3$"
+    },
+    {
+        "questionId":"37E3CEF568A34B6BA4AFD65FBE4DF6BD",
+        "stem":"\u5982\u56fe\uff0c\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62\uff0c\u70b9E\u3001F\u4e3a\u5bf9\u89d2\u7ebfAC\u4e0a\u4e24\u70b9\uff0c\u8fde\u63a5ED\u3001EB\u3001FD\u3001FB\uff0cBE\u2225DF.",
+        "subStem":"\u8bc1\u660e\uff1aED\u2225BF",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"1000063532_Q_1.jpg\",\"coordinates\":{\"A\":\"2.35,1.67\",\"B\":\"1.01,-0.32\",\"C\":\"4.05,-0.32\",\"D\":\"5.40,1.67\",\"E\":\"2.84,1.10\",\"F\":\"3.56,0.25\"},\"collineations\":{\"0\":\"A###E###F###C\",\"1\":\"A###B\",\"2\":\"B###C\",\"3\":\"D###C\",\"4\":\"D###A\",\"5\":\"B###E\",\"6\":\"D###E\",\"7\":\"B###F\",\"8\":\"D###F\"},\"variable-equals\":{\"0\":\"\u22201=\u2220DEC\",\"1\":\"\u22202=\u2220AFB\"},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2234\u2220BEA=\u2220DFC\n\u2234ED\u2225BF\n\u2234\u25b3ABE\u224c\u25b3CDF(ASA)\n\u2234AB=CD,AB\u2225CD\n\u2234\u2220BAE=\u2220DCF\n\u2234\u2220BEC=\u2220DFA\n\u2234\u56db\u8fb9\u5f62BFDE\u662f\u5e73\u884c\u56db\u8fb9\u5f62\n\u8bc1\u660e:\u2235BE\u2225DF\n\u2234BE=DF\n\u5728\u25b3ABE\u4e0e\u25b3CDF\u4e2d\n$\\left\\{ \\begin{gathered}   \\angle BEA=\\angle DFC \\\\   AB=CD \\\\   \\angle BAE=\\angle DCF \\\\ \\end{gathered} \\right.$\n\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62"
+    },
+    {
+        "questionId":"3849E31F33524DADA5AF4949820FB18E",
+        "stem":"\u5982\u56fe1\uff0c\u25b3ABC\u4e2d\uff0cAI,BI\u5206\u522b\u5e73\u5206\u2220BAC,\u2220ABC\u3002CE\u662f\u25b3ABC\u7684\u5916\u89d2\u2220ACD\u7684\u5e73\u5206\u7ebf,\u4ea4BI\u5ef6\u957f\u7ebf\u4e8eE\uff0c\u8fde\u63a5CI.",
+        "subStem":"(1) \u82e5AB=1\uff0c\u4e14\u25b3ABC\u4e0e\u25b3ICE\u76f8\u4f3c\uff0c\u6c42\u76f8\u5e94AC\u957f",
+        "geoInfo":"{\"coordinates\":{\"A\":\"0,0\",\"C\":\"2,0\",\"B\":\"0.5,0.8660254\",\"I\":\"0.633974595522961,0.3660254025848193\",\"E\":\"1.3660254044770388,-2.3660254101537004\",\"D\":\"2.9905669576484915,-0.5719040971495454\"},\"collineations\":{\"0\":\"A###C\",\"1\":\"A###B\",\"2\":\"B###C###D\",\"3\":\"I###C\",\"4\":\"B###I###E\",\"5\":\"A###I\",\"6\":\"C###E\"},\"circles\":[]}",
+        "std":"\u2461\u2220ABC=90\u00b0,\u5982\u56fe2,\n\u6613\u8bc1\u2220EIC=45\u00b0\uff0c\u5219\u25b3ABC\u4e3a\u7b49\u8170\u76f4\u89d2\u4e09\u89d2\u5f62\uff0c\u2234AC=AB=1.\n\u2462\u2220ACB=90\u00b0,\u5982\u56fe3\n\u63a8\u51fa\u2220E=\u2220BAC\uff0c\u2234\u25b3ABC\u223d\u25b3ICE\uff0c\u2234\u2220ACB=\u2220E=\u2220BAC\uff0c\u2234\u2220BAC=60\u00b0\uff0c\u2220ACB=30\u00b0\uff0cAC=2AB=2.\n\u2460\u82e5\u2220BAC=90\u00b0,\u5982\u56fe1,\n(2)\u25b3ABC\u4e0e\u25b3ICE\u76f8\u4f3c\uff0c\u6839\u636e\u9898\u610f\u77e5\u2220ICE=90\u00b0\uff0c\u6240\u4ee5\u672c\u9898\u5206\u4e09\u79cd\u60c5\u51b5:\n\u540c2,\u63a8\u51faRt\u25b3ABC\u4e2d\uff0c\u2220BAC=60\u00b0\uff0c\u2220ABC=30\u00b0\uff0c$AC=\\frac{1}{2}AB= \\frac{1}{2}$."
+    },
+    {
+        "questionId":"39C17EE98A354DEDB4F44012B38096AB",
+        "stem":"(1)\u5982\u56fe,\u56db\u8fb9\u5f62ABCD\u4e2d,AB\u2225CD,AD\u2225BC,E\u3001F\u662fAC\u4e0a\u7684\u70b9,CE=AF.\u8bf7\u4f60\u731c\u60f3:BE\u4e0eDF\u6709\u600e\u6837\u7684\u4f4d\u7f6e\u5173\u7cfb\u548c\u6570\u91cf\u5173\u7cfb?\u5e76\u5bf9\u4f60\u7684\u731c\u60f3\u52a0\u4ee5\u8bc1\u660e.#%#<img>",
+        "subStem":null,
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"39C17EE98A354DEDB4F44012B38096AB.jpg\",\"coordinates\":{\"A\":\"2.00,5.00\",\"B\":\"0.00,0.00\",\"C\":\"7.00,0.00\",\"D\":\"9.00,5.00\",\"E\":\"4.00,3.00\",\"F\":\"5.00,2.00\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"A###E###F###C\",\"2\":\"A###D\",\"3\":\"B###C\",\"4\":\"D###C\",\"5\":\"E###B\",\"6\":\"D###F\"},\"variable-equals\":{},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2234\u25b3BCE\u224c\u25b3DAF\n<img>\n\u89e3:\u731c\u60f3:BE\u2225DF,BE=DF\n\u2234BE=DF,\u22203=\u22204\n\u8bc1\u660e:\u5982\u56fe1\n\u2234BE\u2225DF\n\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62\n\u2234BC=AD,\u22201=\u22202\n\u53c8\u2235CE=AF"
+    },
+    {
+        "questionId":"39E8F551525C4C9B88820A81C35BE021",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u70b9A\u3001B\u3001C\u3001D\u5171\u7ebf\uff0c\u7ebf\u6bb5AB\u548cCD\u7684\u516c\u5171\u90e8\u5206$BD=\\frac{1}{3}AB=\\frac{1}{4}CD$\uff0c\u7ebf\u6bb5AB\u7684\u4e2d\u70b9E\uff0c\u7ebf\u6bb5CD\u7684\u4e2d\u70b9F\uff0cEF=10\uff0c",
+        "subStem":"\u6c42\u7ebf\u6bb5AB\u548cCD\u7684\u957f.",
+        "geoInfo":"{\"coordinates\":{\"B\":\"-2,0\",\"D\":\"2,0\",\"A\":\"10,0\",\"C\":\"-14,0\",\"E\":\"4,0\",\"F\":\"-6,0\"},\"collineations\":{\"0\":\"C###F###B###D###E###A\"},\"circles\":[]}",
+        "std":"$CF=\\frac{1}{2}CD=\\frac{1}{2}\\times 4x=2x$\n\u6240\u4ee5$EF=AC-AE-CF=6x-1.5x-2x=2.5x$\n\u56e0\u4e3a$EF=10$\n\u5219$AB=3x$,$CD=4x$,$AC=3x+4x-x=6x$\n\u56e0\u4e3a\u70b9E\u3001\u70b9F\u5206\u522b\u4e3aAB\u3001CD\u7684\u4e2d\u70b9\n\u6240\u4ee5$AE=\\frac{1}{2}AB=\\frac{1}{2}\\times 3x=1.5x$\n\u6240\u4ee5$2.5x=10$,\u8ba1\u7b97\u5f97\u51fa:$x=4$\n\u6240\u4ee5$AB=3\u00d74=12$,$CD=4\u00d74=16$\n\u89e3:\u8bbe$BD=x$"
+    },
+    {
+        "questionId":"3AD5759FF84443249EEA03838AF3ADE5",
+        "stem":"(2017\u00b7\u6cb3\u5357)\u5982\u56fe\uff0c\u5728\u25b3ABC\u4e2d\uff0cAB=AC\uff0cAB\u4e3a\u5706O\u7684\u76f4\u5f84\uff0cAC\u4ea4\u5706O\u4e8e\u70b9D\uff0c\u8fc7\u70b9C\u4f5cCF\u2225AB\uff0cBF\u662f\u5706O\u7684\u5207\u7ebf\uff0c\u8fde\u63a5BD.",
+        "subStem":"(1)\u6c42\u8bc1:BD=BF;",
+        "geoInfo":"{\"coordinates\":{\"D\": \"7.15,3.58\",\n\t\t\"A\": \"4.47,8.94\",\n\t\t\"B\": \"0,0\",\n\t\t\"C\": \"8.94,0\",\n\t\t\"O\": \"2.33,4.47\",\n\t\t\"F\": \"7.15,-3.58\"},\"collineations\":{\"0\":\"A###O###B\",\"1\":\"B###C\",\"2\":\"C###D###A\",\"3\":\"B###D\",\"4\":\"B###F\",\"5\":\"C###F\"},\"circles\":[\n{\"id\":18,\"center\":\"O\",\"pointincircle\":\"B###A###D\"}]}",
+        "std":"\u2234AB\u22a5BF\n\u2234BD=BF\n(1)\u8bc1\u660e:\u2235AB\u662f\u2299O\u7684\u76f4\u5f84\n\u2234CF\u22a5BF,\u2220FCB=\u2220ABC\n\u2234\u2220BDA=90\u00b0,BD\u22a5AC,\u2220BDC=90\u00b0\n\u2234\u2220ACB=\u2220FCB\n\u2234\u2220ACB=\u2220ABC\n\u2235BD\u22a5AC,BF\u22a5CF\n\u2235BF\u662f\u2299O\u5207\u7ebf\n\u2235CF\u2225AB\n\u2235AB=AC"
+    },
+    {
+        "questionId":"3BEDD6A2E274409C99BECCFF6C7A3DC1",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5$\\vartriangle ABC$\uff0c\u4ee5BC\u4e3a\u5706O\u76f4\u5f84\uff0cO\u4e3a\u5706\u5fc3\u7684\u5706\u4ea4AC\u4e8e\u70b9F\uff0c\u70b9E\u4e3a$\\overset\\frown{CF}$\u7684\u4e2d\u70b9\uff0c\u8fde\u63a5BE\u4ea4AC\u4e8e\u70b9M\uff0cAD\u4e3a$\u2220BAC$\u7684\u89d2\u5e73\u5206\u7ebf\uff0c\u4e14$AD\\bot BE$\uff0c\u5782\u8db3\u4e3a\u70b9H",
+        "subStem":"(1)\u6c42\u8bc1:AB\u662f\u534a\u5706O\u7684\u5207\u7ebf",
+        "geoInfo":"{\"coordinates\":{\"O\":\"2,0\",\"B\":\"0,0\",\"A\":\"0,3\",\"C\":\"4,0\",\"F\":\"1.44,1.92\",\"E\":\"3.2,1.6\",\"M\":\"2.4000000000000004,1.2000000000000002\",\"D\":\"1.5000000000000002,0\",\"H\":\"1.2000000000000002,0.6000000000000001\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###D###O###C\",\"2\":\"C###M###F###A\",\"3\":\"B###H###M###E\",\"4\":\"A###H###D\",\"5\":\"E###C\"},\"circles\":[{\"id\":23,\"center\":\"O\",\"pointincircle\":\"B###F###E###C\"}]}",
+        "std":"\u2234$\u22203=\u22205$\n\u2234$\u22202+\u22204=\u22206+\u22205=\u22203+\u22207=90\u00b0$\n\u2234$EC\u22a5AD$\n(1)\u8bc1\u660e:\u8fde\u7ed3$EC$\n\u2234$\u22202=\u22206$\n\u53c8\u2235$EC\u22a5BE$\n\u2234$AB$\u4e3a\u534a\u5706$O$\u7684\u5207\u7ebf\n\u2234$AB\u22a5BC$\n\u53c8\u2235$\u22204=\u22205$\n\u2234$\u22203=\u22204$\n\u2234$\u22206=\u22207$\n\u2235$AD$\u5e73\u5206$\u2220BAC$,$AD\u22a5EB$"
+    },
+    {
+        "questionId":"3C450422CDAA44DC87E20B80ACBEDE07",
+        "stem":"\u5df2\u77e5\u4e8c\u6b21\u51fd\u6570$y=a{{x}^{2}}+bx+c$\u7684\u56fe\u8c61\u7ecf\u8fc7\u70b9A(-2,9),B(0,3)\u548cC(4,3).",
+        "subStem":"(1)\u6c42\u8be5\u4e8c\u6b21\u51fd\u6570\u7684\u8868\u8fbe\u5f0f\uff0c\u5e76\u6c42\u51fa\u5b83\u7684\u9876\u70b9M\u7684\u5750\u6807;",
+        "geoInfo":"{\"coordinates\":{\"A\":\"-2,9\",\"B\":\"0,3\",\"C\":\"4,3\",\"M\":\"2,1\",\"O\":\"0,0\",\"U\":\"1,0\",\"V\":\"0,1\"},\"collineations\":{},\"functions\":{\"P:Parabola\":\"y=(1\/2)*x^2-2*x+3\"},\"values\":{\"a\":\"a=1\/2\",\"b\":\"b=-2\",\"c\":\"c=3\"},\"ovalInfo\":{}}",
+        "std":"\u89e3:(1)\u628a\u5750\u6807(-2,9)\u3001\u5750\u6807(0,3)\u3001\u5750\u6807(4,3)\u4ee3\u5165\u51fd\u6570y=ax2+bx+c\u4e2d,\u5f97\n\u2234\u6240\u6c42\u4e8c\u6b21\u51fd\u6570\u89e3\u6790\u5f0f\u662f$y=\\frac{1}{2x2-2x+3}$\n\u2234\u6b64\u629b\u7269\u7ebf\u7684\u9876\u70b9M\u4e3a(2,1)\n\u2234y=$\\frac{1}{2}(x-2)2+1$\n$\\left\\{ \\begin{matrix}\n   4a-2b+c=9  \\\\\n   3=c  \\\\\n   16a+4b+c=3  \\\\\n\\end{matrix} \\right.$\n\u89e3\u5f97$\\left\\{ \\begin{matrix}\n   a=\\frac{1}{2}  \\\\\n   b=-2  \\\\\n   c=3  \\\\\n\\end{matrix} \\right.$"
+    },
+    {
+        "questionId":"3D33DBA6B8F2403FB5723C8D6733F2E5",
+        "stem":"2016\u6625\u2219\u67d8\u57ce\u53bf\u6821\u7ea7\u671f\u4e2d\u5982\u56fe\uff0c\u5df2\u77e5\u6b63\u65b9\u5f62ABCD\uff0c\u8fc7BD\u4e0a\u4e00\u70b9P\uff0c\u4f5cPE\u22a5BC\u4e8e\u70b9E\uff0cPF\u22a5CD\u4e8e\u70b9F\uff0c\u8fde\u63a5AP\u3001EF\u3001PE",
+        "subStem":"\u6c42\u8bc1:$AP=EF$",
+        "geoInfo":"{\"coordinates\":{\"A\":\"-2.5,2.5\",\"B\":\"2.5,2.5\",\"C\":\"2.5,-2.5\",\"D\":\"-2.5,-2.5\",\"P\":\"1,1\",\"E\":\"2.5,1.00\",\"F\":\"1,-2.5\"},\"collineations\":{\"0\":\"A###B\",\"1\":\"B###E###C\",\"2\":\"C###F###D\",\"3\":\"D###A\",\"4\":\"D###P###B\",\"5\":\"A###P\",\"6\":\"E###F\",\"7\":\"P###F\",\"8\":\"P###E\",\"9\":\"P###C\",\"8\":\"A###C\"},\"circles\":[]}",
+        "std":"\u2234\u56db\u8fb9\u5f62PECF\u662f\u77e9\u5f62,\n\u2234\u2220PEC=\u2220PFC=90\u00b0,\n\u2235PE\u22a5BC\uff0cPF\u22a5CD,\n\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2234AP=EF.\n\u2234BD\u5782\u76f4\u5e73\u5206AC\uff0c\u2220BCD=90\u00b0,\n\u8bc1\u660e:\u8fde\u63a5AC,PC,\n\u2234AP=CP,\n\u2234PC=EF,"
+    },
+    {
+        "questionId":"3D47F51796AA4186A5F3209061AE6B4B",
+        "stem":"\u5982\u56fe\uff0c\u5df2\u77e5\u6b63\u65b9\u5f62ABCD\uff0cAC\u4e0eBD\u76f8\u4ea4\u4e8e\u70b9O\uff0c\u70b9E,F\u5206\u522b\u662fAB\u4e0eBC\u4e0a\u7684\u70b9\uff0c\u4e14BE=CF\uff0c\u8fde\u63a5OE\u3001OF.",
+        "subStem":"\u6c42\u8bc1:OE\u22a5OF.",
+        "geoInfo":"{\"coordinates\":{\"O\":\"0,0\",\"A\":\"-2.5,2.5\",\"B\":\"2.5,2.5\",\"C\":\"2.5,-2.5\",\"D\":\"-2.5,-2.5\",\"E\":\"1.5,2.5\",\"F\":\"2.5,-1.5\"},\"collineations\":{\"0\":\"A###E###B\",\"1\":\"B###F###C\",\"2\":\"C###D\",\"3\":\"D###A\",\"4\":\"A###O###C\",\"5\":\"B###O###D\",\"6\":\"O###E\",\"7\":\"O###F\"},\"circles\":[]}",
+        "std":"\u2235\u2220EOB+\u2220BOF=\u2220EOF,\u2220COF+\u2220BOF=\u2220BOC=90\u00b0,\n\u2234\u2220BOC=90\u00b0,\n\u8bc1\u660e:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\n\u2234\u2220EOF=\u2220BOC=90\u00b0,\n\u2234\u2220BOE=\u2220COF,\n\u2234OB=OC,\u2220OBE=\u2220OCF,AC\u22a5BD,\n\u2234OE\u22a5OF.\n\u2234\u25b3OBE\u224c\u25b3OCF,\n\u2235BE=CF,\n\u2235AC\u22a5BD,"
+    },
+    {
+        "questionId":"3D8403F4D5F8480B80A6CB35F0B598B1",
+        "stem":"\u5982\u56fe\uff0c\u22201=\u2220ACB\uff0c\u22202=\u22203\uff0c",
+        "subStem":"\u6c42\u8bc1:\u2220BDC+\u2220DGF=180\u00b0.",
+        "geoInfo":"{\"stem\":{\"pictures\":[{\"picturename\":\"1000063471_Q_1.jpg\",\"coordinates\":{\"A\":\"4.32,0.40\",\"B\":\"1.67,-2.01\",\"C\":\"5.72,-2.01\",\"D\":\"3.18,-0.64\",\"E\":\"4.92,-0.64\",\"F\":\"3.71,-2.01\",\"G\":\"2.43,-1.32\"},\"collineations\":{\"0\":\"B###A###G###D\",\"1\":\"E###A###C\",\"2\":\"F###B###C\",\"3\":\"G###F\",\"4\":\"C###D\",\"5\":\"E###D\"},\"variable-equals\":{\"0\":\"\u22201=\u2220AED\",\"1\":\"\u22202=\u2220CDE\",\"2\":\"\u22203=\u2220BFG\"},\"circles\":[]}],\"appliedproblems\":{}},\"substems\":[]}",
+        "std":"\u2234\u22203=\u2220DCF\n\u2234DE\u2225BC\n\u2235\u22202=\u22203\n\u2234\u2220BDC+\u2220DGF=180\u00b0\n\u89e3:\u2235\u22201=\u2220ACB\n\u2234\u22202=\u2220DCF\n\u2234CD\u2225FG"
+    },
+    {
+        "questionId":"3E0A6CBE4601493486BBC77FB6DBC320",
+        "stem":"(2017\u00b7\u69d0\u836b)\u5982\u56fe\uff0c\u70b9E,F\u5728AC\u4e0a\uff0cAB\u2225CD\uff0cAB=CD\uff0cAE=CF\uff0c\u8fde\u63a5BF\u3001DE",
+        "subStem":"\uff0c\u6c42\u8bc1:\u25b3ABF\u224c\u25b3DCE.",
+        "geoInfo":"{\"coordinates\":{\"A\":\"-3,0\",\"C\":\"3,0\",\"E\":\"-1,0\",\"F\":\"1,0\",\"B\":\"-3,2\",\"D\":\"3,2\"},\"collineations\":{\"0\":\"A###E###F###C\",\"1\":\"B###A\",\"2\":\"B###F\",\"3\":\"E###D\",\"4\":\"D###C\"},\"circles\":[]}",
+        "std":"\u2234\u25b3ABF\u224c\u25b3CDE(SAS)\n$\\left\\{ \\begin{array}{l}AB = DC\\\\\\angle A = \\angle C\\\\AF = CE\\end{array} \\right.$\n\u2235AE=CF\n\u5728\u25b3ABF\u548c\u25b3DCE\u4e2d\n\u2234AF=CE\n\u8bc1\u660e:\u2235AB\u2225CD\n\u2234\u2220A=\u2220C"
+    },
+    {
+        "questionId":"3E220BFD159A4C42977A48C5EE7D3CE8",
+        "stem":"\u5df2\u77e5: \u7b49\u8170Rt\u25b3ABC\u548c\u7b49\u8170Rt\u25b3BDE\uff0c\u2220BDE=\u2220ACB=90\u00b0\uff0c\u8fde\u63a5AE\uff0c\u53d6AE\u7684\u4e2d\u70b9F\uff0c\u8fdeCF\u3001DF.",
+        "subStem":"(1) \u8bc1\u660e\uff1aCF=DF. ",
+        "geoInfo":"{\"coordinates\":{\"B\":\"0,0\",\"C\":\"2,0\",\"A\":\"2,2\",\"D\":\"4,4\",\"E\":\"8,0\",\"F\":\"5,1\"},\"collineations\":{\"0\":\"B###C###E\",\"1\":\"C###A\",\"2\":\"B###A###D\",\"3\":\"D###E\",\"4\":\"A###F###E\",\"5\":\"D###F\",\"6\":\"F###C\"},\"circles\":[]}",
+        "std":"$\\therefore \\angle D F C=\\angle D F A+\\angle A F C =2(\\angle F E C+\\angle F E D)=2 \\times 45^{\\circ}=90^{\\circ}$ \n$\\therefore$ C F=D F=F E\n$ \\because$ CF\u3001DF  \u90fd\u662f\u659c\u8fb9 $ A E $ \u7684\u4e2d\u7ebf\uff0c\n$\\therefore \\angle F C E=\\angle F E C$, $\\angle F D E=\\angle F E D $"
+    }
+]
